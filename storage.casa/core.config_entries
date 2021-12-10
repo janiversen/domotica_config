@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "ef97853b6415a9c6509367a1dd2bcf6f",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "88cd83bab1c2064a26c3ea194f2bcdff",
+        "version": 1,
+        "domain": "pyscript",
+        "title": "pyscript",
+        "data": {
+          "hass_is_global": true,
+          "apps": {
+            "solar": null,
+            "boiler": null
+          },
+          "allow_all_imports": false
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": "pyscript",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5d52cd76974881627507b8269a4c6f20",
+        "version": 1,
+        "domain": "bluetooth",
+        "title": "DC:A6:32:E7:E2:C0",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "integration_discovery",
+        "unique_id": "DC:A6:32:E7:E2:C0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "47c96c359b1f28b5cf28fd64ba920af7",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Calentador ",
+        "data": {
+          "host": "192.168.10.21",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D4C1AC",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "ec15fa09902ffc049b6aa16814bd25fa",
+        "version": 1,
+        "domain": "shelly",
+        "title": "shelly-floor-lamp",
+        "data": {
+          "host": "192.168.10.26",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "E8DB84D50A7B",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a5adf0a8c0ae5c02b88e5214c982a4a7",
+        "version": 1,
+        "domain": "shelly",
+        "title": "shelly-door",
+        "data": {
+          "host": "192.168.10.24",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "C45BBE6A99D2",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "13e772be00fd130b40a04ee27bea7ada",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPad",
+        "data": {
+          "os_version": "16.6",
+          "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
+          "supports_encryption": true,
+          "manufacturer": "Apple",
+          "app_version": "2023.4 (2023.460)",
+          "app_name": "Home Assistant",
+          "os_name": "iPadOS",
+          "app_data": {
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "model": "iPad13,1",
+          "app_id": "io.robbie.HomeAssistant",
+          "device_name": "Jan iPad",
+          "webhook_id": "a065840a39aadefc576c9d0f9ca6221b00c8ed69725f2c7d4ee2275d288b620e",
+          "secret": "4327a7a6e27cbe5f8fb25a9b63e1448053a15f94671554368e56a30bb0bdfe76",
+          "user_id": "ed70ab6a13a446c1b44264130dea193c",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-7719C43E-E09F-4531-9FA5-0F33706DFA45",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8456156660e07dcaf4aaa7db08dc052d",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPhone",
+        "data": {
+          "os_version": "16.6",
+          "supports_encryption": true,
+          "os_name": "iOS",
+          "device_name": "Jan iPhone",
+          "app_version": "2023.4 (2023.460)",
+          "device_id": "F58C2020-EC0D-4537-9730-6EFD689750CB",
+          "app_name": "Home Assistant",
+          "app_id": "io.robbie.HomeAssistant",
+          "app_data": {
+            "push_token": "cxnBfG3rekXdkxH4cPPPea:APA91bESnK8fgUZkznpRR5QNBeh4UnvRRChRHFB4DfzjiP6oG6GFVLh10q_vsOWG74cIubfhalZGf4T9DcSsc5HQczFh9D5LwQtNGEntFa0qZ3ws_7UHIXLeXAIocVvT6vhPjcJltw5G",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "manufacturer": "Apple",
+          "model": "iPhone12,8",
+          "webhook_id": "1bd226cb0db84fd6439b1f6f0193ca0dd2003c5950adafb01d244c887a08b6fd",
+          "secret": "57fad423ba54413aab8ba542cee814b378879a434d22fc241de1345c272d721a",
+          "user_id": "ed70ab6a13a446c1b44264130dea193c",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-F58C2020-EC0D-4537-9730-6EFD689750CB",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "71a73a5b8cb18fe2177afe354552feab",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": " Belén iPhone",
+        "data": {
+          "app_version": "2023.4 (2023.460)",
+          "device_name": " Belén iPhone",
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "edp5INs5V0I7g2w2MG_2hX:APA91bHz6X_RIJ0DxxZ_4d3lrS_OP6I-j0XizgcsY_ismN1YDpwZ8lh09kPoEgt7-2D-gHg1tSBRAIprgTmQEZR7ZD1XnT_81RQ7JtIjDY_oUOXMko3vB6xRTayK9Qx9yl1_YcIXerzr"
+          },
+          "device_id": "F163E1EF-7EA0-40F1-BA0E-B11930A27A25",
+          "app_name": "Home Assistant",
+          "model": "iPhone12,8",
+          "os_name": "iOS",
+          "manufacturer": "Apple",
+          "os_version": "16.6",
+          "app_id": "io.robbie.HomeAssistant",
+          "supports_encryption": true,
+          "webhook_id": "c24da20af4c0a97896c43ae2ab508407cacdd6ed6e278a8e822f80151c3a9bde",
+          "secret": "94b02b7393ebbb7afd71f1c3d9e1d3398471a182a4a7aebf3f163739603574d0",
+          "user_id": "d62bf55e9b61470ea74352e4d5643095",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-F163E1EF-7EA0-40F1-BA0E-B11930A27A25",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d417086f90a354f36fed962696ae1167",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Belén iPad",
+        "data": {
+          "model": "iPad6,3",
+          "os_name": "iPadOS",
+          "os_version": "16.6",
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "dCiJvjYaIUz5msR48hGMKU:APA91bHXABXj0tWOeRO-kRGgwjxKbxsPnFCNCvewbjfhu6xRGKL5luCwVmYr6MiRueYPGxfqNtwdM-PXwKdfwVitNGsb5wBvINNh8yP5CV_4uXGRRrjZ66mQhGUb-XKXw62z04oktkDG"
+          },
+          "supports_encryption": true,
+          "app_id": "io.robbie.HomeAssistant",
+          "app_version": "2023.4 (2023.460)",
+          "manufacturer": "Apple",
+          "device_id": "ECD1C139-FF0B-4F98-A49C-7AD0F25B337A",
+          "app_name": "Home Assistant",
+          "device_name": "Belén iPad",
+          "webhook_id": "92040952a31e9550ba541deb32b4bbc047ddf1b72a4f38edbd44706c7510962b",
+          "secret": "eed8f21556dd72d7cdfa4228ca272b373219cd3bac5fe6ef87222d8be9db574a",
+          "user_id": "d62bf55e9b61470ea74352e4d5643095",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-ECD1C139-FF0B-4F98-A49C-7AD0F25B337A",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "9651f613a53bc87552a9c5fe5fca7833",
+        "version": 1,
+        "domain": "ios",
+        "title": "Home Assistant iOS",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "ios",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "2ac0c6194176e9d94fcd7c3ce03c2a76",
+        "version": 1,
+        "domain": "ecowitt",
+        "title": "Ecowitt",
+        "data": {
+          "webhook_id": "2c7cbdf4de4426edc98453f0385b2249"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "ed286e897247f409603b60d41a55c5fb",
+        "version": 1,
+        "domain": "ecowitt",
+        "title": "Ecowitt",
+        "data": {
+          "webhook_id": "98aa214b2da9583f81706ea5d137a8a1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "6b373028b6138ab389b19ddb67bfca9e",
+        "version": 1,
+        "domain": "melcloud",
+        "title": "jancasacondor@gmail.com",
+        "data": {
+          "username": "jancasacondor@gmail.com",
+          "token": "4CFADEAF80A24A8A9960A2B7E57D11"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "jancasacondor@gmail.com",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "0f31b9983e440ceb403732312435db51",
+        "version": 1,
+        "domain": "dlna_dmr",
+        "title": "[TV] Samsung 7 Series (40)",
+        "data": {
+          "url": "http://192.168.10.17:9197/dmr",
+          "device_id": "uuid:fcceb520-5e68-42a3-b508-f031025e3732",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1",
+          "mac": "70:2a:d5:d7:56:db"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "uuid:fcceb520-5e68-42a3-b508-f031025e3732",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1afd2f9538238352d36a1571b111c6a4",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "MacMini",
+        "data": {
+          "supports_encryption": true,
+          "app_data": {
+            "push_token": "fqjWXxkIfEXQvBB_qvThoR:APA91bGMOGDmeAjAAeAOILvmXvAd1s7IsvaeqlnvXo_Hd0Wuk_3IHrhhH2HLqZQLhne4tRy4sdIFz_pqBzMMTfe0dFhMLAy6RuJdG5JNUwuraEdQKlp8gXcu4H_WIJMvQtEW1yqDRRZB",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "device_id": "D379A573-6103-5AF8-AD80-B46259F65DE0",
+          "app_id": "io.robbie.HomeAssistant",
+          "os_name": "macOS",
+          "model": "Macmini9,1",
+          "device_name": "MacMini",
+          "app_name": "Home Assistant",
+          "os_version": "13.5.1",
+          "manufacturer": "Apple",
+          "app_version": "2023.4 (2023.460)",
+          "webhook_id": "6c075d3fe93a5cd7bc8c9a6a0bd74c571693d654e3e5ae127b33f8e784a5bb4f",
+          "secret": "0f98406434a92480bd052a208b154f398222d68165427f180f38d5aaad896697",
+          "user_id": "ed70ab6a13a446c1b44264130dea193c",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-D379A573-6103-5AF8-AD80-B46259F65DE0",
+        "disabled_by": null
+      }
+    ]
+  }
+}

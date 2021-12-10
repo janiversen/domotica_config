@@ -1,0 +1,18 @@
+alias: Alert internet
+description: ''
+trigger:
+  - platform: state
+    entity_id: binary_sensor.internet
+    from: 'on'
+    to: 'off'
+    for:
+      minutes: 10
+condition: []
+action:
+  - service: notify.mail
+    data:
+      title: Internet not reachable
+      message: Power/Internet is down!
+      target:
+        - "jan@casacondor.com"
+mode: single

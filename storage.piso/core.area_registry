@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "name": "Salon",
+        "id": "salon",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Cocina",
+        "id": "cocina",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Dormitorio",
+        "id": "dormitorio",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Bano",
+        "id": "bano",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Libraria",
+        "id": "libraria",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Cristalera",
+        "id": "cristalera",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Vestidor",
+        "id": "vestidor",
+        "picture": null,
+        "aliases": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+#
+# Allow notify to send mail
+#
+notify:
+  - name: "mail"
+    platform: smtp
+    server: "smtp.gmail.com"
+    port: 587
+    timeout: 15
+    sender: "jancasacondor@mail.com"
+    encryption: starttls
+    username: !secret gmail_user
+    password: !secret gmail_password
+    recipient:
+      - "jan@casacondor.com"
+    sender_name: "DOMOTICA"

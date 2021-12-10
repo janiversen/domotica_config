@@ -1,0 +1,2236 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "person.jan",
+        "state": "home",
+        "attributes": {
+          "editable": true,
+          "id": "jan",
+          "latitude": 36.949127197265625,
+          "longitude": -3.556344104258937,
+          "gps_accuracy": 75,
+          "source": "device_tracker.jan_ipad",
+          "user_id": "ed70ab6a13a446c1b44264130dea193c",
+          "device_trackers": [
+            "device_tracker.jan_ipad",
+            "device_tracker.macmini"
+          ],
+          "friendly_name": "Jan"
+        },
+        "last_changed": "2023-09-03T16:23:32.048500+00:00",
+        "last_updated": "2023-09-03T19:37:46.950270+00:00",
+        "context": {
+          "id": "01H9E8T7P6268N2PP269NME2NV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.belen",
+        "state": "home",
+        "attributes": {
+          "editable": true,
+          "id": "belen",
+          "latitude": 36.949432373046875,
+          "longitude": -3.556739029444294,
+          "gps_accuracy": 11.162777295860893,
+          "source": "device_tracker.belen_ipad",
+          "user_id": "d62bf55e9b61470ea74352e4d5643095",
+          "device_trackers": [
+            "device_tracker.belen_iphone",
+            "device_tracker.belen_ipad"
+          ],
+          "friendly_name": "Belen"
+        },
+        "last_changed": "2023-09-03T16:23:32.048788+00:00",
+        "last_updated": "2023-09-03T16:23:42.796958+00:00",
+        "context": {
+          "id": "01H9DXPWECXX0TQY0KY4J4HZJQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alert_ha",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Alert HA"
+        },
+        "last_changed": "2023-09-03T16:23:32.902934+00:00",
+        "last_updated": "2023-09-03T16:23:32.902934+00:00",
+        "context": {
+          "id": "01H9DXPJS69N4EEMF3Q7SM06XH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alert_internet",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Alert internet"
+        },
+        "last_changed": "2023-09-03T16:23:32.903293+00:00",
+        "last_updated": "2023-09-03T16:23:32.903293+00:00",
+        "context": {
+          "id": "01H9DXPJS7R6DJM0MKTWWWZJ9A",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.battery_door_casa",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Battery door casa"
+        },
+        "last_changed": "2023-09-03T16:23:32.903578+00:00",
+        "last_updated": "2023-09-03T16:23:32.903578+00:00",
+        "context": {
+          "id": "01H9DXPJS7MC5TET8STHTZ0XEP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.battery_door_casa_2",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Battery door casa"
+        },
+        "last_changed": "2023-09-03T16:23:32.903847+00:00",
+        "last_updated": "2023-09-03T16:23:32.903847+00:00",
+        "context": {
+          "id": "01H9DXPJS7JB11YYRM0CV0JH2J",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.battery_door_casa_3",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Battery door casa"
+        },
+        "last_changed": "2023-09-03T16:23:32.904115+00:00",
+        "last_updated": "2023-09-03T16:23:32.904115+00:00",
+        "context": {
+          "id": "01H9DXPJS8QC3YVS8AGAYM8MW7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.battery_flood_casa",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Battery flood casa"
+        },
+        "last_changed": "2023-09-03T16:23:32.904381+00:00",
+        "last_updated": "2023-09-03T16:23:32.904381+00:00",
+        "context": {
+          "id": "01H9DXPJS8DVV965V1NKPDF7K2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.new_automation",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "New Automation"
+        },
+        "last_changed": "2023-09-03T16:23:32.904614+00:00",
+        "last_updated": "2023-09-03T16:23:32.904614+00:00",
+        "context": {
+          "id": "01H9DXPJS8NRS2DKDD7B8Y6H0Q",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.alert_1",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "bits",
+          "friendly_name": "Alert 1"
+        },
+        "last_changed": "2023-09-03T17:19:13.163451+00:00",
+        "last_updated": "2023-09-03T17:19:13.163451+00:00",
+        "context": {
+          "id": "01H9E0WGRBWNG6G67GC94PBP9N",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "bits"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.alert_2",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "bits",
+          "friendly_name": "Alert 2"
+        },
+        "last_changed": "2023-09-03T17:19:13.167693+00:00",
+        "last_updated": "2023-09-03T17:19:13.167693+00:00",
+        "context": {
+          "id": "01H9E0WGRF83PSMDHC9P8KXEKX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "bits"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.alert_3",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "bits",
+          "friendly_name": "Alert 3"
+        },
+        "last_changed": "2023-09-03T17:19:13.170257+00:00",
+        "last_updated": "2023-09-03T17:19:13.170257+00:00",
+        "context": {
+          "id": "01H9E0WGRJ18AKCEFXHFCHF19A",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "bits"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.pv1_voltage",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "Volt",
+          "friendly_name": "PV1 voltage"
+        },
+        "last_changed": "2023-09-03T17:19:13.142015+00:00",
+        "last_updated": "2023-09-03T17:19:13.142015+00:00",
+        "context": {
+          "id": "01H9E0WGQPPJ5X4HXADGPY4CST",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "Volt"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.pv1_current",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "Amp",
+          "friendly_name": "PV1 current"
+        },
+        "last_changed": "2023-09-03T17:19:13.145650+00:00",
+        "last_updated": "2023-09-03T17:19:13.145650+00:00",
+        "context": {
+          "id": "01H9E0WGQSNEFWW35214ZDJHK0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "Amp"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.pv2_voltage",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "Volt",
+          "friendly_name": "PV2 voltage"
+        },
+        "last_changed": "2023-09-03T17:19:13.148790+00:00",
+        "last_updated": "2023-09-03T17:19:13.148790+00:00",
+        "context": {
+          "id": "01H9E0WGQW792QXCR0WDYVJSMW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "Volt"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.pv2_current",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "Amp",
+          "friendly_name": "PV2 current"
+        },
+        "last_changed": "2023-09-03T17:19:13.151239+00:00",
+        "last_updated": "2023-09-03T17:19:13.151239+00:00",
+        "context": {
+          "id": "01H9E0WGQZF0DJJK33TJWS3DZC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "Amp"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.solar_power",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "kW",
+          "friendly_name": "Solar power"
+        },
+        "last_changed": "2023-09-03T17:19:13.153741+00:00",
+        "last_updated": "2023-09-03T17:19:13.153741+00:00",
+        "context": {
+          "id": "01H9E0WGR1SDJ8V6VG62JAY2QB",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "kW"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.peak_production",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "W",
+          "friendly_name": "Peak production"
+        },
+        "last_changed": "2023-09-03T17:19:13.172726+00:00",
+        "last_updated": "2023-09-03T17:19:13.172726+00:00",
+        "context": {
+          "id": "01H9E0WGRM7DP8Q944FG3WXRF0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.production",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "W",
+          "friendly_name": "Production"
+        },
+        "last_changed": "2023-09-03T17:19:13.156631+00:00",
+        "last_updated": "2023-09-03T17:19:13.156631+00:00",
+        "context": {
+          "id": "01H9E0WGR4212333ZR65SQDTPS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.daily_energy_yield",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "kWh",
+          "friendly_name": "Daily energy yield"
+        },
+        "last_changed": "2023-09-03T17:19:13.175225+00:00",
+        "last_updated": "2023-09-03T17:19:13.175225+00:00",
+        "context": {
+          "id": "01H9E0WGRQ0GHWZ7TTZFPYPEX8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "kWh"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.power_meter",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "W",
+          "friendly_name": "Power meter"
+        },
+        "last_changed": "2023-09-03T17:19:13.159064+00:00",
+        "last_updated": "2023-09-03T17:19:13.159064+00:00",
+        "context": {
+          "id": "01H9E0WGR72HJFAFDHB896STYA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.casa_consumo_2",
+        "state": "unknown",
+        "attributes": {
+          "unit_of_measurement": "Wh",
+          "device_class": "energy",
+          "friendly_name": "casa_consumo"
+        },
+        "last_changed": "2023-09-03T16:23:33.286171+00:00",
+        "last_updated": "2023-09-03T16:23:33.286171+00:00",
+        "context": {
+          "id": "01H9DXPK56E6KN5FE4XAWZCZJ8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "Wh"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "switch.vamos_a_estar",
+        "state": "unknown",
+        "attributes": {
+          "friendly_name": "vamos_a_estar"
+        },
+        "last_changed": "2023-09-03T16:23:33.287501+00:00",
+        "last_updated": "2023-09-03T16:23:33.287501+00:00",
+        "context": {
+          "id": "01H9DXPK579GD4JPC6SVK869HK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.shelly_door_door",
+        "state": "on",
+        "attributes": {
+          "device_class": "opening",
+          "friendly_name": "shelly-door door"
+        },
+        "last_changed": "2023-09-03T16:36:51.903246+00:00",
+        "last_updated": "2023-09-03T16:36:51.903246+00:00",
+        "context": {
+          "id": "01H9DYEZ1ZGNYBQC3F40V749F1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.shelly_door_luminosity",
+        "state": "15",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "lx",
+          "device_class": "illuminance",
+          "friendly_name": "shelly-door luminosity"
+        },
+        "last_changed": "2023-09-03T16:39:02.582124+00:00",
+        "last_updated": "2023-09-03T16:39:02.582124+00:00",
+        "context": {
+          "id": "01H9DYJYNPPZ34WVKCER3M83GS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 15,
+        "native_unit_of_measurement": "lx"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.shelly_door_temperature",
+        "state": "24.1",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "°C",
+          "device_class": "temperature",
+          "friendly_name": "shelly-door temperature"
+        },
+        "last_changed": "2023-09-03T16:39:02.583227+00:00",
+        "last_updated": "2023-09-03T16:39:02.583227+00:00",
+        "context": {
+          "id": "01H9DYJYNQCJ356SK1Q050CWM2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 24.1,
+        "native_unit_of_measurement": "°C"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.shelly_door_battery",
+        "state": "96",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "friendly_name": "shelly-door battery"
+        },
+        "last_changed": "2023-09-03T16:39:02.583837+00:00",
+        "last_updated": "2023-09-03T16:39:02.583837+00:00",
+        "context": {
+          "id": "01H9DYJYNQTAZTYKF6Y16MNZFJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 96,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.ha_server",
+        "state": "on",
+        "attributes": {
+          "round_trip_time_avg": "65.877",
+          "round_trip_time_max": "92.237",
+          "round_trip_time_mdev": "13.992",
+          "round_trip_time_min": "54.657",
+          "device_class": "connectivity",
+          "friendly_name": "ha_server"
+        },
+        "last_changed": "2023-09-03T17:23:40.412259+00:00",
+        "last_updated": "2023-09-03T19:38:40.449064+00:00",
+        "context": {
+          "id": "01H9E8VVY1XMCCBP8S1CWTRTKR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.internet",
+        "state": "on",
+        "attributes": {
+          "round_trip_time_avg": "64.757",
+          "round_trip_time_max": "89.678",
+          "round_trip_time_mdev": "13.201",
+          "round_trip_time_min": "53.044",
+          "device_class": "connectivity",
+          "friendly_name": "internet"
+        },
+        "last_changed": "2023-09-03T17:23:40.421425+00:00",
+        "last_updated": "2023-09-03T19:38:40.456679+00:00",
+        "context": {
+          "id": "01H9E8VVY83BQ59GP602BZX07N",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.calentador_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Calentador  Reboot"
+        },
+        "last_changed": "2023-09-03T19:27:38.186079+00:00",
+        "last_updated": "2023-09-03T19:27:38.186079+00:00",
+        "context": {
+          "id": "01H9E87N6AW5XEPEWSPH1Y274R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_ssid",
+        "state": "casaWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPad SSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.582840+00:00",
+        "last_updated": "2023-09-03T16:23:34.582840+00:00",
+        "context": {
+          "id": "01H9DXPMDP4Q0XW3NS1ZNWYTD5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "casaWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_activity",
+        "state": "Stationary",
+        "attributes": {
+          "Confidence": "High",
+          "Types": [
+            "Stationary"
+          ],
+          "icon": "mdi:human-male",
+          "friendly_name": "Jan iPad Activity"
+        },
+        "last_changed": "2023-09-03T19:37:49.890869+00:00",
+        "last_updated": "2023-09-03T19:37:49.890869+00:00",
+        "context": {
+          "id": "01H9E8TAJ2C4PK9VRC0HE4JW32",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Stationary",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_battery_level",
+        "state": "83",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-charging-80",
+          "friendly_name": "Jan iPad Battery Level"
+        },
+        "last_changed": "2023-09-03T19:39:09.853595+00:00",
+        "last_updated": "2023-09-03T19:39:09.853595+00:00",
+        "context": {
+          "id": "01H9E8WRMXW133Z510J62C9BKA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 83,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_battery_state",
+        "state": "Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-charging-80",
+          "friendly_name": "Jan iPad Battery State"
+        },
+        "last_changed": "2023-09-03T18:56:58.315549+00:00",
+        "last_updated": "2023-09-03T19:37:49.893391+00:00",
+        "context": {
+          "id": "01H9E8TAJ5JMCCVSVKJ4DDZP95",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_storage",
+        "state": "40.23",
+        "attributes": {
+          "Available": "9,53 GB",
+          "Available (Important)": "32,90 GB",
+          "Available (Opportunistic)": "25,74 GB",
+          "Total": "63,98 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "Jan iPad Storage"
+        },
+        "last_changed": "2023-09-03T19:39:09.855695+00:00",
+        "last_updated": "2023-09-03T19:39:09.855695+00:00",
+        "context": {
+          "id": "01H9E8WRMZ62ER7XKQKG1B2JKC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "40.23",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_bssid",
+        "state": "e8:9f:80:16:1:73",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "Jan iPad BSSID"
+        },
+        "last_changed": "2023-09-03T19:37:49.899463+00:00",
+        "last_updated": "2023-09-03T19:37:49.899463+00:00",
+        "context": {
+          "id": "01H9E8TAJBXF8H821TS74ZBHEH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "e8:9f:80:16:1:73",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPad Connection Type"
+        },
+        "last_changed": "2023-09-03T16:23:34.586182+00:00",
+        "last_updated": "2023-09-03T16:23:34.586182+00:00",
+        "context": {
+          "id": "01H9DXPMDTY22MNCFBD8P64XKP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_geocoded_location",
+        "state": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
+        "attributes": {
+          "Administrative Area": "Granada",
+          "Areas Of Interest": "N/A",
+          "Country": "España",
+          "Inland Water": "N/A",
+          "ISO Country Code": "ES",
+          "Locality": "Lecrín",
+          "Location": [
+            36.949127197265625,
+            -3.556344104258937
+          ],
+          "Name": "Avenida de Andalucía, 32–98",
+          "Ocean": "N/A",
+          "Postal Code": "18656",
+          "Sub Administrative Area": "N/A",
+          "Sub Locality": "Talará",
+          "Sub Thoroughfare": "32–98",
+          "Thoroughfare": "Avenida de Andalucía",
+          "Time Zone": "Europe/Madrid",
+          "Zones": [
+            "Casa"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "Jan iPad Geocoded Location"
+        },
+        "last_changed": "2023-09-03T19:18:22.010924+00:00",
+        "last_updated": "2023-09-03T19:37:49.900381+00:00",
+        "context": {
+          "id": "01H9E8TAJC69DYM0A4BY95WFVC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_last_update_trigger",
+        "state": "Periodic",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "Jan iPad Last Update Trigger"
+        },
+        "last_changed": "2023-09-03T19:39:09.861738+00:00",
+        "last_updated": "2023-09-03T19:39:09.861738+00:00",
+        "context": {
+          "id": "01H9E8WRN559J5RZS84E0C08R1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Periodic",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.jan_ipad_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "Jan iPad Focus"
+        },
+        "last_changed": "2023-09-03T16:23:34.592906+00:00",
+        "last_updated": "2023-09-03T16:23:34.592906+00:00",
+        "context": {
+          "id": "01H9DXPME0TE68C7SYEA4PNN81",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.jan_ipad",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 82,
+          "latitude": 36.949127197265625,
+          "longitude": -3.556344104258937,
+          "gps_accuracy": 75,
+          "altitude": 679.6480331420898,
+          "vertical_accuracy": 18.44761848449707,
+          "friendly_name": "Jan iPad"
+        },
+        "last_changed": "2023-09-03T19:37:46.949302+00:00",
+        "last_updated": "2023-09-03T19:37:46.949302+00:00",
+        "context": {
+          "id": "01H9E8T7P5BPW3ZSN4A924AZWT",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_battery_level",
+        "state": "44",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-40",
+          "friendly_name": "Jan iPhone Battery Level"
+        },
+        "last_changed": "2023-09-03T19:06:11.841214+00:00",
+        "last_updated": "2023-09-03T19:06:11.841214+00:00",
+        "context": {
+          "id": "01H9E70D01RCBKZBN7YDPP1Y0E",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 44,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_battery_state",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-40",
+          "friendly_name": "Jan iPhone Battery State"
+        },
+        "last_changed": "2023-09-03T16:23:34.597353+00:00",
+        "last_updated": "2023-09-03T17:00:47.102344+00:00",
+        "context": {
+          "id": "01H9DZTRKYTNRBSNGYFT6WTFGT",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_storage",
+        "state": "41.72",
+        "attributes": {
+          "Available": "22,35 GB",
+          "Available (Important)": "29,84 GB",
+          "Available (Opportunistic)": "26,69 GB",
+          "Total": "63,97 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "Jan iPhone Storage"
+        },
+        "last_changed": "2023-09-03T18:43:59.502527+00:00",
+        "last_updated": "2023-09-03T18:43:59.502527+00:00",
+        "context": {
+          "id": "01H9E5QQWEYVGVPGWK4096S1XF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "41.72",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_bssid",
+        "state": "e8:9f:80:16:1:73",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "Jan iPhone BSSID"
+        },
+        "last_changed": "2023-09-03T17:36:21.797379+00:00",
+        "last_updated": "2023-09-03T17:36:21.797379+00:00",
+        "context": {
+          "id": "01H9E1VX9543PFHP2G8PP42452",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "e8:9f:80:16:1:73",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_ssid",
+        "state": "casaWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPhone SSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.598523+00:00",
+        "last_updated": "2023-09-03T16:23:34.598523+00:00",
+        "context": {
+          "id": "01H9DXPME6Z05MBFH4FV0V2GHH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "casaWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_sim_2",
+        "state": "N/A",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000002",
+          "Carrier Name": "N/A",
+          "ISO Country Code": "N/A",
+          "Mobile Country Code": "N/A",
+          "Mobile Network Code": "N/A",
+          "icon": "mdi:sim",
+          "friendly_name": "Jan iPhone SIM 2"
+        },
+        "last_changed": "2023-09-03T16:23:34.599008+00:00",
+        "last_updated": "2023-09-03T16:23:34.599008+00:00",
+        "context": {
+          "id": "01H9DXPME72M3R33ZQQG82T6X7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "N/A",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPhone Connection Type"
+        },
+        "last_changed": "2023-09-03T16:23:34.599413+00:00",
+        "last_updated": "2023-09-03T16:23:34.599413+00:00",
+        "context": {
+          "id": "01H9DXPME7ZFYD6MHSYRW1ZDXF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_sim_1",
+        "state": "MASMOVIL",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000001",
+          "Carrier Name": "MASMOVIL",
+          "Current Radio Technology": "Long-Term Evolution (LTE)",
+          "ISO Country Code": "es",
+          "Mobile Country Code": "214",
+          "Mobile Network Code": "04",
+          "icon": "mdi:sim",
+          "friendly_name": "Jan iPhone SIM 1"
+        },
+        "last_changed": "2023-09-03T16:23:34.599745+00:00",
+        "last_updated": "2023-09-03T16:23:34.599745+00:00",
+        "context": {
+          "id": "01H9DXPME79ARVN3VGVW7K74JH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "MASMOVIL",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_geocoded_location",
+        "state": "Unknown",
+        "attributes": {
+          "icon": "mdi:map",
+          "friendly_name": "Jan iPhone Geocoded Location"
+        },
+        "last_changed": "2023-09-03T16:23:34.600118+00:00",
+        "last_updated": "2023-09-03T16:23:34.600118+00:00",
+        "context": {
+          "id": "01H9DXPME8CJKNKS9RA6H4JZXX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Unknown",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_last_update_trigger",
+        "state": "Signaled",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "Jan iPhone Last Update Trigger"
+        },
+        "last_changed": "2023-09-03T19:27:36.829066+00:00",
+        "last_updated": "2023-09-03T19:27:36.829066+00:00",
+        "context": {
+          "id": "01H9E87KVX6CQT2XDKKXFS1JQY",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Signaled",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.jan_iphone_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "Jan iPhone Focus"
+        },
+        "last_changed": "2023-09-03T16:23:34.607990+00:00",
+        "last_updated": "2023-09-03T16:23:34.607990+00:00",
+        "context": {
+          "id": "01H9DXPMEFPXG2EWQGK19G1JZ5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.jan_iphone",
+        "state": "unknown",
+        "attributes": {
+          "source_type": "gps",
+          "friendly_name": "Jan iPhone"
+        },
+        "last_changed": "2023-09-03T16:23:34.611777+00:00",
+        "last_updated": "2023-09-03T16:23:34.611777+00:00",
+        "context": {
+          "id": "01H9DXPMEKA4R8XARPRVYVJ43X",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_battery_state",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-50",
+          "friendly_name": " Belén iPhone Battery State"
+        },
+        "last_changed": "2023-09-03T16:23:34.613162+00:00",
+        "last_updated": "2023-09-03T16:23:34.613162+00:00",
+        "context": {
+          "id": "01H9DXPMENF00ZJD67S4NRBM21",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_battery_level",
+        "state": "59",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-50",
+          "friendly_name": " Belén iPhone Battery Level"
+        },
+        "last_changed": "2023-09-03T16:23:34.613654+00:00",
+        "last_updated": "2023-09-03T16:23:34.613654+00:00",
+        "context": {
+          "id": "01H9DXPMENZA4T48ZVJEY514W8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 59,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_ssid",
+        "state": "casaWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": " Belén iPhone SSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.614027+00:00",
+        "last_updated": "2023-09-03T16:23:34.614027+00:00",
+        "context": {
+          "id": "01H9DXPMEP6VJVKH4HSY6912MW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "casaWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_storage",
+        "state": "55.58",
+        "attributes": {
+          "Available": "25,88 GB",
+          "Available (Important)": "40,23 GB",
+          "Available (Opportunistic)": "35,55 GB",
+          "Total": "63,97 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": " Belén iPhone Storage"
+        },
+        "last_changed": "2023-09-03T16:23:34.614370+00:00",
+        "last_updated": "2023-09-03T16:23:34.614370+00:00",
+        "context": {
+          "id": "01H9DXPMEP1R1SW29RCV9P9V55",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "55.58",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_sim_2",
+        "state": "N/A",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000002",
+          "Carrier Name": "N/A",
+          "ISO Country Code": "N/A",
+          "Mobile Country Code": "N/A",
+          "Mobile Network Code": "N/A",
+          "icon": "mdi:sim",
+          "friendly_name": " Belén iPhone SIM 2"
+        },
+        "last_changed": "2023-09-03T16:23:34.614914+00:00",
+        "last_updated": "2023-09-03T16:23:34.614914+00:00",
+        "context": {
+          "id": "01H9DXPMEPMQM2YJ0D5KECJZ3G",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "N/A",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_sim_1",
+        "state": "MASMOVIL",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000001",
+          "Carrier Name": "MASMOVIL",
+          "Current Radio Technology": "Long-Term Evolution (LTE)",
+          "ISO Country Code": "es",
+          "Mobile Country Code": "214",
+          "Mobile Network Code": "04",
+          "icon": "mdi:sim",
+          "friendly_name": " Belén iPhone SIM 1"
+        },
+        "last_changed": "2023-09-03T16:23:34.615328+00:00",
+        "last_updated": "2023-09-03T16:23:34.615328+00:00",
+        "context": {
+          "id": "01H9DXPMEQAASNE33RX7E0AYK8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "MASMOVIL",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_geocoded_location",
+        "state": "Unknown",
+        "attributes": {
+          "icon": "mdi:map",
+          "friendly_name": " Belén iPhone Geocoded Location"
+        },
+        "last_changed": "2023-09-03T16:23:34.615653+00:00",
+        "last_updated": "2023-09-03T16:23:34.615653+00:00",
+        "context": {
+          "id": "01H9DXPMEQMA4PPGMKMJMPE2CP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Unknown",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_last_update_trigger",
+        "state": "registration",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": " Belén iPhone Last Update Trigger"
+        },
+        "last_changed": "2023-09-03T16:23:34.615958+00:00",
+        "last_updated": "2023-09-03T16:23:34.615958+00:00",
+        "context": {
+          "id": "01H9DXPMEQ1PQ7YFFQHHMX8NQ6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "registration",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_bssid",
+        "state": "ea:9f:80:16:1:74",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": " Belén iPhone BSSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.616406+00:00",
+        "last_updated": "2023-09-03T16:23:34.616406+00:00",
+        "context": {
+          "id": "01H9DXPMER8TMSN7NP2J498683",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "ea:9f:80:16:1:74",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_iphone_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": " Belén iPhone Connection Type"
+        },
+        "last_changed": "2023-09-03T16:23:34.616841+00:00",
+        "last_updated": "2023-09-03T16:23:34.616841+00:00",
+        "context": {
+          "id": "01H9DXPMERZJY8RT7Y406TK20P",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.belen_iphone",
+        "state": "unknown",
+        "attributes": {
+          "source_type": "gps",
+          "friendly_name": " Belén iPhone"
+        },
+        "last_changed": "2023-09-03T16:23:34.621805+00:00",
+        "last_updated": "2023-09-03T16:23:34.621805+00:00",
+        "context": {
+          "id": "01H9DXPMEX82BCBFYKQS6KX4X3",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_battery_state",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-40",
+          "friendly_name": "Belén iPad Battery State"
+        },
+        "last_changed": "2023-09-03T16:23:34.623672+00:00",
+        "last_updated": "2023-09-03T19:20:50.290925+00:00",
+        "context": {
+          "id": "01H9E7V6VJ4VF6EDZ9Y45KEMQ8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_storage",
+        "state": "17.02",
+        "attributes": {
+          "Available": "3,88 GB",
+          "Available (Important)": "7,87 GB",
+          "Available (Opportunistic)": "5,44 GB",
+          "Total": "31,99 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "Belén iPad Storage"
+        },
+        "last_changed": "2023-09-03T19:38:01.695353+00:00",
+        "last_updated": "2023-09-03T19:38:01.695353+00:00",
+        "context": {
+          "id": "01H9E8TP2ZRN4V7PAJXTJ1SSBA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "17.02",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_battery_level",
+        "state": "48",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-40",
+          "friendly_name": "Belén iPad Battery Level"
+        },
+        "last_changed": "2023-09-03T19:30:51.360816+00:00",
+        "last_updated": "2023-09-03T19:30:51.360816+00:00",
+        "context": {
+          "id": "01H9E8DHV01MA7571Y3AHJRZKG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 48,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_ssid",
+        "state": "casaWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Belén iPad SSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.625276+00:00",
+        "last_updated": "2023-09-03T16:23:34.625276+00:00",
+        "context": {
+          "id": "01H9DXPMF19061K5PCJEEA35HP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "casaWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_bssid",
+        "state": "e8:9f:80:16:1:73",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "Belén iPad BSSID"
+        },
+        "last_changed": "2023-09-03T19:28:00.770420+00:00",
+        "last_updated": "2023-09-03T19:28:00.770420+00:00",
+        "context": {
+          "id": "01H9E88B82DVEVGRA49QPNY92X",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "e8:9f:80:16:1:73",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_geocoded_location",
+        "state": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
+        "attributes": {
+          "Administrative Area": "Granada",
+          "Areas Of Interest": "N/A",
+          "Country": "España",
+          "Inland Water": "N/A",
+          "ISO Country Code": "ES",
+          "Locality": "Lecrín",
+          "Location": [
+            36.949432373046875,
+            -3.556739029444294
+          ],
+          "Name": "Avenida de Andalucía, 32–98",
+          "Ocean": "N/A",
+          "Postal Code": "18656",
+          "Sub Administrative Area": "N/A",
+          "Sub Locality": "Talará",
+          "Sub Thoroughfare": "32–98",
+          "Thoroughfare": "Avenida de Andalucía",
+          "Time Zone": "Europe/Madrid",
+          "Zones": [
+            "Casa"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "Belén iPad Geocoded Location"
+        },
+        "last_changed": "2023-09-03T16:23:34.626163+00:00",
+        "last_updated": "2023-09-03T16:23:34.626163+00:00",
+        "context": {
+          "id": "01H9DXPMF24C0D5XZB56G9BKC7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_last_update_trigger",
+        "state": "Periodic",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "Belén iPad Last Update Trigger"
+        },
+        "last_changed": "2023-09-03T19:28:00.771543+00:00",
+        "last_updated": "2023-09-03T19:28:00.771543+00:00",
+        "context": {
+          "id": "01H9E88B83JYAQT86EY5Q8APF3",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Periodic",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.belen_ipad_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Belén iPad Connection Type"
+        },
+        "last_changed": "2023-09-03T16:23:34.627362+00:00",
+        "last_updated": "2023-09-03T16:23:34.627362+00:00",
+        "context": {
+          "id": "01H9DXPMF3G2ABEKPGX0EVHKQR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.belen_ipad",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 42,
+          "latitude": 36.949432373046875,
+          "longitude": -3.556739029444294,
+          "gps_accuracy": 11.162777295860893,
+          "altitude": 679.3160552978516,
+          "vertical_accuracy": 34.36162567138672,
+          "friendly_name": "Belén iPad"
+        },
+        "last_changed": "2023-09-03T16:23:34.633490+00:00",
+        "last_updated": "2023-09-03T16:23:34.633490+00:00",
+        "context": {
+          "id": "01H9DXPMF9YQSFKJ7AWQS8PZ60",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_storage",
+        "state": "33.36",
+        "attributes": {
+          "Available": "115,09 GB",
+          "Available (Important)": "180,16 GB",
+          "Available (Opportunistic)": "164,92 GB",
+          "Total": "494,38 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "MacMini Storage"
+        },
+        "last_changed": "2023-09-03T19:29:53.915333+00:00",
+        "last_updated": "2023-09-03T19:39:16.551832+00:00",
+        "context": {
+          "id": "01H9E8WZ67PR24HXMRD64HWBSR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "33.36",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_ssid",
+        "state": "Not Connected",
+        "attributes": {
+          "icon": "mdi:wifi-off",
+          "friendly_name": "MacMini SSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.635375+00:00",
+        "last_updated": "2023-09-03T16:23:34.635375+00:00",
+        "context": {
+          "id": "01H9DXPMFBVD8AD4WZEXYVTC2D",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Connected",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_bssid",
+        "state": "Not Connected",
+        "attributes": {
+          "icon": "mdi:wifi-off",
+          "friendly_name": "MacMini BSSID"
+        },
+        "last_changed": "2023-09-03T16:23:34.635826+00:00",
+        "last_updated": "2023-09-03T16:23:34.635826+00:00",
+        "context": {
+          "id": "01H9DXPMFBPWK41CFF5JCE7E0N",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Connected",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_connection_type",
+        "state": "Ethernet",
+        "attributes": {
+          "Hardware Address": "14:98:77:7d:b8:d3",
+          "Name": "Ethernet",
+          "icon": "mdi:ethernet",
+          "friendly_name": "MacMini Connection Type"
+        },
+        "last_changed": "2023-09-03T16:23:34.636268+00:00",
+        "last_updated": "2023-09-03T16:23:34.636268+00:00",
+        "context": {
+          "id": "01H9DXPMFCMK66CZ3QMM18ASYH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Ethernet",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_geocoded_location",
+        "state": "Unknown",
+        "attributes": {
+          "icon": "mdi:map",
+          "friendly_name": "MacMini Geocoded Location"
+        },
+        "last_changed": "2023-09-03T16:23:34.636708+00:00",
+        "last_updated": "2023-09-03T16:23:34.636708+00:00",
+        "context": {
+          "id": "01H9DXPMFCJX1J6FPPREV590F7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Unknown",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_active_camera",
+        "state": "Inactive",
+        "attributes": {
+          "Active Camera": [],
+          "All Camera": [],
+          "icon": "mdi:camera-off",
+          "friendly_name": "MacMini Active Camera"
+        },
+        "last_changed": "2023-09-03T16:23:34.637103+00:00",
+        "last_updated": "2023-09-03T16:23:34.637103+00:00",
+        "context": {
+          "id": "01H9DXPMFDM4WGZRQBZR7RBRP7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Inactive",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_active_audio_input",
+        "state": "Inactive",
+        "attributes": {
+          "Active Audio Input": [],
+          "All Audio Input": [
+            "Jump Desktop Microphone",
+            "Jump Desktop Audio"
+          ],
+          "icon": "mdi:microphone-off",
+          "friendly_name": "MacMini Active Audio Input"
+        },
+        "last_changed": "2023-09-03T16:23:34.637523+00:00",
+        "last_updated": "2023-09-03T16:23:34.637523+00:00",
+        "context": {
+          "id": "01H9DXPMFDKE49A0G61TKGK4RG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Inactive",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_active_audio_output",
+        "state": "Inactive",
+        "attributes": {
+          "Active Audio Output": [],
+          "All Audio Output": [
+            "LG HDR 4K",
+            "Auriculares externos",
+            "Mac mini (altavoces)",
+            "Jump Desktop Microphone",
+            "Jump Desktop Audio"
+          ],
+          "icon": "mdi:volume-low",
+          "friendly_name": "MacMini Active Audio Output"
+        },
+        "last_changed": "2023-09-03T19:36:53.842236+00:00",
+        "last_updated": "2023-09-03T19:36:53.842236+00:00",
+        "context": {
+          "id": "01H9E8RKTJBXZ1YAP5ABV3Z5AA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Inactive",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_displays",
+        "state": "1",
+        "attributes": {
+          "Display IDs": [
+            "2B69BF12-FAED-485A-8DB6-913AFC7BD885"
+          ],
+          "Display Names": [
+            "LG HDR 4K"
+          ],
+          "icon": "mdi:monitor-multiple",
+          "friendly_name": "MacMini Displays"
+        },
+        "last_changed": "2023-09-03T16:23:34.638276+00:00",
+        "last_updated": "2023-09-03T19:34:57.342391+00:00",
+        "context": {
+          "id": "01H9E8N21YJG9G3HRQH3A6PRM5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 1,
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_primary_display_name",
+        "state": "LG HDR 4K",
+        "attributes": {
+          "icon": "mdi:monitor-star",
+          "friendly_name": "MacMini Primary Display Name"
+        },
+        "last_changed": "2023-09-03T19:34:57.343535+00:00",
+        "last_updated": "2023-09-03T19:34:57.343535+00:00",
+        "context": {
+          "id": "01H9E8N21ZM98ZWTV3D687Q0GV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "LG HDR 4K",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_primary_display_id",
+        "state": "2B69BF12-FAED-485A-8DB6-913AFC7BD885",
+        "attributes": {
+          "icon": "mdi:monitor-star",
+          "friendly_name": "MacMini Primary Display ID"
+        },
+        "last_changed": "2023-09-03T19:34:57.345339+00:00",
+        "last_updated": "2023-09-03T19:34:57.345339+00:00",
+        "context": {
+          "id": "01H9E8N221HP2QK793ZC52X27J",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "2B69BF12-FAED-485A-8DB6-913AFC7BD885",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_frontmost_app",
+        "state": "Terminal",
+        "attributes": {
+          "Bundle Identifier": "com.apple.Terminal",
+          "Is Hidden": false,
+          "Launch Date": "2023-09-03T17:40:09Z",
+          "Owns Menu Bar": true,
+          "icon": "mdi:traffic-light",
+          "friendly_name": "MacMini Frontmost App"
+        },
+        "last_changed": "2023-09-03T19:39:19.915009+00:00",
+        "last_updated": "2023-09-03T19:39:19.915009+00:00",
+        "context": {
+          "id": "01H9E8X2FB5QW6WXQF0ZG7J98G",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Terminal",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.macmini_last_update_trigger",
+        "state": "Signaled",
+        "attributes": {
+          "icon": "mdi:monitor",
+          "friendly_name": "MacMini Last Update Trigger"
+        },
+        "last_changed": "2023-09-03T19:39:19.915887+00:00",
+        "last_updated": "2023-09-03T19:39:19.915887+00:00",
+        "context": {
+          "id": "01H9E8X2FBPAQ712DTRVC6A86S",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Signaled",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.macmini_camera_in_use",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:camera-off",
+          "friendly_name": "MacMini Camera In Use"
+        },
+        "last_changed": "2023-09-03T16:23:34.643684+00:00",
+        "last_updated": "2023-09-03T16:23:34.643684+00:00",
+        "context": {
+          "id": "01H9DXPMFKE8023CWXJ9GPFJ1F",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.macmini_audio_input_in_use",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:microphone-off",
+          "friendly_name": "MacMini Audio Input In Use"
+        },
+        "last_changed": "2023-09-03T16:23:34.644107+00:00",
+        "last_updated": "2023-09-03T16:23:34.644107+00:00",
+        "context": {
+          "id": "01H9DXPMFMP12GG7A1Z27TM0RQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.macmini_audio_output_in_use",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:volume-low",
+          "friendly_name": "MacMini Audio Output In Use"
+        },
+        "last_changed": "2023-09-03T19:36:53.841563+00:00",
+        "last_updated": "2023-09-03T19:36:53.841563+00:00",
+        "context": {
+          "id": "01H9E8RKTHQTBKKCEJPGDFGAF3",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.macmini_active",
+        "state": "off",
+        "attributes": {
+          "Fast User Switched": false,
+          "Idle": false,
+          "Locked": false,
+          "Screen Off": false,
+          "Screensaver": true,
+          "Sleeping": false,
+          "Terminating": false,
+          "icon": "mdi:monitor-off",
+          "friendly_name": "MacMini Active"
+        },
+        "last_changed": "2023-09-03T18:46:06.780959+00:00",
+        "last_updated": "2023-09-03T19:34:57.430608+00:00",
+        "context": {
+          "id": "01H9E8N24P80PVJG4S3TMJN69D",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.macmini_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "MacMini Focus"
+        },
+        "last_changed": "2023-09-03T16:23:34.645007+00:00",
+        "last_updated": "2023-09-03T16:23:34.645007+00:00",
+        "context": {
+          "id": "01H9DXPMFNDFDJ6X7RCNPRJ4BG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.macmini",
+        "state": "unknown",
+        "attributes": {
+          "source_type": "gps",
+          "friendly_name": "MacMini"
+        },
+        "last_changed": "2023-09-03T16:23:34.645687+00:00",
+        "last_updated": "2023-09-03T16:23:34.645687+00:00",
+        "context": {
+          "id": "01H9DXPMFNM0CQP7RB29V7HGHA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.shelly_floor_lamp_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "shelly-floor-lamp Reboot"
+        },
+        "last_changed": "2023-09-03T19:27:31.794174+00:00",
+        "last_updated": "2023-09-03T19:27:31.794174+00:00",
+        "context": {
+          "id": "01H9E87EYJ1HBNZF0C3ATK7VMP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-03T19:39:30.124415+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.casa_consumo",
+        "state": "0",
+        "attributes": {
+          "persistent": true,
+          "available": true,
+          "unit_of_measurement": "",
+          "friendly_name": "casa_consumo"
+        },
+        "last_changed": "2023-09-01T15:35:43.035514+00:00",
+        "last_updated": "2023-09-01T15:35:43.035514+00:00",
+        "context": {
+          "id": "01H98P5J5VCT2635P5THKN7FC6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-09-01T15:35:43.813660+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.state",
+        "state": "unavailable",
+        "attributes": {
+          "unit_of_measurement": "bits",
+          "friendly_name": "State"
+        },
+        "last_changed": "2023-09-01T13:14:48.557977+00:00",
+        "last_updated": "2023-09-01T13:14:48.557977+00:00",
+        "context": {
+          "id": "01H98E3HVDFH6CS52HYCVW0WG6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "10",
+        "native_unit_of_measurement": "bits"
+      },
+      "last_seen": "2023-09-01T13:14:48.565470+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "tts.google_en_com",
+        "state": "unknown",
+        "attributes": {
+          "friendly_name": "Google en com"
+        },
+        "last_changed": "2023-08-31T18:26:41.160031+00:00",
+        "last_updated": "2023-08-31T18:26:41.160031+00:00",
+        "context": {
+          "id": "01H96DHWW8M8TDQPZMYZ48Z2MH",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-08-31T18:29:43.980602+00:00"
+    }
+  ]
+}

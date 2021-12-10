@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace",
+  "data": {
+    "config": {
+      "title": "Casa total",
+      "views": [
+        {
+          "path": "default_view",
+          "title": "Home",
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "switch.calentador"
+              ],
+              "title": "Kitchen"
+            },
+            {
+              "type": "grid",
+              "square": false,
+              "columns": 1,
+              "cards": [
+                {
+                  "type": "entities",
+                  "entities": [
+                    {
+                      "entity": "sensor.air_on_energy"
+                    },
+                    {
+                      "entity": "sensor.air_on_daily_energy_consumed"
+                    },
+                    {
+                      "entity": "sensor.air_on_room_temperature"
+                    },
+                    {
+                      "entity": "binary_sensor.shelly_door_door"
+                    },
+                    {
+                      "entity": "sensor.shelly_door_luminosity"
+                    },
+                    {
+                      "entity": "sensor.shelly_door_temperature"
+                    },
+                    {
+                      "entity": "sensor.shelly_door_battery"
+                    },
+                    {
+                      "entity": "climate.air_on"
+                    },
+                    {
+                      "entity": "switch.shelly_floor_lamp"
+                    }
+                  ],
+                  "title": "salon",
+                  "entity": "media_player.musica"
+                },
+                {
+                  "type": "thermostat",
+                  "entity": "climate.air_on"
+                }
+              ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "person.belen"
+                },
+                {
+                  "entity": "person.jan"
+                }
+              ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "binary_sensor.ha_server",
+                "binary_sensor.internet"
+              ],
+              "title": "Piso estatus"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.alert_1"
+                },
+                {
+                  "entity": "sensor.alert_2"
+                },
+                {
+                  "entity": "sensor.alert_3"
+                },
+                {
+                  "entity": "sensor.pv1_voltage"
+                },
+                {
+                  "entity": "sensor.pv1_current"
+                },
+                {
+                  "entity": "sensor.pv2_voltage"
+                },
+                {
+                  "entity": "sensor.pv2_current"
+                },
+                {
+                  "entity": "sensor.solar_power"
+                },
+                {
+                  "entity": "sensor.daily_energy_yield"
+                },
+                {
+                  "entity": "sensor.peak_production"
+                },
+                {
+                  "entity": "sensor.production"
+                },
+                {
+                  "entity": "sensor.power_meter"
+                },
+                {
+                  "entity": "sensor.casa_consumo"
+                }
+              ],
+              "title": "Solar"
+            },
+            {
+              "type": "media-control",
+              "entity": "media_player.samsung_7_series_40"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.wh2650a_daily_rain_rate",
+                  "name": "Daily Rain Rate"
+                },
+                {
+                  "entity": "sensor.wh2650a_event_rain_rate",
+                  "name": "Event Rain Rate"
+                },
+                {
+                  "entity": "sensor.wh2650a_feels_like_temperature",
+                  "name": "Feels like Temperature"
+                },
+                {
+                  "entity": "sensor.wh2650a_humidity",
+                  "name": "Humidity"
+                },
+                {
+                  "entity": "sensor.wh2650a_indoor_humidity",
+                  "name": "Indoor Humidity"
+                },
+                {
+                  "entity": "sensor.wh2650a_indoor_temperature",
+                  "name": "Indoor Temperature"
+                },
+                {
+                  "entity": "sensor.wh2650a_max_daily_gust",
+                  "name": "Max Daily Gust"
+                },
+                {
+                  "entity": "sensor.wh2650a_monthly_rain_rate",
+                  "name": "Monthly Rain Rate"
+                },
+                {
+                  "entity": "sensor.wh2650a_outdoor_temperature",
+                  "name": "Outdoor Temperature"
+                },
+                {
+                  "entity": "sensor.wh2650a_solar_lux",
+                  "name": "Solar Lux"
+                },
+                {
+                  "entity": "sensor.wh2650a_solar_radiation",
+                  "name": "Solar Radiation"
+                },
+                {
+                  "entity": "sensor.wh2650a_total_rain",
+                  "name": "Total Rain"
+                },
+                {
+                  "entity": "sensor.wh2650a_uv_index",
+                  "name": "UV Index"
+                },
+                {
+                  "entity": "binary_sensor.wh2650a_wh25_battery",
+                  "name": "WH25 Battery"
+                },
+                {
+                  "entity": "binary_sensor.wh2650a_wh65_battery",
+                  "name": "WH65 Battery"
+                },
+                {
+                  "entity": "sensor.wh2650a_wind_speed",
+                  "name": "Wind Speed"
+                },
+                {
+                  "entity": "sensor.wh2650a_yearly_rain_rate",
+                  "name": "Yearly Rain Rate"
+                }
+              ],
+              "title": "Tiempo"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "binary_sensor.shelly_flood_flood",
+                  "name": "Flood"
+                },
+                {
+                  "entity": "sensor.shelly_flood_temperature",
+                  "name": "Temperature"
+                },
+                {
+                  "entity": "sensor.shelly_flood_battery"
+                },
+                {
+                  "entity": "sensor.shelly_door_casita_battery"
+                },
+                {
+                  "entity": "binary_sensor.shelly_door_casita_door"
+                },
+                {
+                  "entity": "sensor.shelly_door_casita_luminosity"
+                },
+                {
+                  "entity": "sensor.shelly_door_casita_temperature"
+                },
+                {
+                  "entity": "sensor.shelly_door_temperature"
+                },
+                {
+                  "entity": "sensor.shelly_door_luminosity"
+                },
+                {
+                  "entity": "binary_sensor.shelly_door_door"
+                },
+                {
+                  "entity": "sensor.shelly_door_battery"
+                }
+              ],
+              "title": "Exterior"
+            },
+            {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": true,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "sensor.sun_next_dawn"
+                },
+                {
+                  "entity": "sensor.sun_next_dusk"
+                },
+                {
+                  "entity": "sensor.belen_iphone_geocoded_location"
+                },
+                {
+                  "entity": "sensor.belen_ipad_geocoded_location"
+                },
+                {
+                  "entity": "sensor.jan_ipad_geocoded_location"
+                },
+                {
+                  "entity": "sensor.jan_iphone_geocoded_location"
+                },
+                {
+                  "entity": "sensor.belen_iphone_battery_level"
+                },
+                {
+                  "entity": "sensor.belen_ipad_battery_level"
+                },
+                {
+                  "entity": "sensor.jan_ipad_battery_level"
+                },
+                {
+                  "entity": "sensor.jan_iphone_battery_level"
+                },
+                {
+                  "entity": "binary_sensor.macmini_active"
+                },
+                {
+                  "entity": "sensor.macmini_geocoded_location"
+                }
+              ],
+              "title": "checks",
+              "columns": 2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

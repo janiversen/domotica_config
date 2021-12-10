@@ -1,6 +1,6 @@
----
 #
-# The configuration.yaml is only used to bootstrap the system.
+# configuration.yaml is the top level configuration,
+# and contains only references to directories with actual configuration files.
 #
 homeassistant:
   auth_providers:
@@ -10,4 +10,73 @@ homeassistant:
         - 192.168.20.0/24
 #      allow_bypass_login: true
     - type: homeassistant
-  packages: !include_dir_named casa/integrations
+  packages:
+    common: !include_dir_merge_named common.CONFIG/integrations
+    setup: !include_dir_merge_named setup/integrations
+  customize: !include_dir_merge_named common.CONFIG/customizations
+
+#
+# https://www.home-assistant.io/docs/automation/
+#
+automation common: !include_dir_list common.CONFIG/automations
+automation setup: !include_dir_list setup/automations
+
+#
+# https://www.home-assistant.io/integrations/scene
+#
+scene common: !include_dir_list common.CONFIG/scenes
+scene setup: !include_dir_list setup/scenes
+
+#
+# https://www.home-assistant.io/integrations/script/
+#
+script common: !include_dir_named common.CONFIG/scripts
+script setup: !include_dir_named setup/scripts
+
+#
+# https://www.home-assistant.io/integrations/binary_sensor/
+#
+binary_sensor common: !include_dir_list common.CONFIG/entities/binary_sensors
+binary_sensor setup: !include_dir_list setup/entities/binary_sensors
+
+#
+# https://www.home-assistant.io/integrations/light/
+#
+light common: !include_dir_list common.CONFIG/entities/lights
+light setup: !include_dir_list setup/entities/lights
+
+#
+# https://www.home-assistant.io/integrations/sensor/
+#
+sensor common: !include_dir_list common.CONFIG/entities/sensors
+sensor setup: !include_dir_list setup/entities/sensors
+
+#
+# https://www.home-assistant.io/integrations/switch/
+#
+switch common: !include_dir_list common.CONFIG/entities/switches
+switch setup: !include_dir_list setup/entities/switches
+
+#
+# https://www.home-assistant.io/integrations/input_boolean/
+#
+input_boolean: !include_dir_named setup/entities/input_booleans
+
+#
+# https://www.home-assistant.io/integrations/input_datetime/
+#
+input_datetime: !include_dir_named setup/entities/input_datetimes
+
+#
+# https://www.home-assistant.io/integrations/input_number/
+#
+input_number: !include_dir_named setup/entities/input_numbers
+
+logger:
+  default: info
+  logs:
+    custom_components.piso_casa: debug
+    homeassistant.components.modbus: debug
+    pymodbus: debug
+#    custom_components.pyscript: debug
+#    custom_components.pyscript.apps.solar: debug

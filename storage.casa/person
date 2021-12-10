@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "jan",
+        "name": "Jan",
+        "user_id": "ed70ab6a13a446c1b44264130dea193c",
+        "device_trackers": [
+          "device_tracker.jan_ipad",
+          "device_tracker.macmini"
+        ],
+        "picture": null
+      },
+      {
+        "id": "belen",
+        "name": "Belen",
+        "device_trackers": [
+          "device_tracker.belen_iphone",
+          "device_tracker.belen_ipad"
+        ],
+        "user_id": "d62bf55e9b61470ea74352e4d5643095",
+        "picture": null
+      }
+    ]
+  }
+}

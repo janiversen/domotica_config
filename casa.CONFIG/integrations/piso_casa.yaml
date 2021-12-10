@@ -1,0 +1,8 @@
+#
+# Local adaptations.
+#
+
+piso_casa:
+  casa: true
+
+

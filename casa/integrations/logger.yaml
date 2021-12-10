@@ -1,9 +1,0 @@
-logger:
-  default: info
-  logs:
-    custom_components.load_optimizer: debug
-    homeassistant.components.icloud: debug
-#    homeassistant.components.modbus: debug
-#    pymodbus: debug
-    custom_components.pyscript.file: info
-#    custom_components.pyscript.file.my_scripts.my_function: debug

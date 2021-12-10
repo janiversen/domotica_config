@@ -1,5 +1,0 @@
-platform: ping
-host: piso_router.lan
-name: piso_router
-count: 8
-scan_interval: 60

@@ -1,0 +1,1915 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "person.jan",
+        "state": "home",
+        "attributes": {
+          "editable": true,
+          "id": "jan",
+          "latitude": 37.18046504587857,
+          "longitude": -3.604721520938876,
+          "gps_accuracy": 35.0,
+          "source": "device_tracker.jan_iphone",
+          "user_id": "2e0c17cedad14058a331a80580362c80",
+          "friendly_name": "jan"
+        },
+        "last_changed": "2023-01-29T14:24:43.768159+00:00",
+        "last_updated": "2023-01-29T15:25:40.376345+00:00",
+        "context": {
+          "id": "01GQZ24MMRHHW80Y1BZPCG63P8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.belen",
+        "state": "home",
+        "attributes": {
+          "editable": true,
+          "id": "belen",
+          "latitude": 37.1804617879624,
+          "longitude": -3.6047531131151653,
+          "gps_accuracy": 47.666666666666664,
+          "source": "device_tracker.belen_iphone",
+          "user_id": "ea1525457ff949c19536b969d57ed9aa",
+          "friendly_name": "belen"
+        },
+        "last_changed": "2023-01-29T14:24:24.063609+00:00",
+        "last_updated": "2023-01-29T15:25:40.376899+00:00",
+        "context": {
+          "id": "01GQZ24MMR227VAFQ9P7TW27H4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_supervisor_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": true,
+          "installed_version": "2023.01.1",
+          "in_progress": false,
+          "latest_version": "2023.01.1",
+          "release_summary": null,
+          "release_url": "https://github.com/home-assistant/supervisor/releases/tag/2023.01.1",
+          "skipped_version": null,
+          "title": "Home Assistant Supervisor",
+          "entity_picture": "https://brands.home-assistant.io/hassio/icon.png",
+          "friendly_name": "Home Assistant Supervisor Update",
+          "supported_features": 1
+        },
+        "last_changed": "2023-01-26T11:22:44.207366+00:00",
+        "last_updated": "2023-01-26T11:22:44.207366+00:00",
+        "context": {
+          "id": "01GQPX1N3FRS4YXNY5WAPMB410",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_core_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "2023.1.7",
+          "in_progress": false,
+          "latest_version": "2023.1.7",
+          "release_summary": null,
+          "release_url": "https://www.home-assistant.io/latest-release-notes/",
+          "skipped_version": null,
+          "title": "Home Assistant Core",
+          "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+          "friendly_name": "Home Assistant Core Update",
+          "supported_features": 11
+        },
+        "last_changed": "2023-01-23T19:07:40.819987+00:00",
+        "last_updated": "2023-01-23T19:07:40.819987+00:00",
+        "context": {
+          "id": "01GQG0ETWK9MAE532XF7ZRVZP7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.ssh_web_terminal_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "13.0.2",
+          "in_progress": false,
+          "latest_version": "13.0.2",
+          "release_summary": "## What’s changed\n\n## ⬆️ Dependency updates\n\n- ⬆️ Upgrades git to 2.38.3-r1 @frenck (#491)\n- ⬆️ Upgrades ttyd to 1.7.3 @frenck (#490)\n",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "SSH & Web Terminal",
+          "entity_picture": "/api/hassio/addons/a0d7b954_ssh/icon",
+          "friendly_name": "SSH & Web Terminal Update",
+          "supported_features": 25
+        },
+        "last_changed": "2023-01-23T19:07:40.820297+00:00",
+        "last_updated": "2023-01-23T19:07:40.820297+00:00",
+        "context": {
+          "id": "01GQG0ETWM29WY1AE61CNM6MS6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.file_editor_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "5.5.0",
+          "in_progress": false,
+          "latest_version": "5.5.0",
+          "release_summary": "# Changelog\n\n## 5.5.0\n\n- Update base image to Alpine 3.16\n  - Bumps `git` to 2.36.3\n  - Bumps `ssh` to OpenSSH_9.0p1\n  - Bumps `python3` to 3.10.9\n\n## 5.4.2\n\n- Bugfix: Fix page load with special characters in states\n\n## 5.4.1\n\n- Bugfix: Disable Ace-intern",
+          "release_url": null,
+          "skipped_version": null,
+          "title": "File editor",
+          "entity_picture": "/api/hassio/addons/core_configurator/icon",
+          "friendly_name": "File editor Update",
+          "supported_features": 25
+        },
+        "last_changed": "2023-01-23T19:07:40.820581+00:00",
+        "last_updated": "2023-01-23T19:07:40.820581+00:00",
+        "context": {
+          "id": "01GQG0ETWMH2CJHRZMSW1VGZ1Z",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.home_assistant_operating_system_update",
+        "state": "on",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "9.4",
+          "in_progress": false,
+          "latest_version": "9.5",
+          "release_summary": null,
+          "release_url": "https://github.com/home-assistant/operating-system/releases/tag/9.5",
+          "skipped_version": null,
+          "title": "Home Assistant Operating System",
+          "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+          "friendly_name": "Home Assistant Operating System Update",
+          "supported_features": 3
+        },
+        "last_changed": "2023-01-28T11:26:24.201769+00:00",
+        "last_updated": "2023-01-28T11:26:24.201769+00:00",
+        "context": {
+          "id": "01GQW21SY9Z705FDESQRM6Y12F",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.ha_server",
+        "state": "on",
+        "attributes": {
+          "round_trip_time_avg": 56.306,
+          "round_trip_time_max": 60.376,
+          "round_trip_time_mdev": "",
+          "round_trip_time_min": 50.14,
+          "device_class": "connectivity",
+          "friendly_name": "ha_server"
+        },
+        "last_changed": "2023-01-28T22:32:49.713608+00:00",
+        "last_updated": "2023-01-29T15:52:49.952657+00:00",
+        "context": {
+          "id": "01GQZ3PC10P9KSGFWXDVXZW5RS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.internet",
+        "state": "on",
+        "attributes": {
+          "round_trip_time_avg": 54.596,
+          "round_trip_time_max": 64.4,
+          "round_trip_time_mdev": "",
+          "round_trip_time_min": 49.623,
+          "device_class": "connectivity",
+          "friendly_name": "internet"
+        },
+        "last_changed": "2023-01-28T22:32:49.706670+00:00",
+        "last_updated": "2023-01-29T15:52:49.944960+00:00",
+        "context": {
+          "id": "01GQZ3PC0RS97M4G2CRF4E466Z",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.cocina_dw_door",
+        "state": "off",
+        "attributes": {
+          "device_class": "opening",
+          "friendly_name": "Cocina_DW Door"
+        },
+        "last_changed": "2023-01-29T15:09:38.137151+00:00",
+        "last_updated": "2023-01-29T15:09:38.137151+00:00",
+        "context": {
+          "id": "01GQZ178YS1PN10NEBGTH3TW8N",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cocina_dw_luminosity",
+        "state": "84",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "lx",
+          "device_class": "illuminance",
+          "friendly_name": "Cocina_DW Luminosity"
+        },
+        "last_changed": "2023-01-29T15:31:45.889552+00:00",
+        "last_updated": "2023-01-29T15:31:45.889552+00:00",
+        "context": {
+          "id": "01GQZ2FSK12S2DAJ6WE9Y2FRE6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cocina_dw_temperature",
+        "state": "17.8",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "°C",
+          "device_class": "temperature",
+          "friendly_name": "Cocina_DW Temperature"
+        },
+        "last_changed": "2023-01-29T15:31:45.890103+00:00",
+        "last_updated": "2023-01-29T15:31:45.890103+00:00",
+        "context": {
+          "id": "01GQZ2FSK240TV1BRW0AE90EWN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cocina_dw_battery",
+        "state": "100",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "friendly_name": "Cocina_DW Battery"
+        },
+        "last_changed": "2023-01-23T19:07:42.031932+00:00",
+        "last_updated": "2023-01-24T00:16:12.325340+00:00",
+        "context": {
+          "id": "01GQGJ3RH59371NSW3SK84KX3R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.salon_dw_door",
+        "state": "off",
+        "attributes": {
+          "device_class": "opening",
+          "friendly_name": "Salon_DW Door"
+        },
+        "last_changed": "2023-01-29T14:19:13.382542+00:00",
+        "last_updated": "2023-01-29T14:19:13.382542+00:00",
+        "context": {
+          "id": "01GQYYAZ36559E6ZQRT6YTB3QK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.salon_dw_luminosity",
+        "state": "56",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "lx",
+          "device_class": "illuminance",
+          "friendly_name": "Salon_DW Luminosity"
+        },
+        "last_changed": "2023-01-29T15:05:33.737034+00:00",
+        "last_updated": "2023-01-29T15:05:33.737034+00:00",
+        "context": {
+          "id": "01GQZ0ZT996225TW2W5K5JGEKW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.salon_dw_temperature",
+        "state": "19.8",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "°C",
+          "device_class": "temperature",
+          "friendly_name": "Salon_DW Temperature"
+        },
+        "last_changed": "2023-01-29T15:05:33.737973+00:00",
+        "last_updated": "2023-01-29T15:05:33.737973+00:00",
+        "context": {
+          "id": "01GQZ0ZT99F29Z7F8RNF91SQB2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.salon_dw_battery",
+        "state": "93",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "friendly_name": "Salon_DW Battery"
+        },
+        "last_changed": "2023-01-28T14:41:02.297251+00:00",
+        "last_updated": "2023-01-28T14:41:02.297251+00:00",
+        "context": {
+          "id": "01GQWD66ASBXP7S92SP4D7GF4B",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.cristalera_dw_door",
+        "state": "off",
+        "attributes": {
+          "device_class": "opening",
+          "friendly_name": "Cristalera_DW Door"
+        },
+        "last_changed": "2023-01-26T13:15:40.983332+00:00",
+        "last_updated": "2023-01-26T13:15:40.983332+00:00",
+        "context": {
+          "id": "01GQQ3GF1QQVN523TAQ1BPZTHD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cristalera_dw_luminosity",
+        "state": "0",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "lx",
+          "device_class": "illuminance",
+          "friendly_name": "Cristalera_DW Luminosity"
+        },
+        "last_changed": "2023-01-23T19:07:42.033907+00:00",
+        "last_updated": "2023-01-23T20:12:30.312879+00:00",
+        "context": {
+          "id": "01GQG45H78Z4ZA382RDME1AF1G",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cristalera_dw_temperature",
+        "state": "15.5",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "°C",
+          "device_class": "temperature",
+          "friendly_name": "Cristalera_DW Temperature"
+        },
+        "last_changed": "2023-01-29T15:50:04.690679+00:00",
+        "last_updated": "2023-01-29T15:50:04.690679+00:00",
+        "context": {
+          "id": "01GQZ3HAMJGP5ENFP0FEWGBHW9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.cristalera_dw_battery",
+        "state": "91",
+        "attributes": {
+          "state_class": "measurement",
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "friendly_name": "Cristalera_DW Battery"
+        },
+        "last_changed": "2023-01-29T12:41:29.118304+00:00",
+        "last_updated": "2023-01-29T12:41:29.118304+00:00",
+        "context": {
+          "id": "01GQYRR08YRSSG27FCFR338JS0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alert_ha",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-01-26T08:22:56.595472+00:00",
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Alert HA"
+        },
+        "last_changed": "2023-01-23T19:07:42.159004+00:00",
+        "last_updated": "2023-01-26T08:22:58.376449+00:00",
+        "context": {
+          "id": "01GQPJREAJAAWPDEKTACGBP4HT",
+          "parent_id": "01GQPJ64CF9GBWT8T47N3HZ1AF",
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alert_internet",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-01-26T08:22:56.604256+00:00",
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Alert internet"
+        },
+        "last_changed": "2023-01-23T19:07:42.159699+00:00",
+        "last_updated": "2023-01-26T08:22:57.995346+00:00",
+        "context": {
+          "id": "01GQPJREAVWRNAHW09JP056TSX",
+          "parent_id": "01GQPJ64CQ44JN6CG01R8QD3NM",
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_activity",
+        "state": "Stationary",
+        "attributes": {
+          "Confidence": "High",
+          "Types": [
+            "Stationary"
+          ],
+          "icon": "mdi:human-male",
+          "friendly_name": "Jan iPad Activity"
+        },
+        "last_changed": "2023-01-29T14:20:04.708244+00:00",
+        "last_updated": "2023-01-29T14:20:04.708244+00:00",
+        "context": {
+          "id": "01GQYYCH74BQGRN7S6JKANX32B",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Stationary",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_battery_level",
+        "state": "100",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery",
+          "friendly_name": "Jan iPad Battery Level"
+        },
+        "last_changed": "2023-01-29T14:20:04.709032+00:00",
+        "last_updated": "2023-01-29T14:20:04.709032+00:00",
+        "context": {
+          "id": "01GQYYCH752G2X1JCT13W3JXQ8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 100,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_battery_state_2",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery",
+          "friendly_name": "Jan iPad Battery State"
+        },
+        "last_changed": "2023-01-29T15:42:57.822247+00:00",
+        "last_updated": "2023-01-29T15:42:57.822247+00:00",
+        "context": {
+          "id": "01GQZ349RY9GMD6JAY47M02DXP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_storage",
+        "state": "32.10",
+        "attributes": {
+          "Available": "13,62 GB",
+          "Available (Important)": "32,79 GB",
+          "Available (Opportunistic)": "20,54 GB",
+          "Total": "63,98 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "Jan iPad Storage"
+        },
+        "last_changed": "2023-01-29T15:42:57.822962+00:00",
+        "last_updated": "2023-01-29T15:42:57.822962+00:00",
+        "context": {
+          "id": "01GQZ349RY468Y65VANJBDCM2M",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "32.10",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_ssid",
+        "state": "pisoWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPad SSID"
+        },
+        "last_changed": "2023-01-29T12:27:53.812995+00:00",
+        "last_updated": "2023-01-29T12:27:53.812995+00:00",
+        "context": {
+          "id": "01GQYQZ42ME31KVE4FSBMDPW7R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "pisoWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPad Connection Type"
+        },
+        "last_changed": "2023-01-29T12:27:53.814005+00:00",
+        "last_updated": "2023-01-29T12:27:53.814005+00:00",
+        "context": {
+          "id": "01GQYQZ42P53N1Z32HEESFEZXR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_geocoded_location",
+        "state": "Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña",
+        "attributes": {
+          "Administrative Area": "Granada",
+          "Areas Of Interest": "N/A",
+          "Country": "España",
+          "Inland Water": "N/A",
+          "ISO Country Code": "ES",
+          "Locality": "Granada",
+          "Location": [
+            37.180473822046196,
+            -3.6047434615875558
+          ],
+          "Name": "Calle de Luis de Mármol Carvajal, 4",
+          "Ocean": "N/A",
+          "Postal Code": "18001",
+          "Sub Administrative Area": "N/A",
+          "Sub Locality": "Centro",
+          "Sub Thoroughfare": "4",
+          "Thoroughfare": "Calle de Luis de Mármol Carvajal",
+          "Time Zone": "Europe/Madrid",
+          "Zones": [
+            "Piso"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "Jan iPad Geocoded Location"
+        },
+        "last_changed": "2023-01-29T15:15:50.754383+00:00",
+        "last_updated": "2023-01-29T15:15:50.754383+00:00",
+        "context": {
+          "id": "01GQZ1JMV22YSQTT6EMPY800QN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_bssid",
+        "state": "ea:9f:80:16:0:24",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "Jan iPad BSSID"
+        },
+        "last_changed": "2023-01-29T12:27:53.813376+00:00",
+        "last_updated": "2023-01-29T12:27:53.813376+00:00",
+        "context": {
+          "id": "01GQYQZ42NRG8EFQJ6CN7S8QBA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "ea:9f:80:16:0:24",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_last_update_trigger",
+        "state": "Launch",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "Jan iPad Last Update Trigger"
+        },
+        "last_changed": "2023-01-29T15:42:57.886462+00:00",
+        "last_updated": "2023-01-29T15:42:57.886462+00:00",
+        "context": {
+          "id": "01GQZ349TYZ2CPR76311HEC1ZS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Launch",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.jan_ipad_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "Jan iPad Focus"
+        },
+        "last_changed": "2023-01-23T19:07:43.530950+00:00",
+        "last_updated": "2023-01-23T19:07:43.530950+00:00",
+        "context": {
+          "id": "01GQG0EXHAW56SZHERM10HWRVE",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.jan_ipad_2",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 100,
+          "latitude": 37.180473822046196,
+          "longitude": -3.6047434615875558,
+          "gps_accuracy": 35,
+          "altitude": 673.2444190979004,
+          "vertical_accuracy": 18.92078399658203,
+          "friendly_name": "Jan iPad"
+        },
+        "last_changed": "2023-01-29T15:15:50.515829+00:00",
+        "last_updated": "2023-01-29T15:15:50.515829+00:00",
+        "context": {
+          "id": "01GQZ1JMKK4R7SRE2DPEAXW5XN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_battery_level",
+        "state": "77",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-70",
+          "friendly_name": "Jan iPhone Battery Level"
+        },
+        "last_changed": "2023-01-29T15:24:16.516088+00:00",
+        "last_updated": "2023-01-29T15:24:16.516088+00:00",
+        "context": {
+          "id": "01GQZ222R4BAPNNF4ZJNWZRMWE",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 77,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_battery_state_2",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-70",
+          "friendly_name": "Jan iPhone Battery State"
+        },
+        "last_changed": "2023-01-29T12:27:16.112681+00:00",
+        "last_updated": "2023-01-29T14:40:10.757993+00:00",
+        "context": {
+          "id": "01GQYZHB05KFJ6G33H6DXANH02",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_storage",
+        "state": "44.27",
+        "attributes": {
+          "Available": "26,20 GB",
+          "Available (Important)": "33,02 GB",
+          "Available (Opportunistic)": "28,32 GB",
+          "Total": "63,97 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "Jan iPhone Storage"
+        },
+        "last_changed": "2023-01-29T15:45:02.494583+00:00",
+        "last_updated": "2023-01-29T15:45:02.494583+00:00",
+        "context": {
+          "id": "01GQZ383GYPBDC9YRVPCRJXSJR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "44.27",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_ssid",
+        "state": "pisoWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPhone SSID"
+        },
+        "last_changed": "2023-01-29T14:18:51.326112+00:00",
+        "last_updated": "2023-01-29T14:18:51.326112+00:00",
+        "context": {
+          "id": "01GQYYA9HYMNJNHK3CYZAEYH96",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "pisoWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_sim_1",
+        "state": "MASMOVIL",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000001",
+          "Carrier Name": "MASMOVIL",
+          "Current Radio Technology": "Long-Term Evolution (LTE)",
+          "ISO Country Code": "es",
+          "Mobile Country Code": "214",
+          "Mobile Network Code": "04",
+          "icon": "mdi:sim",
+          "friendly_name": "Jan iPhone SIM 1"
+        },
+        "last_changed": "2023-01-23T19:07:43.533377+00:00",
+        "last_updated": "2023-01-23T19:07:43.533377+00:00",
+        "context": {
+          "id": "01GQG0EXHDDASM9RMXS108BV59",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "MASMOVIL",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_sim_2",
+        "state": "N/A",
+        "attributes": {
+          "Allows VoIP": true,
+          "Carrier ID": "0000000100000002",
+          "Carrier Name": "N/A",
+          "ISO Country Code": "N/A",
+          "Mobile Country Code": "N/A",
+          "Mobile Network Code": "N/A",
+          "icon": "mdi:sim",
+          "friendly_name": "Jan iPhone SIM 2"
+        },
+        "last_changed": "2023-01-23T19:07:43.533875+00:00",
+        "last_updated": "2023-01-23T19:07:43.533875+00:00",
+        "context": {
+          "id": "01GQG0EXHDZDDMYBFH6EQM1S2E",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "N/A",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_geocoded_location",
+        "state": "Calle del Rector López Argüeta, 5\n18001 Granada Granada\nEspaña",
+        "attributes": {
+          "Administrative Area": "Granada",
+          "Areas Of Interest": "N/A",
+          "Country": "España",
+          "Inland Water": "N/A",
+          "ISO Country Code": "ES",
+          "Locality": "Granada",
+          "Location": [
+            37.18017578125,
+            -3.6037794359840714
+          ],
+          "Name": "Calle del Rector López Argüeta, 5",
+          "Ocean": "N/A",
+          "Postal Code": "18001",
+          "Sub Administrative Area": "N/A",
+          "Sub Locality": "Centro",
+          "Sub Thoroughfare": "5",
+          "Thoroughfare": "Calle del Rector López Argüeta",
+          "Time Zone": "Europe/Madrid",
+          "Zones": [
+            "Piso"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "Jan iPhone Geocoded Location"
+        },
+        "last_changed": "2023-01-29T14:18:51.048110+00:00",
+        "last_updated": "2023-01-29T14:18:51.048110+00:00",
+        "context": {
+          "id": "01GQYYA998W4YTCK49AANA010E",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Calle del Rector López Argüeta, 5\n18001 Granada Granada\nEspaña",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_last_update_trigger",
+        "state": "Periodic",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "Jan iPhone Last Update Trigger"
+        },
+        "last_changed": "2023-01-29T14:30:30.408580+00:00",
+        "last_updated": "2023-01-29T14:30:30.408580+00:00",
+        "context": {
+          "id": "01GQYYZM88TR942EY9ZD2NSE0X",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Periodic",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_bssid",
+        "state": "ea:9f:80:16:0:24",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "Jan iPhone BSSID"
+        },
+        "last_changed": "2023-01-29T14:18:51.327099+00:00",
+        "last_updated": "2023-01-29T14:18:51.327099+00:00",
+        "context": {
+          "id": "01GQYYA9HZGPD3XKHV8KZD6TGX",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "ea:9f:80:16:0:24",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_iphone_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPhone Connection Type"
+        },
+        "last_changed": "2023-01-29T14:18:51.327985+00:00",
+        "last_updated": "2023-01-29T14:18:51.327985+00:00",
+        "context": {
+          "id": "01GQYYA9HZXYVD59NPVR0FPPDV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.jan_iphone_focus",
+        "state": "off",
+        "attributes": {
+          "icon": "mdi:moon-waning-crescent",
+          "friendly_name": "Jan iPhone Focus"
+        },
+        "last_changed": "2023-01-23T19:07:43.535362+00:00",
+        "last_updated": "2023-01-23T19:07:43.535362+00:00",
+        "context": {
+          "id": "01GQG0EXHFKMARTDKPDM1RJ1PY",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.jan_iphone_2",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 80,
+          "latitude": 37.18017578125,
+          "longitude": -3.6037794359840714,
+          "gps_accuracy": 35,
+          "altitude": 674.9558982849121,
+          "vertical_accuracy": 23.434825897216797,
+          "friendly_name": "Jan iPhone"
+        },
+        "last_changed": "2023-01-29T14:18:49.962528+00:00",
+        "last_updated": "2023-01-29T14:18:49.962528+00:00",
+        "context": {
+          "id": "01GQYYA87A3H4QSXMC0PN8WDX4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_w_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_W_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.747784+00:00",
+        "last_updated": "2023-01-23T19:07:43.747784+00:00",
+        "context": {
+          "id": "01GQG0EXR346XD76221B089XTS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_w_4_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_W_4 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.748255+00:00",
+        "last_updated": "2023-01-23T19:07:43.748255+00:00",
+        "context": {
+          "id": "01GQG0EXR4KD2WCSV199X7NHRR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.lg_webos_tv_8893_identify",
+        "state": "unknown",
+        "attributes": {
+          "friendly_name": "LG webOS TV 8893 Identify"
+        },
+        "last_changed": "2023-01-29T15:11:33.930181+00:00",
+        "last_updated": "2023-01-29T15:11:33.930181+00:00",
+        "context": {
+          "id": "01GQZ1AT1ABJT5XD6SN63D2YDN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_w_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_W_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.791912+00:00",
+        "last_updated": "2023-01-23T19:07:43.791912+00:00",
+        "context": {
+          "id": "01GQG0EXSFC1RE6CBJCVAZQH72",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_w_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_W_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.806409+00:00",
+        "last_updated": "2023-01-23T19:07:43.806409+00:00",
+        "context": {
+          "id": "01GQG0EXSY084KDDDF368FBB94",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_w_3_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_W_3 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.829306+00:00",
+        "last_updated": "2023-01-23T19:07:43.829306+00:00",
+        "context": {
+          "id": "01GQG0EXTN9TFTYV6WMWX99ME0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_s_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_S_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.867692+00:00",
+        "last_updated": "2023-01-23T19:07:43.867692+00:00",
+        "context": {
+          "id": "01GQG0EXVVNFDBRWEZS8VW203B",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.library_w_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Library_w_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.898494+00:00",
+        "last_updated": "2023-01-23T19:07:43.898494+00:00",
+        "context": {
+          "id": "01GQG0EXWT1TTDZ4PSYWHAC1YR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_E_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:43.986791+00:00",
+        "last_updated": "2023-01-23T19:07:43.986791+00:00",
+        "context": {
+          "id": "01GQG0EXZJEAF5C8ZY5AADRWAG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.vestidor_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Vestidor_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.067989+00:00",
+        "last_updated": "2023-01-23T19:07:44.067989+00:00",
+        "context": {
+          "id": "01GQG0EY23B5HYP2H0EG9HC4KS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.bano_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Bano_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.090735+00:00",
+        "last_updated": "2023-01-23T19:07:44.090735+00:00",
+        "context": {
+          "id": "01GQG0EY2T6R2384MHN1HCZM79",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.libraria_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Libraria_E_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.110204+00:00",
+        "last_updated": "2023-01-23T19:07:44.110204+00:00",
+        "context": {
+          "id": "01GQG0EY3EXE66JDTWFJE24T8H",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_w_p_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_W_P Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.127579+00:00",
+        "last_updated": "2023-01-23T19:07:44.127579+00:00",
+        "context": {
+          "id": "01GQG0EY3ZWP9NEGA9T03CJ3K6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_w_p_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_W_P_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.132787+00:00",
+        "last_updated": "2023-01-23T19:07:44.132787+00:00",
+        "context": {
+          "id": "01GQG0EY449P4EECJ5KPJSTPY8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.cocina_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Cocina_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.217795+00:00",
+        "last_updated": "2023-01-23T19:07:44.217795+00:00",
+        "context": {
+          "id": "01GQG0EY6SGVMQ494QEBG12S38",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_v_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_V_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.247278+00:00",
+        "last_updated": "2023-01-23T19:07:44.247278+00:00",
+        "context": {
+          "id": "01GQG0EY7Q7ESN8BR89RNCEBC0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_s_3_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_S_3 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.270942+00:00",
+        "last_updated": "2023-01-23T19:07:44.270942+00:00",
+        "context": {
+          "id": "01GQG0EY8E7RRJQV2E88Q43JX4",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.cristalera_w_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Cristalera_W_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.278560+00:00",
+        "last_updated": "2023-01-23T19:07:44.278560+00:00",
+        "context": {
+          "id": "01GQG0EY8PNX0DMF3AAB8CX22S",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_e_3_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_E_3 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.287307+00:00",
+        "last_updated": "2023-01-23T19:07:44.287307+00:00",
+        "context": {
+          "id": "01GQG0EY8ZV8YR912N274X59XP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.cocina_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Cocina_E_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.320438+00:00",
+        "last_updated": "2023-01-23T19:07:44.320438+00:00",
+        "context": {
+          "id": "01GQG0EYA0A1KYGA4CA3R8ES1J",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_e_4_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_E_4 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.338152+00:00",
+        "last_updated": "2023-01-23T19:07:44.338152+00:00",
+        "context": {
+          "id": "01GQG0EYAJWGER9TAVZPEKX376",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_s_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_S_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.383969+00:00",
+        "last_updated": "2023-01-23T19:07:44.383969+00:00",
+        "context": {
+          "id": "01GQG0EYBZT4ZD4C6C8S9V40YJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.bano_w_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Bano_W_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.401669+00:00",
+        "last_updated": "2023-01-23T19:07:44.401669+00:00",
+        "context": {
+          "id": "01GQG0EYCHP3PKGWM383870F0F",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_e_4_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_E_4 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.432933+00:00",
+        "last_updated": "2023-01-23T19:07:44.432933+00:00",
+        "context": {
+          "id": "01GQG0EYDGVZ627MQHW4YQBZ8Q",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.497585+00:00",
+        "last_updated": "2023-01-23T19:07:44.497585+00:00",
+        "context": {
+          "id": "01GQG0EYFH9DGZM5YT64R18R1R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.bano_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Bano_E_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.521563+00:00",
+        "last_updated": "2023-01-23T19:07:44.521563+00:00",
+        "context": {
+          "id": "01GQG0EYG9Z3HFXX6Y2N6A5RKW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_w_p_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_W_P_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.544587+00:00",
+        "last_updated": "2023-01-23T19:07:44.544587+00:00",
+        "context": {
+          "id": "01GQG0EYH0QQN4ZY72FB748R2M",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_w_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_W_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.566976+00:00",
+        "last_updated": "2023-01-23T19:07:44.566976+00:00",
+        "context": {
+          "id": "01GQG0EYHP00CFH1TEASY2NPDV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.cocina_e_3_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Cocina_E_3 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.590392+00:00",
+        "last_updated": "2023-01-23T19:07:44.590392+00:00",
+        "context": {
+          "id": "01GQG0EYJETCHHAY320JK3FSNC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_rgb_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_RGB Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.615442+00:00",
+        "last_updated": "2023-01-23T19:07:44.615442+00:00",
+        "context": {
+          "id": "01GQG0EYK7JFYVNYA40KXFVMWS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.641005+00:00",
+        "last_updated": "2023-01-23T19:07:44.641005+00:00",
+        "context": {
+          "id": "01GQG0EYM1R5ENG7BVERD7SPY2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_E_1 Reboot"
+        },
+        "last_changed": "2023-01-29T15:34:34.670309+00:00",
+        "last_updated": "2023-01-29T15:34:34.670309+00:00",
+        "context": {
+          "id": "01GQZ2MYDEHMSAZBEHB7N13BPN",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_e_5_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_E_5 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.691141+00:00",
+        "last_updated": "2023-01-23T19:07:44.691141+00:00",
+        "context": {
+          "id": "01GQG0EYNKZ33ME3495KS8QQPD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.cristalera_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Cristalera_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.721114+00:00",
+        "last_updated": "2023-01-23T19:07:44.721114+00:00",
+        "context": {
+          "id": "01GQG0EYPH6GRSXW0F5JPBCG0Y",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.libraria_e_2_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Libraria_E_2 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.738582+00:00",
+        "last_updated": "2023-01-23T19:07:44.738582+00:00",
+        "context": {
+          "id": "01GQG0EYQ2QYAKEW4W96SX2TN1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.salon_e_3_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Salon_E_3 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.751787+00:00",
+        "last_updated": "2023-01-23T19:07:44.751787+00:00",
+        "context": {
+          "id": "01GQG0EYQFWWX4KDV4WHRV4FD9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dormitorio_rgb_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Dormitorio_RGB Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.765667+00:00",
+        "last_updated": "2023-01-23T19:07:44.765667+00:00",
+        "context": {
+          "id": "01GQG0EYQXE23TMX7DRN2X01NQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.dorm_luz_cama_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "DORM_LUZ_CAMA Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.781102+00:00",
+        "last_updated": "2023-01-23T19:07:44.781102+00:00",
+        "context": {
+          "id": "01GQG0EYRD94V771QMD32HEYY2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.cristalera_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Cristalera_E_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.783062+00:00",
+        "last_updated": "2023-01-23T19:07:44.783062+00:00",
+        "context": {
+          "id": "01GQG0EYRF989FM8AGY1R3T27C",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "button.vestidor_e_1_reboot",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "restart",
+          "friendly_name": "Vestidor_E_1 Reboot"
+        },
+        "last_changed": "2023-01-23T19:07:44.784748+00:00",
+        "last_updated": "2023-01-23T19:07:44.784748+00:00",
+        "context": {
+          "id": "01GQG0EYRGEM488FVAPZVDQK3P",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "media_player.lg_webos_smart_tv",
+        "state": "off",
+        "attributes": {
+          "source_list": [
+            "Alertas de deportes",
+            "Amazon Alexa",
+            "Apple TV",
+            "Apps",
+            "Disney+",
+            "Explore Google Assistant",
+            "HBO Max",
+            "HDMI 1",
+            "HDMI 2",
+            "HDMI 3",
+            "LG Channels",
+            "Live TV",
+            "Navegador web",
+            "Netflix",
+            "Panel de casa",
+            "Prime Video",
+            "RTVE.es Play",
+            "Rakuten TV",
+            "Reproductor multimedia",
+            "Spotify – Música y podcasts",
+            "YouTube"
+          ],
+          "assumed_state": true,
+          "device_class": "tv",
+          "friendly_name": "LG webOS Smart TV",
+          "supported_features": 24381
+        },
+        "last_changed": "2023-01-24T14:48:45.511660+00:00",
+        "last_updated": "2023-01-24T14:48:45.511660+00:00",
+        "context": {
+          "id": "01GQJ41EP747DPTGRQYHW1CZVQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-01-29T15:52:50.453858+00:00"
+    }
+  ]
+}

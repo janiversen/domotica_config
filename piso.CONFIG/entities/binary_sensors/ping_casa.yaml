@@ -1,0 +1,4 @@
+platform: ping
+host: casa.lan
+name: ha_server
+count: 8

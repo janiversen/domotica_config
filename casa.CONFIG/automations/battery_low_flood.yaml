@@ -1,0 +1,15 @@
+alias: Battery flood casa
+description: ''
+trigger:
+  platform: numeric_state
+  entity_id: sensor.shelly_flood_battery
+  below: '10'
+condition: []
+action:
+  - service: notify.mail
+    data:
+      title: Pilar deposito !!
+      message: Cambiar pilar deposito casa pronto.
+      target:
+        - "jan@casacondor.com"
+mode: single

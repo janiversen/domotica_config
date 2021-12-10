@@ -1,0 +1,4 @@
+platform: ping
+host: casa_router.lan
+name: internet
+count: 8
