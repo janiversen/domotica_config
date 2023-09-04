@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:17:00</dateadded>
+  <title>Neil Sedaka</title>
+  <runtime>2</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>577d92bd-32ac-48b6-86df-4db6b0b52fbf</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Neil Sedaka/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Neil Sedaka/backdrop.jpg</fanart>
+  </art>
+</artist>

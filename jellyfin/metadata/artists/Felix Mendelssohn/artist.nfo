@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:10:48</dateadded>
+  <title>Felix Mendelssohn</title>
+  <runtime>53</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>0e85eb79-1c05-44ba-827c-7b259a3d941a</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Felix Mendelssohn/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Felix Mendelssohn/backdrop1.jpg</fanart>
+  </art>
+</artist>

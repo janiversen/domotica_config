@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:18:36</dateadded>
+  <title>Richard Anthony</title>
+  <runtime>5</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>dc5531f9-e25d-4397-bb03-133f5f1d5ad9</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Richard Anthony/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Richard Anthony/backdrop.jpg</fanart>
+  </art>
+</artist>

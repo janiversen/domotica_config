@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {
+        "entity_id": "person.jan",
+        "state": "not_home",
+        "attributes": {
+          "editable": true,
+          "id": "jan",
+          "latitude": 36.94927978515625,
+          "longitude": -3.5561550394051533,
+          "gps_accuracy": 96,
+          "source": "device_tracker.jan_ipad",
+          "user_id": "2e0c17cedad14058a331a80580362c80",
+          "device_trackers": [
+            "device_tracker.jan_iphone",
+            "device_tracker.jan_ipad"
+          ],
+          "friendly_name": "jan"
+        },
+        "last_changed": "2023-12-13T13:50:15.688826+00:00",
+        "last_updated": "2023-12-13T13:50:15.688826+00:00",
+        "context": {
+          "id": "01HHHQ2G48V581D20VRD81T4VD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "person.belen",
+        "state": "unknown",
+        "attributes": {
+          "editable": true,
+          "id": "belen",
+          "user_id": "ea1525457ff949c19536b969d57ed9aa",
+          "device_trackers": [
+            "device_tracker.belen_iphone"
+          ],
+          "friendly_name": "belen"
+        },
+        "last_changed": "2023-12-12T13:04:53.040911+00:00",
+        "last_updated": "2023-12-12T13:04:54.694930+00:00",
+        "context": {
+          "id": "01HHF22QX6RJ2AT9RVEKY87HXT",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alert_ha",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-12-11T07:53:37.949212+00:00",
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Alert HA"
+        },
+        "last_changed": "2023-12-12T13:04:54.095632+00:00",
+        "last_updated": "2023-12-12T13:04:54.095632+00:00",
+        "context": {
+          "id": "01HHF22QAFRE468YGN4BP7BC64",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.alert_internet",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-01-26T08:22:56.604256+00:00",
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Alert internet"
+        },
+        "last_changed": "2023-12-12T13:04:54.096397+00:00",
+        "last_updated": "2023-12-12T13:04:54.096397+00:00",
+        "context": {
+          "id": "01HHF22QAGGSJFS1VFPY9PG0XY",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.battery_door_casa",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Battery door casa"
+        },
+        "last_changed": "2023-12-12T13:04:54.096930+00:00",
+        "last_updated": "2023-12-12T13:04:54.096930+00:00",
+        "context": {
+          "id": "01HHF22QAGE6JGFKB2J070HHEA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.battery_flood_casa",
+        "state": "on",
+        "attributes": {
+          "last_triggered": null,
+          "mode": "single",
+          "current": 0,
+          "friendly_name": "Battery flood casa"
+        },
+        "last_changed": "2023-12-12T13:04:54.097917+00:00",
+        "last_updated": "2023-12-12T13:04:54.097917+00:00",
+        "context": {
+          "id": "01HHF22QAH8BR1CJNZF3DWV0D1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.ha_server",
+        "state": "off",
+        "attributes": {
+          "device_class": "connectivity",
+          "friendly_name": "ha_server"
+        },
+        "last_changed": "2023-12-12T13:04:54.162473+00:00",
+        "last_updated": "2023-12-12T13:04:54.162473+00:00",
+        "context": {
+          "id": "01HHF22QCJMC5TET8STHTZ0XEP",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "binary_sensor.internet",
+        "state": "on",
+        "attributes": {
+          "round_trip_time_avg": 8.095,
+          "round_trip_time_max": 22.107,
+          "round_trip_time_mdev": "",
+          "round_trip_time_min": 2.488,
+          "device_class": "connectivity",
+          "friendly_name": "internet"
+        },
+        "last_changed": "2023-12-12T13:04:54.163032+00:00",
+        "last_updated": "2023-12-13T18:45:21.281313+00:00",
+        "context": {
+          "id": "01HHJ7YTR10REN7WVXK2J4RKR7",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "switch.vamos_a_estar",
+        "state": "unknown",
+        "attributes": {
+          "device_class": "switch",
+          "friendly_name": "vamos_a_estar"
+        },
+        "last_changed": "2023-12-12T13:04:54.185004+00:00",
+        "last_updated": "2023-12-12T13:04:54.185004+00:00",
+        "context": {
+          "id": "01HHF22QD9TJJJDHV838FDHYTB",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_storage",
+        "state": "34.51",
+        "attributes": {
+          "Available": "11,90 GB",
+          "Available (Important)": "31,79 GB",
+          "Available (Opportunistic)": "22,08 GB",
+          "Total": "63,98 GB",
+          "unit_of_measurement": "% available",
+          "icon": "mdi:database",
+          "friendly_name": "Jan iPad Storage"
+        },
+        "last_changed": "2023-12-13T18:24:45.864224+00:00",
+        "last_updated": "2023-12-13T18:40:07.624856+00:00",
+        "context": {
+          "id": "01HHJ7N8E8PMJFVWERBM5TK1MJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "34.51",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_battery_level",
+        "state": "70",
+        "attributes": {
+          "unit_of_measurement": "%",
+          "device_class": "battery",
+          "icon": "mdi:battery-70",
+          "friendly_name": "Jan iPad Battery Level"
+        },
+        "last_changed": "2023-12-13T18:14:45.096534+00:00",
+        "last_updated": "2023-12-13T18:14:45.096534+00:00",
+        "context": {
+          "id": "01HHJ66SK8TJAKVWFHQY6791ZD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": 70,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_battery_state",
+        "state": "Not Charging",
+        "attributes": {
+          "Low Power Mode": false,
+          "icon": "mdi:battery-70",
+          "friendly_name": "Jan iPad Battery State"
+        },
+        "last_changed": "2023-12-13T15:36:53.882069+00:00",
+        "last_updated": "2023-12-13T17:03:59.400030+00:00",
+        "context": {
+          "id": "01HHJ257D8MQFZN8YXE1BK7FNJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Not Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_ssid",
+        "state": "casaWifi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPad SSID"
+        },
+        "last_changed": "2023-12-13T13:50:15.747792+00:00",
+        "last_updated": "2023-12-13T13:50:15.747792+00:00",
+        "context": {
+          "id": "01HHHQ2G63Q0PQ76F88X5P16EF",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "casaWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_bssid",
+        "state": "e8:9f:80:16:1:73",
+        "attributes": {
+          "icon": "mdi:wifi-star",
+          "friendly_name": "Jan iPad BSSID"
+        },
+        "last_changed": "2023-12-13T18:14:45.105084+00:00",
+        "last_updated": "2023-12-13T18:14:45.105084+00:00",
+        "context": {
+          "id": "01HHJ66SKH8ZHE720NVTY70664",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "e8:9f:80:16:1:73",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_geocoded_location",
+        "state": "Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña",
+        "attributes": {
+          "Administrative Area": "Granada",
+          "Areas Of Interest": "N/A",
+          "Country": "España",
+          "Inland Water": "N/A",
+          "ISO Country Code": "ES",
+          "Locality": "Granada",
+          "Location": [
+            37.180473822046196,
+            -3.6047434615875558
+          ],
+          "Name": "Calle de Luis de Mármol Carvajal, 4",
+          "Ocean": "N/A",
+          "Postal Code": "18001",
+          "Sub Administrative Area": "N/A",
+          "Sub Locality": "Centro",
+          "Sub Thoroughfare": "4",
+          "Thoroughfare": "Calle de Luis de Mármol Carvajal",
+          "Time Zone": "Europe/Madrid",
+          "Zones": [
+            "Piso"
+          ],
+          "icon": "mdi:map",
+          "friendly_name": "Jan iPad Geocoded Location"
+        },
+        "last_changed": "2023-12-12T13:04:54.681289+00:00",
+        "last_updated": "2023-12-12T13:04:54.681289+00:00",
+        "context": {
+          "id": "01HHF22QWS4JH7XGCZ99TMT8T8",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_last_update_trigger",
+        "state": "Periodic",
+        "attributes": {
+          "icon": "mdi:cellphone-wireless",
+          "friendly_name": "Jan iPad Last Update Trigger"
+        },
+        "last_changed": "2023-12-13T18:14:45.106266+00:00",
+        "last_updated": "2023-12-13T18:14:45.106266+00:00",
+        "context": {
+          "id": "01HHJ66SKJWZPNM9PZ9QJPSGBE",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Periodic",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.jan_ipad_connection_type",
+        "state": "Wi-Fi",
+        "attributes": {
+          "icon": "mdi:wifi",
+          "friendly_name": "Jan iPad Connection Type"
+        },
+        "last_changed": "2023-12-13T13:50:15.748990+00:00",
+        "last_updated": "2023-12-13T13:50:15.748990+00:00",
+        "context": {
+          "id": "01HHHQ2G64QD99V7JD4WZX98QG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.jan_ipad",
+        "state": "not_home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 35,
+          "latitude": 36.94927978515625,
+          "longitude": -3.5561550394051533,
+          "gps_accuracy": 96,
+          "altitude": 658.2833862304688,
+          "vertical_accuracy": 124.18939971923828,
+          "friendly_name": "Jan iPad"
+        },
+        "last_changed": "2023-12-13T13:50:15.675967+00:00",
+        "last_updated": "2023-12-13T13:50:15.675967+00:00",
+        "context": {
+          "id": "01HHHQ2G3VB0KP6JC8GH8SAJVA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-13T18:50:14.446985+00:00"
+    }
+  ]
+}

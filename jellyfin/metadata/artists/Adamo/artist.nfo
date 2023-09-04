@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:11:18</dateadded>
+  <title>Adamo</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>d3132eab-36d1-476e-a736-cb6dbb08a4a2</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Adamo/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Adamo/backdrop.jpg</fanart>
+  </art>
+</artist>

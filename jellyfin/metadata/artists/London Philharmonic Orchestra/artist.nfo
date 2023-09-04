@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:26:19</dateadded>
+  <title>London Philharmonic Orchestra</title>
+  <runtime>86</runtime>
+  <musicbrainzartistid>fa37018e-3557-4cb7-973f-555003c30174</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/London Philharmonic Orchestra/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/London Philharmonic Orchestra/backdrop1.jpg</fanart>
+  </art>
+</artist>

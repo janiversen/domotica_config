@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:44:48</dateadded>
+  <title>Lars H.U.G.</title>
+  <runtime>4</runtime>
+  <musicbrainzartistid>25c0f5fa-e838-4c04-872f-d3ab569c86c2</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Lars H.U.G/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Lars H.U.G/backdrop.jpg</fanart>
+  </art>
+</artist>

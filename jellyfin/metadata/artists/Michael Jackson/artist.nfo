@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:42:40</dateadded>
+  <title>Michael Jackson</title>
+  <runtime>52</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>f27ec8db-af05-4f36-916e-3d57f91ecf5e</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Michael Jackson/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Michael Jackson/backdrop.jpg</fanart>
+  </art>
+</artist>

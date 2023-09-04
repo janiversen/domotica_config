@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "10c2bc7ca59f367f6eabb7195d1b9d5c",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b0ecae2aa5493190692a6ac8868e2532",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPad",
+        "data": {
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7"
+          },
+          "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
+          "os_name": "iPadOS",
+          "model": "iPad13,1",
+          "app_version": "2023.7 (2023.471)",
+          "os_version": "17.1.2",
+          "app_id": "io.robbie.HomeAssistant",
+          "device_name": "Jan iPad",
+          "supports_encryption": true,
+          "app_name": "Home Assistant",
+          "manufacturer": "Apple",
+          "webhook_id": "52792c889414e705bf81fc5b2c96438a72ce10116c7746a02cb21adf0d4a32f6",
+          "secret": "6cfab6eb43537dac7448341a3baf002b75032a15115976c4305627d970feb035",
+          "user_id": "2e0c17cedad14058a331a80580362c80",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-7719C43E-E09F-4531-9FA5-0F33706DFA45",
+        "disabled_by": null
+      }
+    ]
+  }
+}

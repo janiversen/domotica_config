@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:41:08</dateadded>
+  <title>Lauren Daigle</title>
+  <runtime>3</runtime>
+  <musicbrainzartistid>920c7a88-f8f3-482f-96ef-810c6442fc3e</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Lauren Daigle/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Lauren Daigle/backdrop.jpg</fanart>
+  </art>
+</artist>

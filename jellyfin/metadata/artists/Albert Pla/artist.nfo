@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:16:23</dateadded>
+  <title>Albert Pla</title>
+  <runtime>3</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>ba77d3af-37d0-466f-875a-3240f4403f7e</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Albert Pla/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Albert Pla/backdrop.jpg</fanart>
+  </art>
+</artist>

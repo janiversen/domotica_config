@@ -1,0 +1,18 @@
+[Unit]
+Description=jellyfin
+After=network-online.target
+
+[Service]
+Type=simple
+User=jan
+ExecStart=/usr/bin/jellyfin \
+	--datadir /home/jan/domotica_config/jellyfin \
+        --configdir /home/jan/domotica_config/jellyfin/config \
+        --webdir /usr/share/jellyfin/web \
+        --logdir /home/jan/domotica_config/jellyfin/log
+
+Restart=on-failure
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:48:26</dateadded>
+  <title>Paul McCartney &amp; Wings</title>
+  <runtime>3</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>d922d727-240a-4432-9a88-05a7cf9bc403</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Paul McCartney &amp; Wings/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Paul McCartney &amp; Wings/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:20:38</dateadded>
+  <title>The Platters</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>3fb55c03-3ad9-4341-8d0b-7c4c49aefca0</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/The Platters/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/The Platters/backdrop.jpg</fanart>
+  </art>
+</artist>

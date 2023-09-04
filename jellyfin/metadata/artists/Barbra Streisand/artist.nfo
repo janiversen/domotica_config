@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:27:20</dateadded>
+  <title>Barbra Streisand</title>
+  <runtime>87</runtime>
+  <genre>Pop</genre>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>56cd15a1-0d74-438b-8244-c96ffe1cae03</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Barbra Streisand/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Barbra Streisand/backdrop2.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:08:32</dateadded>
+  <title>Plácido Domingo</title>
+  <runtime>54</runtime>
+  <musicbrainzartistid>521df2bd-01f6-456e-9d5f-f081068819c2</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Plácido Domingo/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Plácido Domingo/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:14:49</dateadded>
+  <title>Jane Birkin</title>
+  <runtime>4</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>e4f92153-dd32-4c81-98bd-e0ad9a1b9672</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Jane Birkin/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Jane Birkin/backdrop.jpg</fanart>
+  </art>
+</artist>

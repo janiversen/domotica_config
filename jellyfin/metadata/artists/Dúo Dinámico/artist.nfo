@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:13:37</dateadded>
+  <title>Dúo Dinámico</title>
+  <runtime>7</runtime>
+  <genre>Soundtrack</genre>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>c5399dec-9fb1-4054-a414-eaa54f1f4a77</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Dúo Dinámico/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Dúo Dinámico/backdrop1.jpg</fanart>
+  </art>
+</artist>

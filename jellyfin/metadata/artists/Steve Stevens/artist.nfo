@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:23:22</dateadded>
+  <title>Steve Stevens</title>
+  <runtime>4</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>51cc88e9-657b-4cda-bcb7-0a8faa753b02</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Steve Stevens/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Steve Stevens/backdrop.jpg</fanart>
+  </art>
+</artist>

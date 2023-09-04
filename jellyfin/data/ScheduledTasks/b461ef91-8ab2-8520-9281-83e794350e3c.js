@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2023-12-12T14:48:09.7280476Z","EndTimeUtc":"2023-12-12T14:48:09.7725995Z","Status":"Completed","Name":"Limpiar registro de actividad","Key":"CleanActivityLog","Id":"b461ef918ab28520928183e794350e3c"}

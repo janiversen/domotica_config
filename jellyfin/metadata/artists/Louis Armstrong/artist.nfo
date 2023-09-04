@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:16:13</dateadded>
+  <title>Louis Armstrong</title>
+  <runtime>79</runtime>
+  <genre>Jazz</genre>
+  <genre>Compilation</genre>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>eea8a864-fcda-4602-9569-38ab446decd6</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Louis Armstrong/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Louis Armstrong/backdrop2.jpg</fanart>
+  </art>
+</artist>

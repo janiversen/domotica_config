@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:37:34</dateadded>
+  <title>François Couperin</title>
+  <runtime>13</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>86523090-6085-42c1-80b7-772f1bc80472</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/François Couperin/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/François Couperin/backdrop.jpg</fanart>
+  </art>
+</artist>

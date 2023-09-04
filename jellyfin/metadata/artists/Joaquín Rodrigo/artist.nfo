@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:23:48</dateadded>
+  <title>Joaquín Rodrigo</title>
+  <runtime>28</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>fde4460b-868a-493e-8c53-221e418c8959</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Joaquín Rodrigo/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Joaquín Rodrigo/backdrop1.jpg</fanart>
+  </art>
+</artist>

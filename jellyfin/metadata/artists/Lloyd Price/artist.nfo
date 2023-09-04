@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:15:33</dateadded>
+  <title>Lloyd Price</title>
+  <runtime>2</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>d047ee24-6fac-401a-8769-34edbda52113</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Lloyd Price/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Lloyd Price/backdrop.jpg</fanart>
+  </art>
+</artist>

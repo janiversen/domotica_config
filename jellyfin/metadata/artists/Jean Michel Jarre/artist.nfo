@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:08:13</dateadded>
+  <title>Jean Michel Jarre</title>
+  <runtime>732</runtime>
+  <genre>Electronic</genre>
+  <musicbrainzartistid>86e2e2ad-6d1b-44fd-9463-b6683718a1cc</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Jean Michel Jarre/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Jean Michel Jarre/backdrop2.jpg</fanart>
+  </art>
+</artist>

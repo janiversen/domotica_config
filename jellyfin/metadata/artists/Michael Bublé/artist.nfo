@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:26:34</dateadded>
+  <title>Michael Bublé</title>
+  <runtime>49</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>611700cf-27f0-4dc9-ae80-c513a767853e</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Michael Bublé/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Michael Bublé/backdrop.jpg</fanart>
+  </art>
+</artist>

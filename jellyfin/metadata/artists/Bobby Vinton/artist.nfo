@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:12:18</dateadded>
+  <title>Bobby Vinton</title>
+  <runtime>6</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>f37f26ea-6a9a-49b8-9614-bdad762f1ba6</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Bobby Vinton/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Bobby Vinton/backdrop.jpg</fanart>
+  </art>
+</artist>

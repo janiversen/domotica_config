@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:23:09</dateadded>
+  <title>Maurice Jarre</title>
+  <runtime>70</runtime>
+  <musicbrainzartistid>05d4d95c-8803-450f-80c2-7ea606e6f78b</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Maurice Jarre/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Maurice Jarre/backdrop.jpg</fanart>
+  </art>
+</artist>

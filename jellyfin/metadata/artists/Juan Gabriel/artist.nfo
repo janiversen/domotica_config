@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:11:06</dateadded>
+  <title>Juan Gabriel</title>
+  <runtime>6</runtime>
+  <musicbrainzartistid>bc9b7500-0afc-41ba-a056-b0bc81669702</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Juan Gabriel/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Juan Gabriel/backdrop.jpg</fanart>
+  </art>
+</artist>

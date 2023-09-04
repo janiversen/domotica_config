@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:24:57</dateadded>
+  <title>Johannes Brahms</title>
+  <runtime>112</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>c70d12a2-24fe-4f83-a6e6-57d84f8efb51</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Johannes Brahms/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Johannes Brahms/backdrop2.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,969 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "8c8a6531c54a1d45774a82a0fe06ecc9",
+        "version": 1,
+        "domain": "hassio",
+        "title": "Supervisor",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "system",
+        "unique_id": "hassio",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "183d61596892a6bd07b16ffacb2d88a7",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "be6ee70acb4dea78e2ed2f194b027355",
+        "version": 1,
+        "domain": "ios",
+        "title": "Home Assistant iOS",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "cef5d0992088476a17ad50d61596400c",
+        "version": 1,
+        "domain": "bluetooth",
+        "title": "E4:5F:01:11:29:9E",
+        "data": {},
+        "options": {
+          "passive": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "integration_discovery",
+        "unique_id": "E4:5F:01:11:29:9E",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d2f814d64705d3b9cc39646a6e7ea1f4",
+        "version": 1,
+        "domain": "met",
+        "title": "Home",
+        "data": {
+          "track_home": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1f76a1bf7723c0e7ee58b40d591d9a5c",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Bano_E_1",
+        "data": {
+          "host": "192.168.20.104",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A26C14",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "638a41c1636de7e436e51eee8a4aaf47",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Library_w_1",
+        "data": {
+          "host": "192.168.20.134",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D3ED4D",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b244c8a2b6ee28036ed8ed53829442fb",
+        "version": 1,
+        "domain": "volumio",
+        "title": "musica",
+        "data": {
+          "name": "musica",
+          "host": "192.168.20.14",
+          "port": 3000,
+          "id": "2e40ae84-39dd-4d0f-8df6-b7ca9e049e7c"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "2e40ae84-39dd-4d0f-8df6-b7ca9e049e7c",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c806b51fb586d257ff707967041615fc",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cristalera_E_1",
+        "data": {
+          "host": "192.168.20.114",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E75B",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "271ee05b1066a7a10f5ef9488a51be08",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_3",
+        "data": {
+          "host": "192.168.20.138",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {
+          "ble_scanner_mode": "disabled"
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF2009DD0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "619b5059a1794af1a598bea7ec53a814",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cristalera_W_1",
+        "data": {
+          "host": "192.168.20.133",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E868E786F2D7",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5b6168b730fa557a9aaa603586f22203",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_W_1",
+        "data": {
+          "host": "192.168.20.136",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF200B014",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "81968be49572ec4e0059dac707155388",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_E_4",
+        "data": {
+          "host": "192.168.20.109",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "3C6105E53B8B",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "382ac6fb9134a72368163f140a144a94",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_4",
+        "data": {
+          "host": "192.168.20.139",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF201207C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c0ed6b78109248bdeebc526e3f17e6bf",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Libraria_E_1",
+        "data": {
+          "host": "192.168.20.113",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A262F2",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "3cd32a363c892345b2403be766f996f6",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Bano_W_1",
+        "data": {
+          "host": "192.168.20.127",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E78F",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "183363475f902ad565c8530e1df11a18",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Libraria_E_2",
+        "data": {
+          "host": "192.168.20.110",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561880F",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1eb5a5585dd1bcf956c8a159a1b73010",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_E_4",
+        "data": {
+          "host": "192.168.20.105",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A1C1D9",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4f9bcfac0cd1e5a46acd07b078ce70d8",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_E_1",
+        "data": {
+          "host": "192.168.20.120",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E868E786DDE2",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5dd2841c7d58cae2ea5801c742cc637b",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_W_P_2",
+        "data": {
+          "host": "192.168.20.132",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E73C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "2f8ee37fd8c69e739f510fc6348c235a",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_E_1",
+        "data": {
+          "host": "192.168.20.108",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "3C6105E59B10",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "701b4214d2b47ac41059471763236629",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_E_5",
+        "data": {
+          "host": "192.168.20.101",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB55F439F",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "79a8cb97fb65777fb6db4d8ec694c7ca",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_2",
+        "data": {
+          "host": "192.168.20.130",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF201222C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "35dbdd2778948d2fb02a69d674f9a0be",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_E_2",
+        "data": {
+          "host": "192.168.20.100",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E24B",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "bde20309d6827e943104b19c7d9db6a0",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_P",
+        "data": {
+          "host": "192.168.20.129",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E73A",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c3dacd36e422a40c76867a7350381615",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_S_3",
+        "data": {
+          "host": "192.168.20.140",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D4E523",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "687ae56814e6ba35a3ab28b9c692d793",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Vestidor_E_2",
+        "data": {
+          "host": "192.168.20.118",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A1EFFA",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "10200d63b9112bf375a1cc3408333007",
+        "version": 1,
+        "domain": "ibeacon",
+        "title": "iBeacon Tracker",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "bluetooth",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "ae8263cd176a457a9e78890e5f92b18f",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_S_1",
+        "data": {
+          "host": "192.168.20.121",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D4EFE8",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "75f57e9c86c8185209751e1ec242e3e8",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_W_2",
+        "data": {
+          "host": "192.168.20.137",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF200E8D0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1b2dfdc0c6ad8f0061e975cf6eb6bc54",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_V_1",
+        "data": {
+          "host": "192.168.20.131",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D33051",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "bbf01682e9161668d67e27314fe756cd",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_E_2",
+        "data": {
+          "host": "192.168.20.102",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A2244E",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "3bca7137c6a1b7bff4997a86447c9f04",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cristalera_E_2",
+        "data": {
+          "host": "192.168.20.111",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E69D",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "2d1bff3ac65d9a2d1b2092fd8843af25",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_1",
+        "data": {
+          "host": "192.168.20.128",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E6A9",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b9ead4ae1ece11d3bc82e89c1948af9d",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_E_3",
+        "data": {
+          "host": "192.168.20.103",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "3C6105E50990",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d141208ed6ad4f8792a9eb371fb844de",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Bano_E_2",
+        "data": {
+          "host": "192.168.20.107",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A228B9",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "164b51275198cb1cf162ae29aadc79db",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_W_P_1",
+        "data": {
+          "host": "192.168.20.135",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "3494546A1053",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "503f9a9504e26a37c7da013acd1f450a",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cocina_E_2",
+        "data": {
+          "host": "192.168.20.117",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB5617FB4",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "2036470873f2b0a52b5abe6587305edd",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Vestidor_E_1",
+        "data": {
+          "host": "192.168.20.119",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A1CA1C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4199aa3407db48c88d8e83a97c8b18c8",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_RGB",
+        "data": {
+          "host": "192.168.20.126",
+          "sleep_period": 0,
+          "model": "SHRGBW2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "BCFF4D4A572B",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1bfdb804b31694d143e14e6e3755b919",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cocina_E_1",
+        "data": {
+          "host": "192.168.20.112",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E77F",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "812cd510057d12c01f288dd8e95454a7",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cocina_DW",
+        "data": {
+          "host": "192.168.20.123",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "C45BBE6C3A01",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "ccf8f66f02a54ed64e0f96bb304b7305",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_RGB",
+        "data": {
+          "host": "192.168.20.125",
+          "sleep_period": 0,
+          "model": "SHRGBW2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "BCFF4D4B024D",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b8205b341681bb0b460f4e7c3a296b7e",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_S_2",
+        "data": {
+          "host": "192.168.20.106",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A21998",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1dcc071a33465e7c4a8d0e60ed6756ec",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cocina_E_3",
+        "data": {
+          "host": "192.168.20.115",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84A2850E",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "6d0e23538ad705b5aa944d89fb00804f",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPad",
+        "data": {
+          "app_id": "io.robbie.HomeAssistant",
+          "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
+          "os_name": "iPadOS",
+          "device_name": "Jan iPad",
+          "manufacturer": "Apple",
+          "app_name": "Home Assistant",
+          "app_data": {
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "model": "iPad13,1",
+          "supports_encryption": true,
+          "app_version": "2022.10.1 (2022.424)",
+          "os_version": "16.2",
+          "webhook_id": "5e225c683ef9404d103c9d032f329402891a92e2583dd1b64ea93753ce54fe71",
+          "secret": "76c7488b6d63723b83d50837d891e5295c6eecdc5c2f417e4fb7342febf60337",
+          "user_id": "2e0c17cedad14058a331a80580362c80",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-7719C43E-E09F-4531-9FA5-0F33706DFA45",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "af139469187f7c5d57baffb820a7553c",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "LG webOS TV 8893",
+        "data": {
+          "AccessoryPairingID": "30:63:3F:28:0E:84",
+          "AccessoryLTPK": "c773d78dad53f1a7100ba3055431a3e1e73a2da82b92ef503f7b0b42853404e0",
+          "iOSPairingId": "1be75845-d1e7-4f02-aeb6-98eb87f2acad",
+          "iOSDeviceLTSK": "e8f0b62fad95ee0b43f22eec3ed11b545d90015b2e0b69b4617d567c270853e2",
+          "iOSDeviceLTPK": "38c0bb8ece43649a028ce1024ca11ef76d58a9e4889f42d661872afc508024bc",
+          "AccessoryIP": "192.168.20.93",
+          "AccessoryPort": 42040,
+          "Connection": "IP"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "30:63:3f:28:0e:84",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b8c8de20593676831d38933e81b2844d",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_DW",
+        "data": {
+          "host": "192.168.20.124",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "C45BBE6AAB3F",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a15eac2e2369fee7201c7f18ecc19ae3",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Cristalera_DW",
+        "data": {
+          "host": "192.168.20.122",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "C45BBE6C3AF3",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "be637eb70fa79fb1b1e9b7408aa5992d",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_E_3",
+        "data": {
+          "host": "192.168.20.116",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561DE6A",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "12e0e0fc86ae3540715a353314311811",
+        "version": 1,
+        "domain": "webostv",
+        "title": "LG webOS Smart TV",
+        "data": {
+          "host": "television.lan",
+          "client_secret": "54b09c3f38cf80c034eec540dbb87735"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "dbe5b2dc-ba5c-5dfe-3808-742b1a3d5801",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c1a01843a9fe75d94e2e6fc6d674c18c",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Salon_ht",
+        "data": {
+          "host": "192.168.20.141",
+          "sleep_period": 43200,
+          "model": "SNSN-0013A",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "B8D61A8B5778",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7150d5b702eec4d3a07c5109be7cff62",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPhone",
+        "data": {
+          "app_id": "io.robbie.HomeAssistant",
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "cxnBfG3rekXdkxH4cPPPea:APA91bESnK8fgUZkznpRR5QNBeh4UnvRRChRHFB4DfzjiP6oG6GFVLh10q_vsOWG74cIubfhalZGf4T9DcSsc5HQczFh9D5LwQtNGEntFa0qZ3ws_7UHIXLeXAIocVvT6vhPjcJltw5G"
+          },
+          "os_version": "16.2",
+          "device_name": "Jan iPhone",
+          "manufacturer": "Apple",
+          "app_name": "Home Assistant",
+          "supports_encryption": true,
+          "os_name": "iOS",
+          "model": "iPhone12,8",
+          "app_version": "2022.10.1 (2022.424)",
+          "device_id": "F58C2020-EC0D-4537-9730-6EFD689750CB",
+          "webhook_id": "890e3b8b1812a1413abacd6778c03a9577a105c0528dc9306223621b2f2fbbe4",
+          "secret": "e54ebe77f75dc58855212a3c1d544c96132e798323b0479ff7b4de74815a23ff",
+          "user_id": "2e0c17cedad14058a331a80580362c80",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-F58C2020-EC0D-4537-9730-6EFD689750CB",
+        "disabled_by": null
+      },
+    ]
+  }
+}

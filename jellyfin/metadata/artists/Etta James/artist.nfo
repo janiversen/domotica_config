@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:48:33</dateadded>
+  <title>Etta James</title>
+  <runtime>3</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>e22d2f66-881e-41ca-9356-544697ee5f90</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Etta James/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Etta James/backdrop.jpg</fanart>
+  </art>
+</artist>

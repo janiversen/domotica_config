@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:37:53</dateadded>
+  <title>Marin Marais</title>
+  <runtime>38</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>c6ea915d-3441-48fe-b1ad-e832e1410ea7</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Marin Marais/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Marin Marais/backdrop.jpg</fanart>
+  </art>
+</artist>

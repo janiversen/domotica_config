@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:17:43</dateadded>
+  <title>Ismaël Lô</title>
+  <runtime>4</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>3a4de95b-22f9-4325-afd6-c4d648befcba</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Ismaël Lô/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Ismaël Lô/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:09:20</dateadded>
+  <title>Paul Simon</title>
+  <runtime>43</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>05517043-ff78-4988-9c22-88c68588ebb9</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Paul Simon/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Paul Simon/backdrop.jpg</fanart>
+  </art>
+</artist>

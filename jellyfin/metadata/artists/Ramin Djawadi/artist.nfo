@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:14:47</dateadded>
+  <title>Ramin Djawadi</title>
+  <runtime>66</runtime>
+  <musicbrainzartistid>f089f636-6b85-4e0e-a192-0d30ed2b44d1</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Ramin Djawadi/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Ramin Djawadi/backdrop.jpg</fanart>
+  </art>
+</artist>

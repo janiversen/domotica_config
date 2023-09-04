@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:20:58</dateadded>
+  <title>Adiemus</title>
+  <runtime>16</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>4dbeae7a-6906-4d85-95df-2b51b4a5d113</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Adiemus/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Adiemus/backdrop.jpg</fanart>
+  </art>
+</artist>

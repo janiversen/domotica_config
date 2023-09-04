@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:43:35</dateadded>
+  <title>Isaac Albéniz</title>
+  <runtime>16</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>0a46cf2a-61bd-447d-b8fd-a2b32eb20282</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Isaac Albéniz/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Isaac Albéniz/backdrop.jpg</fanart>
+  </art>
+</artist>

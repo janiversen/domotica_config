@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:18:43</dateadded>
+  <title>Saint Etienne</title>
+  <runtime>4</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>3997d4a6-c2bd-4191-8406-eb07f0abb5d2</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Saint Etienne/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Saint Etienne/backdrop.jpg</fanart>
+  </art>
+</artist>

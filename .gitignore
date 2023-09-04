@@ -1,13 +1,6 @@
 __pycache__/
-*.py[cod]
-*$py.class
-
-LICENSE
-blueprints
-esphome
 home-assistant*
-.storage
-.HA_VERSION
 secrets.yaml
-setup
+.storage
+active
 

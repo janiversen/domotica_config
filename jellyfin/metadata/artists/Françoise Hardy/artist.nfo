@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:14:09</dateadded>
+  <title>Françoise Hardy</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>d2a79d20-1304-47fd-a998-b4fe1ec78373</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Françoise Hardy/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Françoise Hardy/backdrop.jpg</fanart>
+  </art>
+</artist>

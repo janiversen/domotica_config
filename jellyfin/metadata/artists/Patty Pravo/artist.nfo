@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:17:39</dateadded>
+  <title>Patty Pravo</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>0ac1c730-8510-4ee8-9fcb-5ad272da73ab</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Patty Pravo/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Patty Pravo/backdrop.jpg</fanart>
+  </art>
+</artist>

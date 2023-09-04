@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:22:29</dateadded>
+  <title>The Red Road Ensemble</title>
+  <runtime>9</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>4d9bb210-0ebe-4a68-b804-4c9377dcd143</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/The Red Road Ensemble/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/The Red Road Ensemble/backdrop.jpg</fanart>
+  </art>
+</artist>

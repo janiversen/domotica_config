@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:33:21</dateadded>
+  <title>Philip Glass</title>
+  <runtime>69</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>5ae54dee-4dba-49c0-802a-a3b3b3adfe9b</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Philip Glass/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Philip Glass/backdrop.jpg</fanart>
+  </art>
+</artist>

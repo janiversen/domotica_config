@@ -1,0 +1,17 @@
+alias: Battery door casa
+description: ''
+trigger:
+- type: bat_low
+  platform: device
+  device_id: 0200557f79a1050448d372a69b25f03b
+  entity_id: binary_sensor.wh2650a_v1_7_5_wh65_battery
+  domain: binary_sensor
+condition: []
+action:
+  - service: notify.mail
+    data:
+      title: Pilar puerta casa !!
+      message: Cambiar pilar puerta casa pronto.
+      target:
+        - "jan@casacondor.com"
+mode: single

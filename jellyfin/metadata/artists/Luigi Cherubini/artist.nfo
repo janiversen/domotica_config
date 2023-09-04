@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:19:29</dateadded>
+  <title>Luigi Cherubini</title>
+  <runtime>8</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>375d52ad-5b7a-4f96-80e2-6d9ad13f5160</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Luigi Cherubini/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Luigi Cherubini/backdrop.jpg</fanart>
+  </art>
+</artist>

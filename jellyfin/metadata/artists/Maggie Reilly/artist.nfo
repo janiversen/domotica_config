@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:24:44</dateadded>
+  <title>Maggie Reilly</title>
+  <runtime>38</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>656ad517-b741-47ba-845a-e6ea223d8b39</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Maggie Reilly/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Maggie Reilly/backdrop.jpg</fanart>
+  </art>
+</artist>

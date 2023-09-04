@@ -1,0 +1,10 @@
+#!/bin/zsh
+
+cd /Users
+touch /tmp/janbelen.rsync
+rsync -aHv --delete belen/ --exclude="Application Support/CloudDocs/session" "/Volumes/DiskHomes/cloud/Home_copies/Belen"
+rsync -aHv --delete jan/  --exclude="Application Support/CloudDocs/session" "/Volumes/DiskHomes/cloud/Home_copies/Jan"
+
+cd /Volumes/DiskHomes
+rsync -aHv --delete home_musica/ "/Volumes/DiskHomes/cloud/Home_copies/Musica"
+rsync -aHv --delete cloud/ --exclude="Application Support" --exclude="Mobile Documents" "/Volumes/DiskHomes/cloud/Home_copies/Cloud"

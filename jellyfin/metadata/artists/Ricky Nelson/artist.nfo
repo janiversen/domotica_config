@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:18:41</dateadded>
+  <title>Ricky Nelson</title>
+  <runtime>2</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>0b511854-c21c-4af1-9c31-e3fc178ded61</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Ricky Nelson/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Ricky Nelson/backdrop.jpg</fanart>
+  </art>
+</artist>

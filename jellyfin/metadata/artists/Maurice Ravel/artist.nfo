@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:24:14</dateadded>
+  <title>Maurice Ravel</title>
+  <runtime>56</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Maurice Ravel/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Maurice Ravel/backdrop1.jpg</fanart>
+  </art>
+</artist>

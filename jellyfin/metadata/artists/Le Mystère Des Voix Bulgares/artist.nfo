@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:37:02</dateadded>
+  <title>Le Mystère Des Voix Bulgares</title>
+  <runtime>190</runtime>
+  <genre>Traditional</genre>
+  <genre>Folk</genre>
+  <genre>New Age</genre>
+  <musicbrainzartistid>80fb9c75-af15-4a6b-9528-715f9ef4ebea</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Le Mystère Des Voix Bulgares/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Le Mystère Des Voix Bulgares/backdrop1.jpg</fanart>
+  </art>
+</artist>

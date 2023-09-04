@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:47:54</dateadded>
+  <title>John Barry and His Orchestra</title>
+  <runtime>2</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>ed9ea481-6c5d-4c93-94c7-beee76f058f5</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/John Barry and His Orchestra/folder.jpg</poster>
+  </art>
+</artist>

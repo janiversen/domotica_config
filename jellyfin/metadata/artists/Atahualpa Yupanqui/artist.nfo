@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:11:41</dateadded>
+  <title>Atahualpa Yupanqui</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>291aaf6f-3553-462a-92ed-0f91f19f75fb</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Atahualpa Yupanqui/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Atahualpa Yupanqui/backdrop.jpg</fanart>
+  </art>
+</artist>

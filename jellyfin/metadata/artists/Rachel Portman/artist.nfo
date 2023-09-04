@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:38:20</dateadded>
+  <title>Rachel Portman</title>
+  <runtime>74</runtime>
+  <musicbrainzartistid>550508e3-efae-47de-83cc-e50cc471d7e4</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Rachel Portman/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Rachel Portman/backdrop1.jpg</fanart>
+  </art>
+</artist>

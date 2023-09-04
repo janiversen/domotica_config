@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:07:24</dateadded>
+  <title>Vangelis</title>
+  <runtime>328</runtime>
+  <genre>Soundtrack</genre>
+  <genre>Electronic</genre>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Vangelis/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Vangelis/backdrop1.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:47:57</dateadded>
+  <title>k.d. lang</title>
+  <runtime>4</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>675c1c5e-5625-4a5e-97a2-b02aab5db2fc</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/k.d. lang/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/k.d. lang/backdrop.jpg</fanart>
+  </art>
+</artist>

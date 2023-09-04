@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:30:43</dateadded>
+  <title>Angelo Badalamenti</title>
+  <runtime>35</runtime>
+  <musicbrainzartistid>5894dac5-0260-4175-b36e-e34680a859d6</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Angelo Badalamenti/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Angelo Badalamenti/backdrop.jpg</fanart>
+  </art>
+</artist>

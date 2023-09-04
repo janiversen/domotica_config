@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:38:59</dateadded>
+  <title>George Winston</title>
+  <runtime>46</runtime>
+  <genre>New Age</genre>
+  <musicbrainzartistid>a6b93c3c-88bc-431c-a46c-155dee9371aa</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/George Winston/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/George Winston/backdrop.jpg</fanart>
+  </art>
+</artist>

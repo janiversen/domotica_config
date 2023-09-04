@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:29:12</dateadded>
+  <title>John Denver</title>
+  <runtime>42</runtime>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>34e10b51-b5c6-4bc1-b70e-f05f141eda1e</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/John Denver/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/John Denver/backdrop.jpg</fanart>
+  </art>
+</artist>

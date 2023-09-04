@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:11:23</dateadded>
+  <title>Albert Hammond</title>
+  <runtime>4</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>364f3cef-442b-4182-ae78-4e7e79683c24</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Albert Hammond/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Albert Hammond/backdrop.jpg</fanart>
+  </art>
+</artist>

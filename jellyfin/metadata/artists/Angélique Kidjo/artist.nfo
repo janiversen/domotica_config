@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:35:28</dateadded>
+  <title>Angélique Kidjo</title>
+  <runtime>81</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>80fe34d0-6b4f-4ccd-81c3-281ab37f0451</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Angélique Kidjo/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Angélique Kidjo/backdrop1.jpg</fanart>
+  </art>
+</artist>

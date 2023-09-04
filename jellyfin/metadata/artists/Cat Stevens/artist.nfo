@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:08:19</dateadded>
+  <title>Cat Stevens</title>
+  <runtime>134</runtime>
+  <genre>Rock</genre>
+  <genre>Folk</genre>
+  <musicbrainzartistid>e2345fdf-2be7-47c5-a6dd-be64353ad134</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Cat Stevens/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Cat Stevens/backdrop1.jpg</fanart>
+  </art>
+</artist>

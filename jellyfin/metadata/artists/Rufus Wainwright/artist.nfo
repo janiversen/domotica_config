@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:07:07</dateadded>
+  <title>Rufus Wainwright</title>
+  <runtime>104</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>78e46ae5-9bfd-433b-be3f-19e993d67ecc</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Rufus Wainwright/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Rufus Wainwright/backdrop.jpg</fanart>
+  </art>
+</artist>

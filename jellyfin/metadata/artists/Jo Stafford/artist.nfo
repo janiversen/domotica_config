@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:48:40</dateadded>
+  <title>Jo Stafford</title>
+  <runtime>5</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>1761dd90-8afd-4e77-8fd8-3f6028f02cf8</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Jo Stafford/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Jo Stafford/backdrop.jpg</fanart>
+  </art>
+</artist>

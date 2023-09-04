@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:07:48</dateadded>
+  <title>James Horner</title>
+  <runtime>603</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>679ec43c-bc04-4bb0-b619-2da702a214ba</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/James Horner/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/James Horner/backdrop1.jpg</fanart>
+  </art>
+</artist>

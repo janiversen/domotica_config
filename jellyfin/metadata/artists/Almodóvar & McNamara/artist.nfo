@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:16:31</dateadded>
+  <title>Almodóvar &amp; McNamara</title>
+  <runtime>3</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>3ead3e12-fdf1-4cde-bb66-a9de11967e3b</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Almodóvar &amp; McNamara/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Almodóvar &amp; McNamara/backdrop.jpg</fanart>
+  </art>
+</artist>

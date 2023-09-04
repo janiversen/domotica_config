@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:19:34</dateadded>
+  <title>The Archies</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>623d5f3f-3093-4711-881f-ed33eda10882</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/The Archies/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/The Archies/backdrop.jpg</fanart>
+  </art>
+</artist>

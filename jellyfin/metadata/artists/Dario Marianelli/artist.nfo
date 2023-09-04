@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:42:15</dateadded>
+  <title>Dario Marianelli</title>
+  <runtime>2</runtime>
+  <musicbrainzartistid>9af7a998-33f9-4900-9396-9b5e1862298d</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Dario Marianelli/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Dario Marianelli/backdrop.jpg</fanart>
+  </art>
+</artist>

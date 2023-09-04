@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:35:23</dateadded>
+  <title>Boney M.</title>
+  <runtime>69</runtime>
+  <genre>Electronic</genre>
+  <musicbrainzartistid>5403bf6e-bc1d-4e62-b31f-926a2bf66a14</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Boney M/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Boney M/backdrop.jpg</fanart>
+  </art>
+</artist>

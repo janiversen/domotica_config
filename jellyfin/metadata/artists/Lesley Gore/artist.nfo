@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:15:11</dateadded>
+  <title>Lesley Gore</title>
+  <runtime>2</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>7f565c58-cf5d-441b-821f-c314ddf60c99</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Lesley Gore/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Lesley Gore/backdrop.jpg</fanart>
+  </art>
+</artist>

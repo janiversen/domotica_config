@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:19:41</dateadded>
+  <title>Yanni</title>
+  <runtime>46</runtime>
+  <musicbrainzartistid>9a2afb1e-504c-443e-acff-6c40ce75b1a1</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Yanni/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Yanni/backdrop.jpg</fanart>
+  </art>
+</artist>

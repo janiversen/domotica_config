@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:10:33</dateadded>
+  <title>Nino Rota</title>
+  <runtime>5</runtime>
+  <musicbrainzartistid>d52ac009-4ed5-4d01-97d5-8280bb7dd460</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Nino Rota/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Nino Rota/backdrop.jpg</fanart>
+  </art>
+</artist>

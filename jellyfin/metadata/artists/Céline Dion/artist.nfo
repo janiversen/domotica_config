@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:07:01</dateadded>
+  <title>Céline Dion</title>
+  <runtime>539</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>847e8a0c-cc20-4213-9e16-975515c2a926</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Céline Dion/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Céline Dion/backdrop1.jpg</fanart>
+  </art>
+</artist>

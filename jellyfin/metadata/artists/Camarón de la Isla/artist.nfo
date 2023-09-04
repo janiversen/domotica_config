@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:08:42</dateadded>
+  <title>Camarón de la Isla</title>
+  <runtime>288</runtime>
+  <genre>Traditional</genre>
+  <musicbrainzartistid>1f25c419-4084-40bc-9bac-c39f375384c5</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Camarón de la Isla/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Camarón de la Isla/backdrop1.jpg</fanart>
+  </art>
+</artist>

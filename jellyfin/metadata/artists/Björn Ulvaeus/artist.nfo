@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:11:52</dateadded>
+  <title>Björn Ulvaeus</title>
+  <runtime>69</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>ffb77292-9712-4d03-94aa-bdb1d4771d38</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Björn Ulvaeus/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Björn Ulvaeus/backdrop.jpg</fanart>
+  </art>
+</artist>

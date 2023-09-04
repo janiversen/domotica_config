@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:25:15</dateadded>
+  <title>Пётр Ильич Чайковский</title>
+  <runtime>27</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>9ddd7abc-9e1b-471d-8031-583bc6bc8be9</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Пётр Ильич Чайковский/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Пётр Ильич Чайковский/backdrop1.jpg</fanart>
+  </art>
+</artist>

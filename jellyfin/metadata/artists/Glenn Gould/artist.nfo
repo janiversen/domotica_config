@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:48:03</dateadded>
+  <title>Glenn Gould</title>
+  <runtime>90</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>7002bf88-1269-4965-a772-4ba1e7a91eaa</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Glenn Gould/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Glenn Gould/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:13:05</dateadded>
+  <title>Connie Francis</title>
+  <runtime>2</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>5fcd7daf-25e1-47fd-9ba1-830b42708f84</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Connie Francis/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Connie Francis/backdrop.jpg</fanart>
+  </art>
+</artist>

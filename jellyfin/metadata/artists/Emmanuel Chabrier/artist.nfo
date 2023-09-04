@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:24:36</dateadded>
+  <title>Emmanuel Chabrier</title>
+  <runtime>6</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>3d217bc1-cc90-4261-a230-46c0f6b7492c</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Emmanuel Chabrier/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Emmanuel Chabrier/backdrop.jpg</fanart>
+  </art>
+</artist>

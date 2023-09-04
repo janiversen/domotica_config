@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:29:00</dateadded>
+  <title>Carlos Núñez</title>
+  <runtime>42</runtime>
+  <genre>Traditional</genre>
+  <musicbrainzartistid>3d9ba6f0-c4ed-450b-a150-37e2ebf13e77</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Carlos Núñez/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Carlos Núñez/backdrop.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:14:51</dateadded>
+  <title>Shu-bi-dua</title>
+  <runtime>338</runtime>
+  <genre>Pop</genre>
+  <genre>Christmas</genre>
+  <musicbrainzartistid>593a075e-b697-41c3-8cb5-3a8730958cfb</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Shu-bi-dua/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Shu-bi-dua/backdrop1.jpg</fanart>
+  </art>
+</artist>

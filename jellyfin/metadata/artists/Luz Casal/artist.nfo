@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:18:15</dateadded>
+  <title>Luz Casal</title>
+  <runtime>8</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>d9502075-0f5c-4514-b443-de0890340001</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Luz Casal/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Luz Casal/backdrop.jpg</fanart>
+  </art>
+</artist>

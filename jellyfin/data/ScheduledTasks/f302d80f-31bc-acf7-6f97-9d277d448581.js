@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2023-12-12T09:36:55.1434415Z","EndTimeUtc":"2023-12-12T09:36:55.2551609Z","Status":"Completed","Name":"Extractor de Fotogramas Clave","Key":"KeyframeExtraction","Id":"f302d80f31bcacf76f979d277d448581"}

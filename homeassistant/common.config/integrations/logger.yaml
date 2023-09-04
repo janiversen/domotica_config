@@ -1,0 +1,7 @@
+
+logger:
+  default: info
+  # logs:
+    # custom_components.piso_casa: debug
+    # homeassistant.components.modbus: debug
+    # pymodbus: debug

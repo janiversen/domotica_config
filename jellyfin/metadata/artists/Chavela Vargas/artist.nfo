@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:16:55</dateadded>
+  <title>Chavela Vargas</title>
+  <runtime>6</runtime>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>77586a91-4586-4962-b836-e496d3a05432</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Chavela Vargas/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Chavela Vargas/backdrop.jpg</fanart>
+  </art>
+</artist>

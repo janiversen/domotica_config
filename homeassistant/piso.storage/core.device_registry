@@ -1,0 +1,789 @@
+{
+  "version": 1,
+  "minor_version": 4,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {
+        "area_id": null,
+        "config_entries": [
+          "10c2bc7ca59f367f6eabb7195d1b9d5c"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "8b23ca665207cf419f6c7202150f2050",
+        "identifiers": [
+          [
+            "sun",
+            "10c2bc7ca59f367f6eabb7195d1b9d5c"
+          ]
+        ],
+        "manufacturer": null,
+        "model": null,
+        "name_by_user": null,
+        "name": "Sun",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "b0ecae2aa5493190692a6ac8868e2532"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "9b719a3d362963a9adb9fbbf2e9a5f61",
+        "identifiers": [
+          [
+            "mobile_app",
+            "7719C43E-E09F-4531-9FA5-0F33706DFA45"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPad13,1",
+        "name_by_user": null,
+        "name": "Jan iPad",
+        "serial_number": null,
+        "sw_version": "17.1.2",
+        "via_device_id": null
+      }
+    ],
+    "deleted_devices": [
+      {
+        "config_entries": [
+          "8c8a6531c54a1d45774a82a0fe06ecc9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "a0d7b954_ssh"
+          ]
+        ],
+        "id": "aaabe37d11a562237df4b8715bfdaa4b",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "8c8a6531c54a1d45774a82a0fe06ecc9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core_configurator"
+          ]
+        ],
+        "id": "c3b66f27a8dab571e7a358b8f79ee406",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "8c8a6531c54a1d45774a82a0fe06ecc9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "core"
+          ]
+        ],
+        "id": "ee61c958fc33f5a21b69caebfae12cbe",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "8c8a6531c54a1d45774a82a0fe06ecc9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "supervisor"
+          ]
+        ],
+        "id": "41967d03d1681dbf4c5b27b50ad3c42e",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "8c8a6531c54a1d45774a82a0fe06ecc9"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "hassio",
+            "OS"
+          ]
+        ],
+        "id": "5406a1e2cfcb5bf6b3e8cdb8dd87ee53",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "1f76a1bf7723c0e7ee58b40d591d9a5c"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:6c:14"
+          ]
+        ],
+        "identifiers": [],
+        "id": "40f24b13011384a33461b292b8c880be",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "638a41c1636de7e436e51eee8a4aaf47"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d3:ed:4d"
+          ]
+        ],
+        "identifiers": [],
+        "id": "4ef720ce3520f9254577d025451e5c31",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "b244c8a2b6ee28036ed8ed53829442fb"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "volumio",
+            "2e40ae84-39dd-4d0f-8df6-b7ca9e049e7c"
+          ]
+        ],
+        "id": "e00603d3de5c3a3a9532342d0640e713",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "c806b51fb586d257ff707967041615fc"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:5b"
+          ]
+        ],
+        "identifiers": [],
+        "id": "91e7f7f3e486b0833134734e6e17202c",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "271ee05b1066a7a10f5ef9488a51be08"
+        ],
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:00:9d:d0"
+          ]
+        ],
+        "identifiers": [],
+        "id": "86b14c6aa6405d7bb284a7a64dda9506",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "619b5059a1794af1a598bea7ec53a814"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:68:e7:86:f2:d7"
+          ]
+        ],
+        "identifiers": [],
+        "id": "0a6e068ba4c82241cbeff2eccc3182b8",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "5b6168b730fa557a9aaa603586f22203"
+        ],
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:00:b0:14"
+          ]
+        ],
+        "identifiers": [],
+        "id": "7ff7e51d9d6cde18a44e532fc41a8d2d",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "81968be49572ec4e0059dac707155388"
+        ],
+        "connections": [
+          [
+            "mac",
+            "3c:61:05:e5:3b:8b"
+          ]
+        ],
+        "identifiers": [],
+        "id": "9a68e52ec396a707d9565eb74f9382e1",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "382ac6fb9134a72368163f140a144a94"
+        ],
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:01:20:7c"
+          ]
+        ],
+        "identifiers": [],
+        "id": "d75e5b34122922ff21903b595f3dff10",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "c0ed6b78109248bdeebc526e3f17e6bf"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:62:f2"
+          ]
+        ],
+        "identifiers": [],
+        "id": "3bcec95afc79daee9612bc0244bf478b",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "3cd32a363c892345b2403be766f996f6"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:8f"
+          ]
+        ],
+        "identifiers": [],
+        "id": "21c4319f998ad498ee4d71d074fecbb2",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "183363475f902ad565c8530e1df11a18"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:88:0f"
+          ]
+        ],
+        "identifiers": [],
+        "id": "e66acb79d151a60087e8ac640a7f2447",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "1eb5a5585dd1bcf956c8a159a1b73010"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a1:c1:d9"
+          ]
+        ],
+        "identifiers": [],
+        "id": "0a0ab976f60f1d08800aff417d647fbe",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "4f9bcfac0cd1e5a46acd07b078ce70d8"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:68:e7:86:dd:e2"
+          ]
+        ],
+        "identifiers": [],
+        "id": "34b316136a28256fe1c37691ec42f8f0",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "5dd2841c7d58cae2ea5801c742cc637b"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:3c"
+          ]
+        ],
+        "identifiers": [],
+        "id": "225e2f38fb387ec1d4d67ad0aeaae757",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "2f8ee37fd8c69e739f510fc6348c235a"
+        ],
+        "connections": [
+          [
+            "mac",
+            "3c:61:05:e5:9b:10"
+          ]
+        ],
+        "identifiers": [],
+        "id": "a1c1f164db05516ef8b1c4a277b7b972",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "701b4214d2b47ac41059471763236629"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:5f:43:9f"
+          ]
+        ],
+        "identifiers": [],
+        "id": "02283a733cb86b4d6527c1673f4ff1bb",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "79a8cb97fb65777fb6db4d8ec694c7ca"
+        ],
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:01:22:2c"
+          ]
+        ],
+        "identifiers": [],
+        "id": "6c9239bb2d0d937fa15ac7c0b6321e45",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "35dbdd2778948d2fb02a69d674f9a0be"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e2:4b"
+          ]
+        ],
+        "identifiers": [],
+        "id": "1431435a6f7e53481de2e28654cfce1a",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "bde20309d6827e943104b19c7d9db6a0"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:3a"
+          ]
+        ],
+        "identifiers": [],
+        "id": "d0cfcff542de6ac552eb47ebae6fab24",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "c3dacd36e422a40c76867a7350381615"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d4:e5:23"
+          ]
+        ],
+        "identifiers": [],
+        "id": "663419ba9b330a58158433a76a1bd636",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "687ae56814e6ba35a3ab28b9c692d793"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a1:ef:fa"
+          ]
+        ],
+        "identifiers": [],
+        "id": "b452e1c54c90ff6d08e594a41776b6c5",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "ae8263cd176a457a9e78890e5f92b18f"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d4:ef:e8"
+          ]
+        ],
+        "identifiers": [],
+        "id": "f931c1884d09564b32a63ecdae63d6ea",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "75f57e9c86c8185209751e1ec242e3e8"
+        ],
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:00:e8:d0"
+          ]
+        ],
+        "identifiers": [],
+        "id": "22a90bbf7f1d494eb4c348ce50a142c5",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "1b2dfdc0c6ad8f0061e975cf6eb6bc54"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d3:30:51"
+          ]
+        ],
+        "identifiers": [],
+        "id": "b3fa3726fe84b335d3d098325effcdd1",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "bbf01682e9161668d67e27314fe756cd"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:24:4e"
+          ]
+        ],
+        "identifiers": [],
+        "id": "03ad1631e2fb3c63b3d0535ae06c0094",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "3bca7137c6a1b7bff4997a86447c9f04"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e6:9d"
+          ]
+        ],
+        "identifiers": [],
+        "id": "3e8c017a7ca67a1124aa9a2dd5113be1",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "2d1bff3ac65d9a2d1b2092fd8843af25"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e6:a9"
+          ]
+        ],
+        "identifiers": [],
+        "id": "37bd0685a2794e57557d5b7969a97136",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "b9ead4ae1ece11d3bc82e89c1948af9d"
+        ],
+        "connections": [
+          [
+            "mac",
+            "3c:61:05:e5:09:90"
+          ]
+        ],
+        "identifiers": [],
+        "id": "54ca6c9a83bd7ac0d43db26ae2aee195",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "d141208ed6ad4f8792a9eb371fb844de"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:28:b9"
+          ]
+        ],
+        "identifiers": [],
+        "id": "e18df7edde5559639615ccc28162eddb",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "164b51275198cb1cf162ae29aadc79db"
+        ],
+        "connections": [
+          [
+            "mac",
+            "34:94:54:6a:10:53"
+          ]
+        ],
+        "identifiers": [],
+        "id": "8ded3e97ac2c51477934af538a19edbb",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "503f9a9504e26a37c7da013acd1f450a"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:7f:b4"
+          ]
+        ],
+        "identifiers": [],
+        "id": "a0ad03d27ab5f106b2e8bf325d74ddc9",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "2036470873f2b0a52b5abe6587305edd"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a1:ca:1c"
+          ]
+        ],
+        "identifiers": [],
+        "id": "636ccf1e86aa6407d5153e04321bacf3",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "4199aa3407db48c88d8e83a97c8b18c8"
+        ],
+        "connections": [
+          [
+            "mac",
+            "bc:ff:4d:4a:57:2b"
+          ]
+        ],
+        "identifiers": [],
+        "id": "8fdb0729ff1e04a908abe347dc2e93be",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "1bfdb804b31694d143e14e6e3755b919"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:7f"
+          ]
+        ],
+        "identifiers": [],
+        "id": "6792643823562bffe5c147672e618ea9",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "ccf8f66f02a54ed64e0f96bb304b7305"
+        ],
+        "connections": [
+          [
+            "mac",
+            "bc:ff:4d:4b:02:4d"
+          ]
+        ],
+        "identifiers": [],
+        "id": "772bcdadfa1484f3c05d472818b2d917",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "b8205b341681bb0b460f4e7c3a296b7e"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:19:98"
+          ]
+        ],
+        "identifiers": [],
+        "id": "2c1c3492ea8f5e8585ce4a8c9dae0d93",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "1dcc071a33465e7c4a8d0e60ed6756ec"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:85:0e"
+          ]
+        ],
+        "identifiers": [],
+        "id": "50a567fd49025173059adb055b4ab91b",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "812cd510057d12c01f288dd8e95454a7"
+        ],
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6c:3a:01"
+          ]
+        ],
+        "identifiers": [],
+        "id": "70359c17c9e69b5431f5e6a85272311e",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "af139469187f7c5d57baffb820a7553c"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "homekit_controller:accessory-id",
+            "30:63:3F:28:0E:84:aid:1"
+          ]
+        ],
+        "id": "5161d307ab46437cd32350a418ffb9de",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "b8c8de20593676831d38933e81b2844d"
+        ],
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6a:ab:3f"
+          ]
+        ],
+        "identifiers": [],
+        "id": "a82210e65e06ade3ea595ee3684c371c",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "be637eb70fa79fb1b1e9b7408aa5992d"
+        ],
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:de:6a"
+          ]
+        ],
+        "identifiers": [],
+        "id": "b14cc1e24fec24b666b87f7c09048b57",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "a15eac2e2369fee7201c7f18ecc19ae3"
+        ],
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6c:3a:f3"
+          ]
+        ],
+        "identifiers": [],
+        "id": "30987c852487cc99b975df7dbc57f0b8",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "12e0e0fc86ae3540715a353314311811"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "webostv",
+            "dbe5b2dc-ba5c-5dfe-3808-742b1a3d5801"
+          ]
+        ],
+        "id": "aedfe3f17e19fe65654ee11590bd438e",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "10200d63b9112bf375a1cc3408333007"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "ibeacon",
+            "66238680-d3c1-474e-a7d7-1833f554a087_258_772_30:43:D7:C6:B5:38"
+          ]
+        ],
+        "id": "c9fee3becb3f634f10d18d9d68ab5488",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "d326356b232ea53cedba2419619340f3"
+        ],
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d4:a4:6b"
+          ]
+        ],
+        "identifiers": [],
+        "id": "c5a08cae66cf217abc4810b57286b0d0",
+        "orphaned_timestamp": null
+      },
+      {
+        "config_entries": [
+          "7150d5b702eec4d3a07c5109be7cff62"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "mobile_app",
+            "F58C2020-EC0D-4537-9730-6EFD689750CB"
+          ]
+        ],
+        "id": "f6b1f95f85fdb5edb8c833a448f7c3b0",
+        "orphaned_timestamp": null
+      }
+    ]
+  }
+}

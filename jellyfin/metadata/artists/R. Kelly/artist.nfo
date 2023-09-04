@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:07:08</dateadded>
+  <title>R. Kelly</title>
+  <runtime>6</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>c2d25856-a09a-4d15-b404-77dd19c19e63</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/R. Kelly/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/R. Kelly/backdrop.jpg</fanart>
+  </art>
+</artist>

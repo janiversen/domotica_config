@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:24:24</dateadded>
+  <title>Robert Schumann</title>
+  <runtime>6</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>3cd3882c-00f8-4362-a0c2-ad89ed248533</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Robert Schumann/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Robert Schumann/backdrop1.jpg</fanart>
+  </art>
+</artist>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:21:07</dateadded>
+  <title>Paul McCandless</title>
+  <runtime>3</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>29cfc71a-2ac7-4841-bfaa-db447262c96f</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Paul McCandless/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Paul McCandless/backdrop.jpg</fanart>
+  </art>
+</artist>

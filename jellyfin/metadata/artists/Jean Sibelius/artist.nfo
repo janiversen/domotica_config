@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:25:55</dateadded>
+  <title>Jean Sibelius</title>
+  <runtime>202</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>691b0e9d-9e57-41cf-932d-a3d21b068e75</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Jean Sibelius/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Jean Sibelius/backdrop1.jpg</fanart>
+  </art>
+</artist>

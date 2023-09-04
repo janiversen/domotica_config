@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:25:15</dateadded>
+  <title>Johnny Cash</title>
+  <runtime>93</runtime>
+  <genre>Country</genre>
+  <musicbrainzartistid>d43d12a1-2dc9-4257-a2fd-0a3bb1081b86</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Johnny Cash/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Johnny Cash/backdrop1.jpg</fanart>
+  </art>
+</artist>

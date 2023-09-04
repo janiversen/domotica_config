@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:22:08</dateadded>
+  <title>Moonjam</title>
+  <runtime>8</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>ea7eff0d-a2e8-483f-921b-fe3d7a4c5a9e</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Moonjam/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Moonjam/backdrop.jpg</fanart>
+  </art>
+</artist>

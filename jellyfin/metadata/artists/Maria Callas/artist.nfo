@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:19:09</dateadded>
+  <title>Maria Callas</title>
+  <runtime>53</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>9dee40b2-25ad-404c-9c9a-139feffd4b57</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Maria Callas/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Maria Callas/backdrop.jpg</fanart>
+  </art>
+</artist>

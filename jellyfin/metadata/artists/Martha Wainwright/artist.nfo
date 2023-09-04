@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:07:14</dateadded>
+  <title>Martha Wainwright</title>
+  <runtime>7</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>231475d8-fddb-4d7d-aad9-287e59e4b4ba</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Martha Wainwright/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Martha Wainwright/backdrop.jpg</fanart>
+  </art>
+</artist>

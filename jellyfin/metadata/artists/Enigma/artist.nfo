@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:21:29</dateadded>
+  <title>Enigma</title>
+  <runtime>8</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>f1d1df24-91af-4d27-83a4-9b4ad29b37eb</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Enigma/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Enigma/backdrop.jpg</fanart>
+  </art>
+</artist>

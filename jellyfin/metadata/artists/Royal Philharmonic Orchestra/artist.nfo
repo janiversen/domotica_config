@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:37:08</dateadded>
+  <title>Royal Philharmonic Orchestra</title>
+  <runtime>132</runtime>
+  <musicbrainzartistid>299597ae-3a20-4bf1-973e-03704af69f6b</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Royal Philharmonic Orchestra/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Royal Philharmonic Orchestra/backdrop.jpg</fanart>
+  </art>
+</artist>

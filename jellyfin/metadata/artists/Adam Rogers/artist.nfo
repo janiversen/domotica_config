@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:20:24</dateadded>
+  <title>Adam Rogers</title>
+  <runtime>3</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>04e0d4e8-3450-4230-be98-d8f922374d0c</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Adam Rogers/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Adam Rogers/backdrop.jpg</fanart>
+  </art>
+</artist>

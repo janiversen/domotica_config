@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:18:11</dateadded>
+  <title>R.B. Greaves</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>c0b2fb00-4fe2-487f-a82b-239be67597e0</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/R.B. Greaves/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/R.B. Greaves/backdrop.jpg</fanart>
+  </art>
+</artist>

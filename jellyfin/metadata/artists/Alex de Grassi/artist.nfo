@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:20:27</dateadded>
+  <title>Alex de Grassi</title>
+  <runtime>2</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>f940c4dd-f687-4c6a-872b-1cce3f78dc0a</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Alex de Grassi/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Alex de Grassi/backdrop.jpg</fanart>
+  </art>
+</artist>

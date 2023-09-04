@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:28:07</dateadded>
+  <title>Johann Strauss II</title>
+  <runtime>3</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>8255db36-4902-4cf6-8612-0f2b4288bc9a</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Johann Strauss II/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Johann Strauss II/backdrop.jpg</fanart>
+  </art>
+</artist>

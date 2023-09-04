@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:32:04</dateadded>
+  <title>Julio Iglesias</title>
+  <runtime>188</runtime>
+  <genre>Folk</genre>
+  <musicbrainzartistid>3be4099e-f180-4038-af84-ae18a09eab02</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Julio Iglesias/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Julio Iglesias/backdrop1.jpg</fanart>
+  </art>
+</artist>

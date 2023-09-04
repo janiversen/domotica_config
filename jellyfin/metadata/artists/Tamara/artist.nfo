@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:09:59</dateadded>
+  <title>Tamara</title>
+  <runtime>40</runtime>
+  <musicbrainzartistid>8d8fe4d0-4bb4-406f-a63f-99537c6d0e7d</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Tamara/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Tamara/backdrop.jpg</fanart>
+  </art>
+</artist>

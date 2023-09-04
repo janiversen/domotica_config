@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:46:24</dateadded>
+  <title>Andy Williams</title>
+  <runtime>36</runtime>
+  <musicbrainzartistid>57cb4257-9855-4a42-b1be-bfba1d9b520d</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Andy Williams/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Andy Williams/backdrop.jpg</fanart>
+  </art>
+</artist>

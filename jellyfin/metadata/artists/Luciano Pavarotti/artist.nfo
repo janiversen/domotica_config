@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:27:26</dateadded>
+  <title>Luciano Pavarotti</title>
+  <runtime>5</runtime>
+  <genre>Pop</genre>
+  <musicbrainzartistid>705076ef-a0c5-472f-bebd-3e72174fcaf4</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Luciano Pavarotti/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Luciano Pavarotti/backdrop.jpg</fanart>
+  </art>
+</artist>

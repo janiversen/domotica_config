@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:17:23</dateadded>
+  <title>Otis Redding</title>
+  <runtime>5</runtime>
+  <genre>Compilation</genre>
+  <genre>Soundtrack</genre>
+  <musicbrainzartistid>82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Otis Redding/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Otis Redding/backdrop1.jpg</fanart>
+  </art>
+</artist>

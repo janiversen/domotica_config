@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:12:02</dateadded>
+  <title>Antonín Dvořák</title>
+  <runtime>55</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>819eaeb2-8dd8-48a5-ad07-0bcd137985ef</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Antonín Dvořák/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Antonín Dvořák/backdrop2.jpg</fanart>
+  </art>
+</artist>

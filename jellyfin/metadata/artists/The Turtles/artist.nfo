@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:21:14</dateadded>
+  <title>The Turtles</title>
+  <runtime>3</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>335b6182-0da8-4dc6-a5ec-fe13f0f87e4b</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/The Turtles/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/The Turtles/backdrop.jpg</fanart>
+  </art>
+</artist>

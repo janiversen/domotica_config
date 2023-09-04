@@ -1,0 +1,14 @@
+[Unit]
+Description=Home Assistant
+After=network-online.target
+
+[Service]
+Type=simple
+User=jan
+ExcecStartPre=source /home/jan/venvs/bin/activate
+ExecStart=/home/jan/venv/bin/hass -c "/home/jan/domotica_config/homeassistant"
+Restart=on-failure
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target

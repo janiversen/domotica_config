@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:11:00</dateadded>
+  <title>Johann Sebastian Bach</title>
+  <runtime>421</runtime>
+  <genre>Classical</genre>
+  <musicbrainzartistid>24f1766e-9635-4d58-a4d4-9413f9f98a4c</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/Johann Sebastian Bach/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/Johann Sebastian Bach/backdrop2.jpg</fanart>
+  </art>
+</artist>

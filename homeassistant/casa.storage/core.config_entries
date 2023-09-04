@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "2653660aaac53ac092e44d571747fd55",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "e37c2bb82aa7d9d1e9fc899feed89e67",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Calentador ",
+        "data": {
+          "host": "192.168.10.21",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D4C1AC",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4b1e4d3724a0929eef85c6fdc50627ce",
+        "version": 1,
+        "domain": "shelly",
+        "title": "shelly-floor-lamp",
+        "data": {
+          "host": "192.168.10.26",
+          "sleep_period": 0,
+          "model": "SHSW-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "E8DB84D50A7B",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c7422e2e92cc2638d569c78eeeb20c6f",
+        "version": 1,
+        "domain": "bluetooth",
+        "title": "hci0 (DC:A6:32:E7:E2:C0)",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "DC:A6:32:E7:E2:C0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4cbed22cf03b37e736614666b267a1b3",
+        "version": 1,
+        "domain": "shelly",
+        "title": "Shelly-flood",
+        "data": {
+          "host": "192.168.10.25",
+          "sleep_period": 43200,
+          "model": "SHWT-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "ECFABCC8B769",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7f0390fe5ed411225d1e00af1e899090",
+        "version": 1,
+        "domain": "shelly",
+        "title": "shelly-door",
+        "data": {
+          "host": "192.168.10.24",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "C45BBE6A99D2",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "16be647e84007f32fd313036a99e67d5",
+        "version": 1,
+        "domain": "shelly",
+        "title": "shelly-door-casita",
+        "data": {
+          "host": "192.168.10.13",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "10521C076257",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "74e298dc20f4a898b244fc62467d7e6d",
+        "version": 1,
+        "domain": "ecowitt",
+        "title": "Ecowitt",
+        "data": {
+          "webhook_id": "604152065d3649c49fb30d7765eb32e3"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "99009e862c3baa99855de34d5d9da3b2",
+        "version": 1,
+        "domain": "ecowitt",
+        "title": "Ecowitt",
+        "data": {
+          "webhook_id": "05f5b9016d00ebe7e6f9f4f41d1b4b39"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "version": 1,
+        "domain": "aemet",
+        "title": "AEMET",
+        "data": {
+          "api_key": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYW5jYXNhY29uZG9yQGdtYWlsLmNvbSIsImp0aSI6IjQ2YWFiZWM3LTM3ZGItNDk3MC1hOTE1LThhMmY3N2Q3NjMzNiIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNjk0MjYyMjcyLCJ1c2VySWQiOiI0NmFhYmVjNy0zN2RiLTQ5NzAtYTkxNS04YTJmNzdkNzYzMzYiLCJyb2xlIjoiIn0.n4wd-MgOcVaz90Q6WlsIQMPsq97PBnXEQyuDNUYaDPk",
+          "name": "AEMET",
+          "latitude": 36.94941163721342,
+          "longitude": -3.5566520690917973
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "36.94941163721342--3.5566520690917973",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5f5c611cd2b775389c67f7130d697930",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPad",
+        "data": {
+          "app_version": "2023.7 (2023.471)",
+          "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
+          "app_id": "io.robbie.HomeAssistant",
+          "app_name": "Home Assistant",
+          "supports_encryption": true,
+          "manufacturer": "Apple",
+          "os_version": "17.1.2",
+          "model": "iPad13,1",
+          "os_name": "iPadOS",
+          "device_name": "Jan iPad",
+          "app_data": {
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "webhook_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c",
+          "secret": "c6475a1a3810316ad713719d199cdb7ed09b4716b3a93eed3e6b6b3e5733a078",
+          "user_id": "c11fa2f7653c435eb08e07e3f952c573",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-7719C43E-E09F-4531-9FA5-0F33706DFA45",
+        "disabled_by": null
+      }
+    ]
+  }
+}

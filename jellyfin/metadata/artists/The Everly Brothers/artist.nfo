@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<artist>
+  <biography />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 13:20:07</dateadded>
+  <title>The Everly Brothers</title>
+  <runtime>2</runtime>
+  <genre>Compilation</genre>
+  <musicbrainzartistid>091ec508-877f-4e3c-92a3-10903bbbc7ad</musicbrainzartistid>
+  <art>
+    <poster>/home/jan/domotica_config/jellyfin/metadata/artists/The Everly Brothers/folder.jpg</poster>
+    <fanart>/home/jan/domotica_config/jellyfin/metadata/artists/The Everly Brothers/backdrop.jpg</fanart>
+  </art>
+</artist>
