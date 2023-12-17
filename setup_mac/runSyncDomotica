@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 cd /Volumes/DiskHomes/cloud/Home_copies/Domotica
-touch /tmp/com.janbelen.rsyncDomotica
+touch /tmp/janbelen.rsyncDomotica
 rsync -aHv --delete casa:/home/jan/ casa
 rsync -aHv --delete casa:/mnt/media/ media_casa
 rsync -aHv --delete piso:/home/jan/ piso
