@@ -2749,8 +2749,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "e37c2bb82aa7d9d1e9fc899feed89e67",
@@ -2780,8 +2780,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "4b1e4d3724a0929eef85c6fdc50627ce",
