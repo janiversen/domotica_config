@@ -10,9 +10,9 @@
         "attributes": {
           "editable": true,
           "id": "jan",
-          "latitude": 36.949249267578125,
-          "longitude": -3.5561246770821344,
-          "gps_accuracy": 98,
+          "latitude": 36.94939766159219,
+          "longitude": -3.556452217115946,
+          "gps_accuracy": 45.752,
           "source": "device_tracker.jan_ipad",
           "user_id": "c11fa2f7653c435eb08e07e3f952c573",
           "device_trackers": [
@@ -21,15 +21,15 @@
           "friendly_name": "jan"
         },
         "last_changed": "2023-12-23T13:57:03.475037+00:00",
-        "last_updated": "2023-12-23T13:57:03.475037+00:00",
+        "last_updated": "2023-12-25T14:45:07.566443+00:00",
         "context": {
-          "id": "01HJBFE4BKT31NRXG14REQ3FNZ",
+          "id": "01HJGPZJVE2RZM96VSYQ40450J",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -51,7 +51,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -72,7 +72,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -93,7 +93,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -114,7 +114,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -135,7 +135,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -157,7 +157,7 @@
         "native_value": "0",
         "native_unit_of_measurement": "bits"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -179,7 +179,7 @@
         "native_value": "0",
         "native_unit_of_measurement": "bits"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -201,216 +201,216 @@
         "native_value": "0",
         "native_unit_of_measurement": "bits"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.pv1_voltage",
-        "state": "195.7",
+        "state": "148.3",
         "attributes": {
           "unit_of_measurement": "V",
           "device_class": "voltage",
           "friendly_name": "PV1 voltage"
         },
-        "last_changed": "2023-12-25T10:20:43.752058+00:00",
-        "last_updated": "2023-12-25T10:20:43.752058+00:00",
+        "last_changed": "2023-12-25T17:20:28.365795+00:00",
+        "last_updated": "2023-12-25T17:20:28.365795+00:00",
         "context": {
-          "id": "01HJG7VEV8NMADFHBTCNF54RTR",
+          "id": "01HJGZW16DPPFYG4BKQ7WC4N18",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "195.7",
+        "native_value": "148.3",
         "native_unit_of_measurement": "V"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.pv1_current",
-        "state": "9.8",
+        "state": "0.0",
         "attributes": {
           "unit_of_measurement": "A",
           "device_class": "current",
           "friendly_name": "PV1 current"
         },
-        "last_changed": "2023-12-25T10:20:43.851471+00:00",
-        "last_updated": "2023-12-25T10:20:43.851471+00:00",
+        "last_changed": "2023-12-25T17:10:48.482589+00:00",
+        "last_updated": "2023-12-25T17:10:48.482589+00:00",
         "context": {
-          "id": "01HJG7VEYB3Y2REYJX0Q925E3C",
+          "id": "01HJGZAAX2FHPFNB1H8ZBVGHAE",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "9.8",
+        "native_value": "0.0",
         "native_unit_of_measurement": "A"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.pv2_voltage",
-        "state": "354.8",
+        "state": "289.7",
         "attributes": {
           "unit_of_measurement": "V",
           "device_class": "voltage",
           "friendly_name": "PV2 voltage"
         },
-        "last_changed": "2023-12-25T10:20:44.005390+00:00",
-        "last_updated": "2023-12-25T10:20:44.005390+00:00",
+        "last_changed": "2023-12-25T17:20:48.588582+00:00",
+        "last_updated": "2023-12-25T17:20:48.588582+00:00",
         "context": {
-          "id": "01HJG7VF35M7QTPGJZ6Z7ZCQJV",
+          "id": "01HJGZWMYCE3PJ53NY55EYSN4Z",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "354.8",
+        "native_value": "289.7",
         "native_unit_of_measurement": "V"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.pv2_current",
-        "state": "6.1",
+        "state": "0.0",
         "attributes": {
           "unit_of_measurement": "A",
           "device_class": "current",
           "friendly_name": "PV2 current"
         },
-        "last_changed": "2023-12-25T10:20:44.169002+00:00",
-        "last_updated": "2023-12-25T10:20:44.169002+00:00",
+        "last_changed": "2023-12-25T17:06:48.516528+00:00",
+        "last_updated": "2023-12-25T17:06:48.516528+00:00",
         "context": {
-          "id": "01HJG7VF892C6Q1TYKX98K4FNM",
+          "id": "01HJGZ30J4JW57XFX5011NJ4YM",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "6.1",
+        "native_value": "0.0",
         "native_unit_of_measurement": "A"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.solar_power",
-        "state": "4069",
+        "state": "0",
         "attributes": {
           "unit_of_measurement": "W",
           "device_class": "power",
           "friendly_name": "Solar power"
         },
-        "last_changed": "2023-12-25T10:20:54.297940+00:00",
-        "last_updated": "2023-12-25T10:20:54.297940+00:00",
+        "last_changed": "2023-12-25T17:16:58.909478+00:00",
+        "last_updated": "2023-12-25T17:16:58.909478+00:00",
         "context": {
-          "id": "01HJG7VS4SPH90AY9BHNKV5XKT",
+          "id": "01HJGZNMMXGHCCG8FQCK70K0RP",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "4069",
+        "native_value": "0",
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.peak_production",
-        "state": "3978",
+        "state": "5179",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "W",
           "device_class": "power",
           "friendly_name": "Peak production"
         },
-        "last_changed": "2023-12-25T10:20:01.713112+00:00",
-        "last_updated": "2023-12-25T10:20:01.713112+00:00",
+        "last_changed": "2023-12-25T12:03:01.786270+00:00",
+        "last_updated": "2023-12-25T12:03:01.786270+00:00",
         "context": {
-          "id": "01HJG7T5SHYRGE82KJCM3ZRXT0",
+          "id": "01HJGDPS0TG24JHM896YX0JHSS",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "3978",
+        "native_value": "5179",
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.production",
-        "state": "3984",
+        "state": "0",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "W",
           "device_class": "power",
           "friendly_name": "Production"
         },
-        "last_changed": "2023-12-25T10:20:54.399668+00:00",
-        "last_updated": "2023-12-25T10:20:54.399668+00:00",
+        "last_changed": "2023-12-25T17:16:59.012503+00:00",
+        "last_updated": "2023-12-25T17:16:59.012503+00:00",
         "context": {
-          "id": "01HJG7VS7ZB1DGVT77HAGVABD8",
+          "id": "01HJGZNMR4V1V64MWVBNPYAKQ8",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "3984",
+        "native_value": "0",
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.daily_energy_yield",
-        "state": "3.8",
+        "state": "29.3",
         "attributes": {
           "unit_of_measurement": "kWh",
           "device_class": "energy",
           "friendly_name": "Daily energy yield"
         },
-        "last_changed": "2023-12-25T10:05:44.356140+00:00",
-        "last_updated": "2023-12-25T10:05:44.356140+00:00",
+        "last_changed": "2023-12-25T17:05:43.602244+00:00",
+        "last_updated": "2023-12-25T17:05:43.602244+00:00",
         "context": {
-          "id": "01HJG700H4Q8HTFTGYZFCD8MAP",
+          "id": "01HJGZ115JF995GCXNSWK6MTHK",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "3.8",
+        "native_value": "29.3",
         "native_unit_of_measurement": "kWh"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.power_meter",
-        "state": "3693",
+        "state": "-852",
         "attributes": {
           "unit_of_measurement": "W",
           "device_class": "power",
           "friendly_name": "Power meter"
         },
-        "last_changed": "2023-12-25T10:20:54.502813+00:00",
-        "last_updated": "2023-12-25T10:20:54.502813+00:00",
+        "last_changed": "2023-12-25T17:20:49.305967+00:00",
+        "last_updated": "2023-12-25T17:20:49.305967+00:00",
         "context": {
-          "id": "01HJG7VSB6W6MBNSS3WSTRQ6BC",
+          "id": "01HJGZWNMS6YWJHS14CWMPTGZJ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "3693",
+        "native_value": "-852",
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -429,146 +429,146 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_flood_temperature",
-        "state": "12.38",
+        "state": "15.38",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "°C",
           "device_class": "temperature",
           "friendly_name": "Shelly-flood temperature"
         },
-        "last_changed": "2023-12-25T10:01:12.686868+00:00",
-        "last_updated": "2023-12-25T10:01:12.686868+00:00",
+        "last_changed": "2023-12-25T17:20:02.986701+00:00",
+        "last_updated": "2023-12-25T17:20:02.986701+00:00",
         "context": {
-          "id": "01HJG6QQ7EAYX2HQHFNDGW5PMH",
+          "id": "01HJGZV8DAHB396HM8DHVKT9HX",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 12.38,
+        "native_value": 15.38,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_flood_battery",
-        "state": "97",
+        "state": "98",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
           "friendly_name": "Shelly-flood battery"
         },
-        "last_changed": "2023-12-25T09:18:21.713824+00:00",
-        "last_updated": "2023-12-25T09:18:21.713824+00:00",
+        "last_changed": "2023-12-25T17:20:02.987123+00:00",
+        "last_updated": "2023-12-25T17:20:02.987123+00:00",
         "context": {
-          "id": "01HJG498GHNW8NVZEY7442C8ZE",
+          "id": "01HJGZV8DBMJJQFYHTATWCQF4Z",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 97,
+        "native_value": 98,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "binary_sensor.shelly_door_door",
-        "state": "off",
+        "state": "on",
         "attributes": {
           "device_class": "opening",
           "friendly_name": "shelly-door door"
         },
-        "last_changed": "2023-12-25T10:19:59.255847+00:00",
-        "last_updated": "2023-12-25T10:19:59.255847+00:00",
+        "last_changed": "2023-12-25T17:19:18.994116+00:00",
+        "last_updated": "2023-12-25T17:19:18.994116+00:00",
         "context": {
-          "id": "01HJG7T3CQKYE6VZ4FGMRPRZNE",
+          "id": "01HJGZSXEJ7Z99464X2JWP533E",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_door_luminosity",
-        "state": "83",
+        "state": "0",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "lx",
           "device_class": "illuminance",
           "friendly_name": "shelly-door luminosity"
         },
-        "last_changed": "2023-12-25T10:20:01.355309+00:00",
-        "last_updated": "2023-12-25T10:20:01.355309+00:00",
+        "last_changed": "2023-12-25T17:19:18.994952+00:00",
+        "last_updated": "2023-12-25T17:19:18.994952+00:00",
         "context": {
-          "id": "01HJG7T5EBTK4NWM5ZTEDKBHXJ",
+          "id": "01HJGZSXEJXVYNJY85746G355R",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 83,
+        "native_value": 0,
         "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_door_temperature",
-        "state": "18.8",
+        "state": "23.5",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "°C",
           "device_class": "temperature",
           "friendly_name": "shelly-door temperature"
         },
-        "last_changed": "2023-12-25T10:19:57.159586+00:00",
-        "last_updated": "2023-12-25T10:19:57.159586+00:00",
+        "last_changed": "2023-12-25T17:19:12.846437+00:00",
+        "last_updated": "2023-12-25T17:19:12.846437+00:00",
         "context": {
-          "id": "01HJG7T1B7AWRH4MM0ZJ512ED2",
+          "id": "01HJGZSQEEFDDXHJM0M327HCWB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 18.8,
+        "native_value": 23.5,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_door_battery",
-        "state": "100",
+        "state": "99",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
           "friendly_name": "shelly-door battery"
         },
-        "last_changed": "2023-12-24T22:47:31.750952+00:00",
-        "last_updated": "2023-12-24T22:47:31.750952+00:00",
+        "last_changed": "2023-12-25T17:16:13.088399+00:00",
+        "last_updated": "2023-12-25T17:16:13.088399+00:00",
         "context": {
-          "id": "01HJF065N661YV535KWKVPDBP6",
+          "id": "01HJGZM7X01M3Z9GQM39X8FXBY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 100,
+        "native_value": 99,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -578,88 +578,88 @@
           "device_class": "opening",
           "friendly_name": "shelly-door-casita door"
         },
-        "last_changed": "2023-12-25T02:56:28.812197+00:00",
-        "last_updated": "2023-12-25T02:56:28.812197+00:00",
+        "last_changed": "2023-12-25T15:24:14.190889+00:00",
+        "last_updated": "2023-12-25T15:24:14.190889+00:00",
         "context": {
-          "id": "01HJFEE0MCGZ3VCZXWNGD8EJFY",
+          "id": "01HJGS76FE84ZMW7SJNRTZCY5J",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_door_casita_luminosity",
-        "state": "0",
+        "state": "247",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "lx",
           "device_class": "illuminance",
           "friendly_name": "shelly-door-casita luminosity"
         },
-        "last_changed": "2023-12-25T02:56:28.812732+00:00",
-        "last_updated": "2023-12-25T02:56:28.812732+00:00",
+        "last_changed": "2023-12-25T15:24:21.589097+00:00",
+        "last_updated": "2023-12-25T15:24:21.589097+00:00",
         "context": {
-          "id": "01HJFEE0MC1EXXCG5SF9P6Z9RK",
+          "id": "01HJGS7DPN8HMXTS7GWV0G7MSD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 0,
+        "native_value": 247,
         "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_door_casita_temperature",
-        "state": "8.6",
+        "state": "19.7",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "°C",
           "device_class": "temperature",
           "friendly_name": "shelly-door-casita temperature"
         },
-        "last_changed": "2023-12-25T02:56:28.813084+00:00",
-        "last_updated": "2023-12-25T02:56:28.813084+00:00",
+        "last_changed": "2023-12-25T15:24:21.589559+00:00",
+        "last_updated": "2023-12-25T15:24:21.589559+00:00",
         "context": {
-          "id": "01HJFEE0MDVNJ4WFKQT5P264V7",
+          "id": "01HJGS7DPNS7M3A45BN7QC539G",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 8.6,
+        "native_value": 19.7,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.shelly_door_casita_battery",
-        "state": "97",
+        "state": "96",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
           "friendly_name": "shelly-door-casita battery"
         },
-        "last_changed": "2023-12-25T02:56:28.813361+00:00",
-        "last_updated": "2023-12-25T02:56:28.813361+00:00",
+        "last_changed": "2023-12-25T13:48:33.394903+00:00",
+        "last_updated": "2023-12-25T13:48:33.394903+00:00",
         "context": {
-          "id": "01HJFEE0MD8YDK1ZGVXPNKCXFN",
+          "id": "01HJGKR07JJJKDEDZSR4XN97EQ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 97,
+        "native_value": 96,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -678,146 +678,146 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "binary_sensor.internet",
         "state": "on",
         "attributes": {
-          "round_trip_time_avg": 68.767,
-          "round_trip_time_max": 80.082,
+          "round_trip_time_avg": 74.669,
+          "round_trip_time_max": 82.455,
           "round_trip_time_mdev": "",
-          "round_trip_time_min": 59.097,
+          "round_trip_time_min": 67.684,
           "device_class": "connectivity",
           "friendly_name": "internet"
         },
         "last_changed": "2023-12-20T19:40:53.443445+00:00",
-        "last_updated": "2023-12-25T10:15:55.527381+00:00",
+        "last_updated": "2023-12-25T17:15:55.676706+00:00",
         "context": {
-          "id": "01HJG7JNC7BNNWP8VFBYQCK5JT",
+          "id": "01HJGZKPWWSGT90Z11XM7MTD5S",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.casa_consumo",
-        "state": "291",
+        "state": "852",
         "attributes": {
           "unit_of_measurement": "W",
           "device_class": "power",
           "friendly_name": "casa_consumo"
         },
-        "last_changed": "2023-12-25T10:20:54.503242+00:00",
-        "last_updated": "2023-12-25T10:20:54.503242+00:00",
+        "last_changed": "2023-12-25T17:20:49.306486+00:00",
+        "last_updated": "2023-12-25T17:20:49.306486+00:00",
         "context": {
-          "id": "01HJG7VSB70VSCG56VP2F7TSYC",
+          "id": "01HJGZWNMTXDK827EFHTZ3XQN6",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 291,
+        "native_value": 852,
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "switch.vamos_a_estar",
-        "state": "off",
+        "state": "on",
         "attributes": {
           "device_class": "switch",
           "friendly_name": "vamos_a_estar"
         },
-        "last_changed": "2023-12-17T15:00:20.848122+00:00",
-        "last_updated": "2023-12-17T15:00:20.848122+00:00",
+        "last_changed": "2023-12-25T14:36:13.650167+00:00",
+        "last_updated": "2023-12-25T14:36:13.650167+00:00",
         "context": {
-          "id": "01HHW4NPQG8A5KCG08F68J4KY7",
+          "id": "01HJGPF9EGP197GQYAY1PFCK0M",
           "parent_id": null,
-          "user_id": null
+          "user_id": "c11fa2f7653c435eb08e07e3f952c573"
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.jan_ipad_battery_level",
-        "state": "70",
+        "state": "85",
         "attributes": {
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-70",
+          "icon": "mdi:battery-charging-80",
           "friendly_name": "Jan iPad Battery Level"
         },
-        "last_changed": "2023-12-25T09:53:12.026554+00:00",
-        "last_updated": "2023-12-25T09:53:12.026554+00:00",
+        "last_changed": "2023-12-25T17:18:51.454625+00:00",
+        "last_updated": "2023-12-25T17:18:51.454625+00:00",
         "context": {
-          "id": "01HJG691TTB863DNS8KTND98DF",
+          "id": "01HJGZS2HY7QPDM0P6S4H2XNV9",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 70,
+        "native_value": 85,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.jan_ipad_battery_state",
-        "state": "Not Charging",
+        "state": "Charging",
         "attributes": {
           "Low Power Mode": false,
-          "icon": "mdi:battery-70",
+          "icon": "mdi:battery-charging-80",
           "friendly_name": "Jan iPad Battery State"
         },
-        "last_changed": "2023-12-24T22:28:11.244144+00:00",
-        "last_updated": "2023-12-25T09:13:19.518398+00:00",
+        "last_changed": "2023-12-25T16:24:40.240036+00:00",
+        "last_updated": "2023-12-25T17:08:50.638539+00:00",
         "context": {
-          "id": "01HJG401CYZBK2YRW70CBE3AJE",
+          "id": "01HJGZ6QTE9D9AGPG76J7GRJXW",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "Not Charging",
+        "native_value": "Charging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.jan_ipad_storage",
-        "state": "40.19",
+        "state": "40.37",
         "attributes": {
-          "Available": "10,02 GB",
-          "Available (Important)": "31,37 GB",
-          "Available (Opportunistic)": "25,71 GB",
+          "Available": "10,27 GB",
+          "Available (Important)": "30,96 GB",
+          "Available (Opportunistic)": "25,83 GB",
           "Total": "63,98 GB",
           "unit_of_measurement": "% available",
           "icon": "mdi:database",
           "friendly_name": "Jan iPad Storage"
         },
-        "last_changed": "2023-12-25T09:33:10.176432+00:00",
-        "last_updated": "2023-12-25T09:53:12.027577+00:00",
+        "last_changed": "2023-12-25T17:18:51.455764+00:00",
+        "last_updated": "2023-12-25T17:19:23.578689+00:00",
         "context": {
-          "id": "01HJG691TV6Y0RJHDBPZDEVM7Q",
+          "id": "01HJGZT1XT9QMC39V2RVG6ZJ3N",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "40.19",
+        "native_value": "40.37",
         "native_unit_of_measurement": "% available"
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -839,7 +839,7 @@
         "native_value": "casaWifi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -849,10 +849,10 @@
           "icon": "mdi:wifi-star",
           "friendly_name": "Jan iPad BSSID"
         },
-        "last_changed": "2023-12-24T13:58:50.338319+00:00",
-        "last_updated": "2023-12-24T13:58:50.338319+00:00",
+        "last_changed": "2023-12-25T13:36:02.733949+00:00",
+        "last_updated": "2023-12-25T13:36:02.733949+00:00",
         "context": {
-          "id": "01HJE1Y3Q21T2V5043PKBQ3D4R",
+          "id": "01HJGK135D8PJ8MYR68468MZMW",
           "parent_id": null,
           "user_id": null
         }
@@ -861,7 +861,7 @@
         "native_value": "ea:9f:80:16:1:74",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -883,7 +883,7 @@
         "native_value": "Wi-Fi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -897,8 +897,8 @@
           "ISO Country Code": "ES",
           "Locality": "Lecrín",
           "Location": [
-            36.94940269531828,
-            -3.5564715874856305
+            36.94939766159219,
+            -3.556452217115946
           ],
           "Name": "Avenida de Andalucía, 32–98",
           "Ocean": "N/A",
@@ -914,10 +914,10 @@
           "icon": "mdi:map",
           "friendly_name": "Jan iPad Geocoded Location"
         },
-        "last_changed": "2023-12-17T15:00:20.858420+00:00",
-        "last_updated": "2023-12-17T15:00:20.858420+00:00",
+        "last_changed": "2023-12-25T12:56:52.889978+00:00",
+        "last_updated": "2023-12-25T14:45:07.846249+00:00",
         "context": {
-          "id": "01HHW4NPQTN3GHEV1W4WK8W03F",
+          "id": "01HJGPZK4688FZM6FFYC1DRJ53",
           "parent_id": null,
           "user_id": null
         }
@@ -926,7 +926,7 @@
         "native_value": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -936,10 +936,10 @@
           "icon": "mdi:cellphone-wireless",
           "friendly_name": "Jan iPad Last Update Trigger"
         },
-        "last_changed": "2023-12-25T01:09:28.780673+00:00",
-        "last_updated": "2023-12-25T01:09:28.780673+00:00",
+        "last_changed": "2023-12-25T16:28:23.976752+00:00",
+        "last_updated": "2023-12-25T16:28:23.976752+00:00",
         "context": {
-          "id": "01HJF8A32C5JVNF9AJGD7MHZK9",
+          "id": "01HJGWWP18MSR71EXHV8972NH4",
           "parent_id": null,
           "user_id": null
         }
@@ -948,7 +948,7 @@
         "native_value": "Periodic",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -956,24 +956,24 @@
         "state": "home",
         "attributes": {
           "source_type": "gps",
-          "battery_level": 80,
-          "latitude": 36.949249267578125,
-          "longitude": -3.5561246770821344,
-          "gps_accuracy": 98,
-          "altitude": 680.3953247070312,
-          "vertical_accuracy": 29.92531967163086,
+          "battery_level": 50,
+          "latitude": 36.94939766159219,
+          "longitude": -3.556452217115946,
+          "gps_accuracy": 45.752,
+          "altitude": 679.6680107116699,
+          "vertical_accuracy": 29.53076934814453,
           "friendly_name": "Jan iPad"
         },
-        "last_changed": "2023-12-23T13:57:03.469584+00:00",
-        "last_updated": "2023-12-23T13:57:03.469584+00:00",
+        "last_changed": "2023-12-25T14:45:07.565458+00:00",
+        "last_updated": "2023-12-25T14:45:07.565458+00:00",
         "context": {
-          "id": "01HJBFE4BDN6Y867MZ5NNDT68A",
+          "id": "01HJGPZJVD4F3DDKZQWZP5987T",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -992,7 +992,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -1011,7 +1011,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
@@ -1038,12 +1038,12 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     },
     {
       "state": {
         "entity_id": "event.shelly_floor_lamp",
-        "state": "2023-12-24T22:27:59.874+00:00",
+        "state": "2023-12-25T17:15:40.214+00:00",
         "attributes": {
           "event_types": [
             "single",
@@ -1053,10 +1053,10 @@
           "device_class": "button",
           "friendly_name": "shelly-floor-lamp"
         },
-        "last_changed": "2023-12-25T00:22:46.908435+00:00",
-        "last_updated": "2023-12-25T00:22:46.908435+00:00",
+        "last_changed": "2023-12-25T17:15:40.214360+00:00",
+        "last_updated": "2023-12-25T17:15:40.214360+00:00",
         "context": {
-          "id": "01HJF5MJVWCFP15T89K8VMFR9X",
+          "id": "01HJGZK7SPQ03K3HQ27ZM1FR44",
           "parent_id": null,
           "user_id": null
         }
@@ -1065,7 +1065,7 @@
         "last_event_type": "single",
         "last_event_attributes": null
       },
-      "last_seen": "2023-12-25T10:20:55.394748+00:00"
+      "last_seen": "2023-12-25T17:20:55.430651+00:00"
     }
   ]
 }
