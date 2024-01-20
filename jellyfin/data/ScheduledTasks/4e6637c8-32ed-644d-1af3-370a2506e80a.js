@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2023-12-25T00:59:59.9992958Z","EndTimeUtc":"2023-12-25T01:00:00.073862Z","Status":"Completed","Name":"Extraer im\u00E1genes de los cap\u00EDtulos","Key":"RefreshChapterImages","Id":"4e6637c832ed644d1af3370a2506e80a"}
+{"StartTimeUtc":"2024-01-20T01:00:00.0061123Z","EndTimeUtc":"2024-01-20T01:00:00.2286835Z","Status":"Completed","Name":"Extraer im\u00E1genes de los cap\u00EDtulos","Key":"RefreshChapterImages","Id":"4e6637c832ed644d1af3370a2506e80a"}
