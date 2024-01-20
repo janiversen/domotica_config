@@ -174,13 +174,13 @@
         "domain": "mobile_app",
         "title": "Jan iPad",
         "data": {
-          "app_version": "2023.7 (2023.471)",
+          "app_version": "2023.12.1 (2023.508)",
           "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
           "app_id": "io.robbie.HomeAssistant",
           "app_name": "Home Assistant",
           "supports_encryption": true,
           "manufacturer": "Apple",
-          "os_version": "17.1.2",
+          "os_version": "17.2",
           "model": "iPad13,1",
           "os_name": "iPadOS",
           "device_name": "Jan iPad",
@@ -198,6 +198,24 @@
         "pref_disable_polling": false,
         "source": "registration",
         "unique_id": "io.robbie.HomeAssistant-7719C43E-E09F-4531-9FA5-0F33706DFA45",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "260dfd11e228ebd05f1b869cd35530cc",
+        "version": 1,
+        "domain": "shelly",
+        "title": "shelly-outdoor",
+        "data": {
+          "host": "192.168.10.30",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "3494546A104C",
         "disabled_by": null
       }
     ]

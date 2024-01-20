@@ -258,6 +258,24 @@
                 }
               ],
               "title": "WH2650A"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "switch.casa_luz_1",
+                "switch.casa_luz_2"
+              ],
+              "title": "shelly-outdoor"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "sensor.casa_luz_1_energy",
+                "sensor.casa_luz_1_power",
+                "sensor.casa_luz_2_energy",
+                "sensor.casa_luz_2_power"
+              ],
+              "title": "shelly-outdoor"
             }
           ]
         }

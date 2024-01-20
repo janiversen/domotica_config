@@ -202,7 +202,32 @@
         "name_by_user": null,
         "name": "Jan iPad",
         "serial_number": null,
-        "sw_version": "17.1.2",
+        "sw_version": "17.2",
+        "via_device_id": null
+      },
+      {
+        "area_id": "sheed",
+        "config_entries": [
+          "260dfd11e228ebd05f1b869cd35530cc"
+        ],
+        "configuration_url": "http://192.168.10.30",
+        "connections": [
+          [
+            "mac",
+            "34:94:54:6a:10:4c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "42cb50c3b6725acb2b6e1e611ff094b0",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "shelly-outdoor",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
         "via_device_id": null
       }
     ],
