@@ -67,54 +67,123 @@
             {
               "type": "entities",
               "entities": [
-                "binary_sensor.domotica",
-                "binary_sensor.internet"
-              ],
-              "title": "Binary Sensor"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.aemet_condition",
-                "sensor.aemet_daily_forecast_condition",
-                "sensor.aemet_daily_forecast_precipitation",
-                "sensor.aemet_daily_forecast_precipitation_probability",
-                "sensor.aemet_daily_forecast_temperature",
-                "sensor.aemet_daily_forecast_temperature_low",
-                "sensor.aemet_daily_forecast_time",
-                "sensor.aemet_daily_forecast_wind_bearing",
-                "sensor.aemet_daily_forecast_wind_speed",
-                "sensor.aemet_humidity",
-                "sensor.aemet_pressure",
-                "sensor.aemet_rain",
-                "sensor.aemet_rain_probability",
-                "sensor.aemet_snow",
-                "sensor.aemet_snow_probability",
-                "sensor.aemet_station_id",
-                "sensor.aemet_station_name",
-                "sensor.aemet_station_timestamp",
-                "sensor.aemet_storm_probability",
-                "sensor.aemet_temperature",
-                "sensor.aemet_temperature_feeling",
-                "sensor.aemet_town_id",
-                "sensor.aemet_town_name",
-                "sensor.aemet_town_timestamp",
-                "sensor.aemet_wind_bearing",
-                "sensor.aemet_wind_max_speed",
-                "sensor.aemet_wind_speed",
-                "sensor.alert_1",
-                "sensor.alert_2",
-                "sensor.alert_3",
-                "sensor.casa_consumo",
-                "sensor.daily_energy_yield",
-                "sensor.peak_production",
-                "sensor.power_meter",
-                "sensor.production",
-                "sensor.pv1_current",
-                "sensor.pv1_voltage",
-                "sensor.pv2_current",
-                "sensor.pv2_voltage",
-                "sensor.solar_power"
+                {
+                  "entity": "sensor.aemet_condition"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_condition"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_precipitation"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_precipitation_probability"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_temperature"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_temperature_low"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_time"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_wind_bearing"
+                },
+                {
+                  "entity": "sensor.aemet_daily_forecast_wind_speed"
+                },
+                {
+                  "entity": "sensor.aemet_humidity"
+                },
+                {
+                  "entity": "sensor.aemet_rain"
+                },
+                {
+                  "entity": "sensor.aemet_rain_probability"
+                },
+                {
+                  "entity": "sensor.aemet_snow"
+                },
+                {
+                  "entity": "sensor.aemet_snow_probability"
+                },
+                {
+                  "entity": "sensor.aemet_station_id"
+                },
+                {
+                  "entity": "sensor.aemet_station_name"
+                },
+                {
+                  "entity": "sensor.aemet_station_timestamp"
+                },
+                {
+                  "entity": "sensor.aemet_storm_probability"
+                },
+                {
+                  "entity": "sensor.aemet_temperature"
+                },
+                {
+                  "entity": "sensor.aemet_temperature_feeling"
+                },
+                {
+                  "entity": "sensor.aemet_town_id"
+                },
+                {
+                  "entity": "sensor.aemet_town_name"
+                },
+                {
+                  "entity": "sensor.aemet_town_timestamp"
+                },
+                {
+                  "entity": "sensor.aemet_wind_bearing"
+                },
+                {
+                  "entity": "sensor.aemet_wind_max_speed"
+                },
+                {
+                  "entity": "sensor.aemet_wind_speed"
+                },
+                {
+                  "entity": "sensor.alert_1"
+                },
+                {
+                  "entity": "sensor.alert_2"
+                },
+                {
+                  "entity": "sensor.alert_3"
+                },
+                {
+                  "entity": "sensor.casa_consumo"
+                },
+                {
+                  "entity": "sensor.daily_energy_yield"
+                },
+                {
+                  "entity": "sensor.peak_production"
+                },
+                {
+                  "entity": "sensor.power_meter"
+                },
+                {
+                  "entity": "sensor.production"
+                },
+                {
+                  "entity": "sensor.pv1_current"
+                },
+                {
+                  "entity": "sensor.pv1_voltage"
+                },
+                {
+                  "entity": "sensor.pv2_current"
+                },
+                {
+                  "entity": "sensor.pv2_voltage"
+                },
+                {
+                  "entity": "sensor.solar_power"
+                }
               ],
               "title": "Sensor"
             },

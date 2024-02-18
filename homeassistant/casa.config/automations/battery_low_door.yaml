@@ -1,4 +1,4 @@
-alias: Battery door casa
+alias: Battery door
 description: ''
 trigger:
   platform: numeric_state
@@ -11,5 +11,5 @@ action:
       title: Pilar puerta casa !!
       message: Cambiar pilar puerta casa pronto.
       target:
-        - "jan@casacondor.com"
+        - "jancasacondor@gmail.com"
 mode: single

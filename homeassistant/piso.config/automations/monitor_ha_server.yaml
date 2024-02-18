@@ -14,5 +14,5 @@ action:
       title: Internet not reachable
       message: Power/Internet is down!
       target:
-        - "jan@casacondor.com"
+        - "jancasacondor@gmail.com"
 mode: single

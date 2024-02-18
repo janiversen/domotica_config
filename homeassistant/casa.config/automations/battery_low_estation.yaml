@@ -1,4 +1,4 @@
-alias: Battery door casa
+alias: Battery WH65
 description: ''
 trigger:
 - type: bat_low
@@ -10,8 +10,8 @@ condition: []
 action:
   - service: notify.mail
     data:
-      title: Pilar puerta casa !!
-      message: Cambiar pilar puerta casa pronto.
+      title: Pilar WH65 !!
+      message: Cambiar pilar external WH casa pronto.
       target:
-        - "jan@casacondor.com"
+        - "jancasacondori@gmail.com"
 mode: single

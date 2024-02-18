@@ -8,9 +8,7 @@
         "id": "jan",
         "name": "jan",
         "user_id": "c11fa2f7653c435eb08e07e3f952c573",
-        "device_trackers": [
-          "device_tracker.jan_ipad"
-        ]
+        "device_trackers": []
       },
       {
         "id": "belen",

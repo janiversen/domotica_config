@@ -7,18 +7,18 @@
       {
         "area_id": null,
         "config_entries": [
-          "2653660aaac53ac092e44d571747fd55"
+          "f9e96022f1762880a661ecf03591153c"
         ],
         "configuration_url": null,
         "connections": [],
         "disabled_by": null,
         "entry_type": "service",
         "hw_version": null,
-        "id": "39eb9980628046f58eebe59d78df18d5",
+        "id": "0ecc4fc804e8dc33a678e061b613d046",
         "identifiers": [
           [
             "sun",
-            "2653660aaac53ac092e44d571747fd55"
+            "f9e96022f1762880a661ecf03591153c"
           ]
         ],
         "manufacturer": null,
@@ -28,209 +28,135 @@
         "serial_number": null,
         "sw_version": null,
         "via_device_id": null
+      }
+    ],
+    "deleted_devices": [
+      {
+        "config_entries": [
+          "2653660aaac53ac092e44d571747fd55"
+        ],
+        "connections": [],
+        "identifiers": [
+          [
+            "sun",
+            "2653660aaac53ac092e44d571747fd55"
+          ]
+        ],
+        "id": "39eb9980628046f58eebe59d78df18d5",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": "kitchen",
         "config_entries": [
           "e37c2bb82aa7d9d1e9fc899feed89e67"
         ],
-        "configuration_url": "http://192.168.10.21",
         "connections": [
           [
             "mac",
             "e8:db:84:d4:c1:ac"
           ]
         ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHSW-1)",
-        "id": "472c62c8009f88a79df019318e0810de",
         "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly 1",
-        "name_by_user": null,
-        "name": "Calentador ",
-        "serial_number": null,
-        "sw_version": "20230913-112003/v1.14.0-gcb84623",
-        "via_device_id": null
+        "id": "472c62c8009f88a79df019318e0810de",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": "living_room",
         "config_entries": [
           "4b1e4d3724a0929eef85c6fdc50627ce"
         ],
-        "configuration_url": "http://192.168.10.26",
         "connections": [
           [
             "mac",
             "e8:db:84:d5:0a:7b"
           ]
         ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHSW-1)",
-        "id": "f9d68bca51bb25819e466676ef05016d",
         "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly 1",
-        "name_by_user": null,
-        "name": "shelly-floor-lamp",
-        "serial_number": null,
-        "sw_version": "20230913-112003/v1.14.0-gcb84623",
-        "via_device_id": null
+        "id": "f9d68bca51bb25819e466676ef05016d",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": "garden",
         "config_entries": [
           "4cbed22cf03b37e736614666b267a1b3"
         ],
-        "configuration_url": "http://192.168.10.25",
         "connections": [
           [
             "mac",
             "ec:fa:bc:c8:b7:69"
           ]
         ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHWT-1)",
-        "id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
         "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly Flood",
-        "name_by_user": null,
-        "name": "Shelly-flood",
-        "serial_number": null,
-        "sw_version": "",
-        "via_device_id": null
+        "id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": "living_room",
         "config_entries": [
           "7f0390fe5ed411225d1e00af1e899090"
         ],
-        "configuration_url": "http://192.168.10.24",
         "connections": [
           [
             "mac",
             "c4:5b:be:6a:99:d2"
           ]
         ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHDW-2)",
-        "id": "fbfd5dd1c278aea11c6ffbb15be86ae3",
         "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly Door/Window 2",
-        "name_by_user": null,
-        "name": "shelly-door",
-        "serial_number": null,
-        "sw_version": "",
-        "via_device_id": null
+        "id": "fbfd5dd1c278aea11c6ffbb15be86ae3",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": null,
         "config_entries": [
           "16be647e84007f32fd313036a99e67d5"
         ],
-        "configuration_url": "http://192.168.10.13",
         "connections": [
           [
             "mac",
             "10:52:1c:07:62:57"
           ]
         ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHDW-2)",
-        "id": "eb2187a592309eff614b9c374cc1bc77",
         "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly Door/Window 2",
-        "name_by_user": null,
-        "name": "shelly-door-casita",
-        "serial_number": null,
-        "sw_version": "",
-        "via_device_id": null
+        "id": "eb2187a592309eff614b9c374cc1bc77",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": null,
         "config_entries": [
-          "99009e862c3baa99855de34d5d9da3b2",
           "74e298dc20f4a898b244fc62467d7e6d"
         ],
-        "configuration_url": null,
         "connections": [],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": null,
-        "id": "57f8083a15e53edd3d10f218824a3af8",
         "identifiers": [
           [
             "ecowitt",
             "29F36210F09426378CC962EA57FE03A8"
           ]
         ],
-        "manufacturer": null,
-        "model": "WH2650A",
-        "name_by_user": null,
-        "name": "WH2650A",
-        "serial_number": null,
-        "sw_version": null,
-        "via_device_id": null
+        "id": "57f8083a15e53edd3d10f218824a3af8",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": null,
         "config_entries": [
           "5f5c611cd2b775389c67f7130d697930"
         ],
-        "configuration_url": null,
         "connections": [],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": null,
-        "id": "e26949a2e07a60bd12e14ab77d13a363",
         "identifiers": [
           [
             "mobile_app",
             "7719C43E-E09F-4531-9FA5-0F33706DFA45"
           ]
         ],
-        "manufacturer": "Apple",
-        "model": "iPad13,1",
-        "name_by_user": null,
-        "name": "Jan iPad",
-        "serial_number": null,
-        "sw_version": "17.2",
-        "via_device_id": null
+        "id": "e26949a2e07a60bd12e14ab77d13a363",
+        "orphaned_timestamp": null
       },
       {
-        "area_id": "sheed",
         "config_entries": [
           "260dfd11e228ebd05f1b869cd35530cc"
         ],
-        "configuration_url": "http://192.168.10.30",
         "connections": [
           [
             "mac",
             "34:94:54:6a:10:4c"
           ]
         ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHSW-25)",
-        "id": "42cb50c3b6725acb2b6e1e611ff094b0",
         "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly 2.5",
-        "name_by_user": null,
-        "name": "shelly-outdoor",
-        "serial_number": null,
-        "sw_version": "20230913-112234/v1.14.0-gcb84623",
-        "via_device_id": null
+        "id": "42cb50c3b6725acb2b6e1e611ff094b0",
+        "orphaned_timestamp": null
       }
-    ],
-    "deleted_devices": []
+    ]
   }
 }
