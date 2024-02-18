@@ -1835,34 +1835,6 @@
       {
         "aliases": [],
         "area_id": null,
-        "capabilities": {
-          "state_class": "measurement"
-        },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
-        "device_class": null,
-        "device_id": null,
-        "disabled_by": null,
-        "entity_category": null,
-        "entity_id": "sensor.aemet_pressure",
-        "hidden_by": null,
-        "icon": null,
-        "id": "7ea84a0ff87bb7c53c0881c6b01d840c",
-        "has_entity_name": false,
-        "name": null,
-        "options": {},
-        "original_device_class": "pressure",
-        "original_icon": null,
-        "original_name": "AEMET Pressure",
-        "platform": "aemet",
-        "supported_features": 0,
-        "translation_key": null,
-        "unique_id": "36.94941163721342--3.5566520690917973-pressure",
-        "previous_unique_id": null,
-        "unit_of_measurement": "hPa"
-      },
-      {
-        "aliases": [],
-        "area_id": null,
         "capabilities": null,
         "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
         "device_class": null,
@@ -2765,8 +2737,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "e37c2bb82aa7d9d1e9fc899feed89e67",
@@ -2796,8 +2768,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "4b1e4d3724a0929eef85c6fdc50627ce",
@@ -3191,8 +3163,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "260dfd11e228ebd05f1b869cd35530cc",
@@ -3222,8 +3194,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "260dfd11e228ebd05f1b869cd35530cc",
@@ -3727,6 +3699,15 @@
         "unit_of_measurement": null
       }
     ],
-    "deleted_entities": []
+    "deleted_entities": [
+      {
+        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "entity_id": "sensor.aemet_pressure",
+        "id": "7ea84a0ff87bb7c53c0881c6b01d840c",
+        "orphaned_timestamp": null,
+        "platform": "aemet",
+        "unique_id": "36.94941163721342--3.5566520690917973-pressure"
+      }
+    ]
   }
 }
