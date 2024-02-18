@@ -7,6 +7,7 @@
       {
         "entry_id": "2653660aaac53ac092e44d571747fd55",
         "version": 1,
+        "minor_version": 1,
         "domain": "sun",
         "title": "Sun",
         "data": {},
@@ -20,6 +21,7 @@
       {
         "entry_id": "e37c2bb82aa7d9d1e9fc899feed89e67",
         "version": 1,
+        "minor_version": 1,
         "domain": "shelly",
         "title": "Calentador ",
         "data": {
@@ -38,6 +40,7 @@
       {
         "entry_id": "4b1e4d3724a0929eef85c6fdc50627ce",
         "version": 1,
+        "minor_version": 1,
         "domain": "shelly",
         "title": "shelly-floor-lamp",
         "data": {
@@ -56,6 +59,7 @@
       {
         "entry_id": "c7422e2e92cc2638d569c78eeeb20c6f",
         "version": 1,
+        "minor_version": 1,
         "domain": "bluetooth",
         "title": "hci0 (DC:A6:32:E7:E2:C0)",
         "data": {},
@@ -69,6 +73,7 @@
       {
         "entry_id": "4cbed22cf03b37e736614666b267a1b3",
         "version": 1,
+        "minor_version": 1,
         "domain": "shelly",
         "title": "Shelly-flood",
         "data": {
@@ -87,6 +92,7 @@
       {
         "entry_id": "7f0390fe5ed411225d1e00af1e899090",
         "version": 1,
+        "minor_version": 1,
         "domain": "shelly",
         "title": "shelly-door",
         "data": {
@@ -105,6 +111,7 @@
       {
         "entry_id": "16be647e84007f32fd313036a99e67d5",
         "version": 1,
+        "minor_version": 1,
         "domain": "shelly",
         "title": "shelly-door-casita",
         "data": {
@@ -123,6 +130,7 @@
       {
         "entry_id": "74e298dc20f4a898b244fc62467d7e6d",
         "version": 1,
+        "minor_version": 1,
         "domain": "ecowitt",
         "title": "Ecowitt",
         "data": {
@@ -138,6 +146,7 @@
       {
         "entry_id": "99009e862c3baa99855de34d5d9da3b2",
         "version": 1,
+        "minor_version": 1,
         "domain": "ecowitt",
         "title": "Ecowitt",
         "data": {
@@ -153,6 +162,7 @@
       {
         "entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
         "version": 1,
+        "minor_version": 1,
         "domain": "aemet",
         "title": "AEMET",
         "data": {
@@ -171,6 +181,7 @@
       {
         "entry_id": "5f5c611cd2b775389c67f7130d697930",
         "version": 1,
+        "minor_version": 1,
         "domain": "mobile_app",
         "title": "Jan iPad",
         "data": {
@@ -203,6 +214,7 @@
       {
         "entry_id": "260dfd11e228ebd05f1b869cd35530cc",
         "version": 1,
+        "minor_version": 1,
         "domain": "shelly",
         "title": "shelly-outdoor",
         "data": {
@@ -216,6 +228,46 @@
         "pref_disable_polling": false,
         "source": "zeroconf",
         "unique_id": "3494546A104C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1c35b7332d789de6617daa9712a77c0e",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "ping",
+        "title": "domotica",
+        "data": {
+          "imported_by": "binary_sensor"
+        },
+        "options": {
+          "host": "piso.lan",
+          "count": 8,
+          "consider_home": 180
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4eaba5e837ef4d94537b9ef4728ff7e8",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "ping",
+        "title": "internet",
+        "data": {
+          "imported_by": "binary_sensor"
+        },
+        "options": {
+          "host": "piso_router.lan",
+          "count": 8,
+          "consider_home": 180
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
         "disabled_by": null
       }
     ]

@@ -4,1133 +4,338 @@
   "key": "core.restore_state",
   "data": [
     {
-      "state": {
-        "entity_id": "person.jan",
-        "state": "home",
-        "attributes": {
-          "editable": true,
-          "id": "jan",
-          "latitude": 36.94940185546875,
-          "longitude": -3.5565428198469076,
-          "gps_accuracy": 45.752,
-          "source": "device_tracker.jan_ipad",
-          "user_id": "c11fa2f7653c435eb08e07e3f952c573",
-          "device_trackers": [
-            "device_tracker.jan_ipad"
-          ],
-          "friendly_name": "jan"
-        },
-        "last_changed": "2024-01-20T09:38:37.184280+00:00",
-        "last_updated": "2024-01-20T09:39:11.379867+00:00",
-        "context": {
-          "id": "01HMK3T2WKHQ92M8N0NKMV27K8",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"person.jan","state":"home","attributes":{"editable":true,"id":"jan","latitude":36.94940185546875,"longitude":-3.5565428198469076,"gps_accuracy":45.752,"source":"device_tracker.jan_ipad","user_id":"c11fa2f7653c435eb08e07e3f952c573","device_trackers":["device_tracker.jan_ipad"],"friendly_name":"jan"},"last_changed":"2024-02-18T11:48:14.692823+00:00","last_updated":"2024-02-18T11:48:26.750380+00:00","context":{"id":"01HPY0QKFY7KZFKS55SH7B9CK3","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "person.belen",
-        "state": "unknown",
-        "attributes": {
-          "editable": true,
-          "id": "belen",
-          "user_id": "15eeb893b95343edbf6a46482a335f43",
-          "device_trackers": [],
-          "friendly_name": "belen"
-        },
-        "last_changed": "2024-01-20T09:38:37.184685+00:00",
-        "last_updated": "2024-01-20T09:39:11.379983+00:00",
-        "context": {
-          "id": "01HMK3T2WKR7KMYT6Y55HMRYYM",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"person.belen","state":"unknown","attributes":{"editable":true,"id":"belen","user_id":"15eeb893b95343edbf6a46482a335f43","device_trackers":[],"friendly_name":"belen"},"last_changed":"2024-02-18T11:48:14.693273+00:00","last_updated":"2024-02-18T11:48:26.751044+00:00","context":{"id":"01HPY0QKFZ54F42HV2GPNYY3G5","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "automation.alert_ha",
-        "state": "on",
-        "attributes": {
-          "last_triggered": null,
-          "mode": "single",
-          "current": 0,
-          "friendly_name": "Alert HA"
-        },
-        "last_changed": "2024-01-20T09:38:39.301971+00:00",
-        "last_updated": "2024-01-20T09:38:39.301971+00:00",
-        "context": {
-          "id": "01HMK3S3J5E6JGFKB2J070HHEA",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"automation.alert_ha","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Alert HA"},"last_changed":"2024-02-18T11:48:17.402637+00:00","last_updated":"2024-02-18T11:48:17.402637+00:00","context":{"id":"01HPY0QABTWX3G96YGM9E63F40","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "automation.alert_internet",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2024-01-05T21:06:08.352647+00:00",
-          "mode": "single",
-          "current": 0,
-          "friendly_name": "Alert internet"
-        },
-        "last_changed": "2024-01-20T09:38:39.302945+00:00",
-        "last_updated": "2024-01-20T09:38:39.302945+00:00",
-        "context": {
-          "id": "01HMK3S3J6164N6V85D67Z3QJ1",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"automation.alert_internet","state":"on","attributes":{"last_triggered":"2024-01-05T21:06:08.352647+00:00","mode":"single","current":0,"friendly_name":"Alert internet"},"last_changed":"2024-02-18T11:48:17.403448+00:00","last_updated":"2024-02-18T11:48:17.403448+00:00","context":{"id":"01HPY0QABVFXVM1XXD6RXZ1VYJ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "automation.battery_door_casa",
-        "state": "on",
-        "attributes": {
-          "last_triggered": null,
-          "mode": "single",
-          "current": 0,
-          "friendly_name": "Battery door casa"
-        },
-        "last_changed": "2024-01-20T09:38:39.303993+00:00",
-        "last_updated": "2024-01-20T09:38:39.303993+00:00",
-        "context": {
-          "id": "01HMK3S3J7PSJTBD7D2SP84ZKF",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"automation.battery_door_casa","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Battery door casa"},"last_changed":"2024-02-18T11:48:17.404330+00:00","last_updated":"2024-02-18T11:48:17.404330+00:00","context":{"id":"01HPY0QABW85YCA39D1KBSYR50","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "automation.battery_flood_casa",
-        "state": "on",
-        "attributes": {
-          "last_triggered": null,
-          "mode": "single",
-          "current": 0,
-          "friendly_name": "Battery flood casa"
-        },
-        "last_changed": "2024-01-20T09:38:39.305902+00:00",
-        "last_updated": "2024-01-20T09:38:39.305902+00:00",
-        "context": {
-          "id": "01HMK3S3J9SBDSRW4HHE3ZT3R7",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"automation.battery_flood_casa","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Battery flood casa"},"last_changed":"2024-02-18T11:48:17.406839+00:00","last_updated":"2024-02-18T11:48:17.406839+00:00","context":{"id":"01HPY0QABYMC5TET8STHTZ0XEP","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.alert_1",
-        "state": "0",
-        "attributes": {
-          "unit_of_measurement": "bits",
-          "friendly_name": "Alert 1"
-        },
-        "last_changed": "2024-01-20T09:38:59.366602+00:00",
-        "last_updated": "2024-01-20T09:38:59.366602+00:00",
-        "context": {
-          "id": "01HMK3SQ561B5TQRP1CB9W4WJK",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "0",
-        "native_unit_of_measurement": "bits"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.alert_2",
-        "state": "0",
-        "attributes": {
-          "unit_of_measurement": "bits",
-          "friendly_name": "Alert 2"
-        },
-        "last_changed": "2024-01-20T09:38:59.367531+00:00",
-        "last_updated": "2024-01-20T09:38:59.367531+00:00",
-        "context": {
-          "id": "01HMK3SQ574420ZKSC5D22KBGD",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "0",
-        "native_unit_of_measurement": "bits"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.alert_3",
-        "state": "0",
-        "attributes": {
-          "unit_of_measurement": "bits",
-          "friendly_name": "Alert 3"
-        },
-        "last_changed": "2024-01-20T09:38:59.368363+00:00",
-        "last_updated": "2024-01-20T09:38:59.368363+00:00",
-        "context": {
-          "id": "01HMK3SQ58RHV6A0MYYMPGSVKC",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "0",
-        "native_unit_of_measurement": "bits"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.pv1_voltage",
-        "state": "223.9",
-        "attributes": {
-          "unit_of_measurement": "V",
-          "device_class": "voltage",
-          "friendly_name": "PV1 voltage"
-        },
-        "last_changed": "2024-01-20T09:39:09.459306+00:00",
-        "last_updated": "2024-01-20T09:39:09.459306+00:00",
-        "context": {
-          "id": "01HMK3T10KGR8VYSGZF5TGRJPY",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "223.9",
-        "native_unit_of_measurement": "V"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.pv1_current",
-        "state": "4.6",
-        "attributes": {
-          "unit_of_measurement": "A",
-          "device_class": "current",
-          "friendly_name": "PV1 current"
-        },
-        "last_changed": "2024-01-20T09:39:03.252814+00:00",
-        "last_updated": "2024-01-20T09:39:03.252814+00:00",
-        "context": {
-          "id": "01HMK3STYM0BCRBMFM3RNDPR87",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "4.6",
-        "native_unit_of_measurement": "A"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.pv2_voltage",
-        "state": "413.2",
-        "attributes": {
-          "unit_of_measurement": "V",
-          "device_class": "voltage",
-          "friendly_name": "PV2 voltage"
-        },
-        "last_changed": "2024-01-20T09:39:09.653069+00:00",
-        "last_updated": "2024-01-20T09:39:09.653069+00:00",
-        "context": {
-          "id": "01HMK3T16NPA8TNVHF4GXJEV4Q",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "413.2",
-        "native_unit_of_measurement": "V"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.pv2_current",
-        "state": "3.8",
-        "attributes": {
-          "unit_of_measurement": "A",
-          "device_class": "current",
-          "friendly_name": "PV2 current"
-        },
-        "last_changed": "2024-01-20T09:39:09.755821+00:00",
-        "last_updated": "2024-01-20T09:39:09.755821+00:00",
-        "context": {
-          "id": "01HMK3T19VEQG1PY26Z16F5Z9R",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "3.8",
-        "native_unit_of_measurement": "A"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.solar_power",
-        "state": "2585",
-        "attributes": {
-          "unit_of_measurement": "W",
-          "device_class": "power",
-          "friendly_name": "Solar power"
-        },
-        "last_changed": "2024-01-20T09:39:09.859080+00:00",
-        "last_updated": "2024-01-20T09:39:09.859080+00:00",
-        "context": {
-          "id": "01HMK3T1D3Y22MNCFBD8P64XKP",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "2585",
-        "native_unit_of_measurement": "W"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.peak_production",
-        "state": "2648",
-        "attributes": {
-          "state_class": "measurement",
-          "unit_of_measurement": "W",
-          "device_class": "power",
-          "friendly_name": "Peak production"
-        },
-        "last_changed": "2024-01-20T09:38:59.373850+00:00",
-        "last_updated": "2024-01-20T09:38:59.373850+00:00",
-        "context": {
-          "id": "01HMK3SQ5DKZ627FX5N8DVVDN8",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "2648",
-        "native_unit_of_measurement": "W"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.production",
-        "state": "2537",
-        "attributes": {
-          "state_class": "measurement",
-          "unit_of_measurement": "W",
-          "device_class": "power",
-          "friendly_name": "Production"
-        },
-        "last_changed": "2024-01-20T09:39:09.960009+00:00",
-        "last_updated": "2024-01-20T09:39:09.960009+00:00",
-        "context": {
-          "id": "01HMK3T1G884MGKV0S708N8QVY",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "2537",
-        "native_unit_of_measurement": "W"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.daily_energy_yield",
-        "state": "2.4",
-        "attributes": {
-          "unit_of_measurement": "kWh",
-          "device_class": "energy",
-          "friendly_name": "Daily energy yield"
-        },
-        "last_changed": "2024-01-20T09:39:04.122358+00:00",
-        "last_updated": "2024-01-20T09:39:04.122358+00:00",
-        "context": {
-          "id": "01HMK3SVST4Q0XW3NS1ZNWYTD5",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "2.4",
-        "native_unit_of_measurement": "kWh"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.power_meter",
-        "state": "1224",
-        "attributes": {
-          "unit_of_measurement": "W",
-          "device_class": "power",
-          "friendly_name": "Power meter"
-        },
-        "last_changed": "2024-01-20T09:39:10.165490+00:00",
-        "last_updated": "2024-01-20T09:39:10.165490+00:00",
-        "context": {
-          "id": "01HMK3T1PNTE68C7SYEA4PNN81",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "1224",
-        "native_unit_of_measurement": "W"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "binary_sensor.shelly_flood_flood",
-        "state": "off",
-        "attributes": {
-          "device_class": "moisture",
-          "friendly_name": "Shelly-flood flood"
-        },
-        "last_changed": "2024-01-20T09:38:59.393271+00:00",
-        "last_updated": "2024-01-20T09:38:59.393271+00:00",
-        "context": {
-          "id": "01HMK3SQ611W3HMRP4VS77ZNPC",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"binary_sensor.shelly_flood_flood","state":"off","attributes":{"device_class":"moisture","friendly_name":"Shelly-flood flood"},"last_changed":"2024-02-18T11:48:17.545418+00:00","last_updated":"2024-02-18T11:48:17.545418+00:00","context":{"id":"01HPY0QAG9CT2635P5THKN7FC6","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.shelly_flood_temperature",
-        "state": "10.88",
-        "attributes": {
-          "unit_of_measurement": "°C",
-          "device_class": "temperature",
-          "friendly_name": "Shelly-flood temperature"
-        },
-        "last_changed": "2024-01-20T09:38:59.395581+00:00",
-        "last_updated": "2024-01-20T09:38:59.395581+00:00",
-        "context": {
-          "id": "01HMK3SQ63RWHYC4BXDVG69W88",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_flood_temperature","state":"15.88","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Shelly-flood temperature"},"last_changed":"2024-02-18T11:48:17.549491+00:00","last_updated":"2024-02-18T11:48:17.549491+00:00","context":{"id":"01HPY0QAGD0FQXHX5NY0010ZJN","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 10.88,
+        "native_value": 15.88,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.shelly_flood_battery",
-        "state": "98",
-        "attributes": {
-          "unit_of_measurement": "%",
-          "device_class": "battery",
-          "friendly_name": "Shelly-flood battery"
-        },
-        "last_changed": "2024-01-20T09:38:59.396472+00:00",
-        "last_updated": "2024-01-20T09:38:59.396472+00:00",
-        "context": {
-          "id": "01HMK3SQ64K2A8QE13HT349F0W",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_flood_battery","state":"91","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"Shelly-flood battery"},"last_changed":"2024-02-18T11:48:17.550350+00:00","last_updated":"2024-02-18T11:48:17.550350+00:00","context":{"id":"01HPY0QAGEHKM1147D8HKH6799","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 98,
+        "native_value": 91,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "binary_sensor.shelly_door_door",
-        "state": "off",
-        "attributes": {
-          "device_class": "opening",
-          "friendly_name": "shelly-door door"
-        },
-        "last_changed": "2024-01-20T09:38:59.398091+00:00",
-        "last_updated": "2024-01-20T09:38:59.398091+00:00",
-        "context": {
-          "id": "01HMK3SQ66PV5J7M1FX2QQWT47",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"binary_sensor.shelly_door_door","state":"on","attributes":{"device_class":"opening","friendly_name":"shelly-door door"},"last_changed":"2024-02-18T11:48:17.554813+00:00","last_updated":"2024-02-18T11:48:17.554813+00:00","context":{"id":"01HPY0QAGJRJ2AT9RVEKY87HXT","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.shelly_door_luminosity",
-        "state": "68",
-        "attributes": {
-          "unit_of_measurement": "lx",
-          "device_class": "illuminance",
-          "friendly_name": "shelly-door luminosity"
-        },
-        "last_changed": "2024-01-20T09:38:59.399863+00:00",
-        "last_updated": "2024-01-20T09:38:59.399863+00:00",
-        "context": {
-          "id": "01HMK3SQ679CRAPCT256GJ73MK",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_door_luminosity","state":"150","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"shelly-door luminosity"},"last_changed":"2024-02-18T11:48:17.557064+00:00","last_updated":"2024-02-18T11:48:17.557064+00:00","context":{"id":"01HPY0QAGN1B5TQRP1CB9W4WJK","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 68,
+        "native_value": 150,
         "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.shelly_door_temperature",
-        "state": "20.3",
-        "attributes": {
-          "unit_of_measurement": "°C",
-          "device_class": "temperature",
-          "friendly_name": "shelly-door temperature"
-        },
-        "last_changed": "2024-01-20T09:38:59.400682+00:00",
-        "last_updated": "2024-01-20T09:38:59.400682+00:00",
-        "context": {
-          "id": "01HMK3SQ685GKJKDZ09H36F403",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_door_temperature","state":"18.7","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"shelly-door temperature"},"last_changed":"2024-02-18T11:48:17.557988+00:00","last_updated":"2024-02-18T11:48:17.557988+00:00","context":{"id":"01HPY0QAGN33Z3RA4G5DPFEFWA","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 20.3,
+        "native_value": 18.7,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.shelly_door_battery",
-        "state": "97",
-        "attributes": {
-          "unit_of_measurement": "%",
-          "device_class": "battery",
-          "friendly_name": "shelly-door battery"
-        },
-        "last_changed": "2024-01-20T09:38:59.401465+00:00",
-        "last_updated": "2024-01-20T09:38:59.401465+00:00",
-        "context": {
-          "id": "01HMK3SQ69GH3WZ9RR028CGZQR",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": 97,
-        "native_unit_of_measurement": "%"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "binary_sensor.shelly_door_casita_door",
-        "state": "off",
-        "attributes": {
-          "device_class": "opening",
-          "friendly_name": "shelly-door-casita door"
-        },
-        "last_changed": "2024-01-20T09:38:59.402469+00:00",
-        "last_updated": "2024-01-20T09:38:59.402469+00:00",
-        "context": {
-          "id": "01HMK3SQ6AA352KYZXDGKA13XM",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.shelly_door_casita_luminosity",
-        "state": "7",
-        "attributes": {
-          "unit_of_measurement": "lx",
-          "device_class": "illuminance",
-          "friendly_name": "shelly-door-casita luminosity"
-        },
-        "last_changed": "2024-01-20T09:38:59.410544+00:00",
-        "last_updated": "2024-01-20T09:38:59.410544+00:00",
-        "context": {
-          "id": "01HMK3SQ6J6PYDRQKMQPNBP9HW",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": 7,
-        "native_unit_of_measurement": "lx"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.shelly_door_casita_temperature",
-        "state": "15.1",
-        "attributes": {
-          "unit_of_measurement": "°C",
-          "device_class": "temperature",
-          "friendly_name": "shelly-door-casita temperature"
-        },
-        "last_changed": "2024-01-20T09:38:59.411393+00:00",
-        "last_updated": "2024-01-20T09:38:59.411393+00:00",
-        "context": {
-          "id": "01HMK3SQ6KQYN8742KKJ8E6SGG",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": 15.1,
-        "native_unit_of_measurement": "°C"
-      },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.shelly_door_casita_battery",
-        "state": "96",
-        "attributes": {
-          "unit_of_measurement": "%",
-          "device_class": "battery",
-          "friendly_name": "shelly-door-casita battery"
-        },
-        "last_changed": "2024-01-20T09:38:59.412169+00:00",
-        "last_updated": "2024-01-20T09:38:59.412169+00:00",
-        "context": {
-          "id": "01HMK3SQ6MVPVXM25MV5TDMYG5",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_door_battery","state":"96","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"shelly-door battery"},"last_changed":"2024-02-18T11:48:17.558715+00:00","last_updated":"2024-02-18T11:48:17.558715+00:00","context":{"id":"01HPY0QAGP4420ZKSC5D22KBGD","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": 96,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "binary_sensor.domotica",
-        "state": "off",
-        "attributes": {
-          "device_class": "connectivity",
-          "friendly_name": "domotica"
-        },
-        "last_changed": "2024-01-20T09:38:59.416072+00:00",
-        "last_updated": "2024-01-20T09:38:59.416072+00:00",
-        "context": {
-          "id": "01HMK3SQ6RHYRC2V0G6RNVNWJH",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"binary_sensor.shelly_door_casita_door","state":"on","attributes":{"device_class":"opening","friendly_name":"shelly-door-casita door"},"last_changed":"2024-02-18T11:48:17.561052+00:00","last_updated":"2024-02-18T11:48:17.561052+00:00","context":{"id":"01HPY0QAGSWJWXH44WKBS72QB6","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "binary_sensor.internet",
-        "state": "on",
-        "attributes": {
-          "round_trip_time_avg": 69.969,
-          "round_trip_time_max": 79.023,
-          "round_trip_time_mdev": "",
-          "round_trip_time_min": 50.088,
-          "device_class": "connectivity",
-          "friendly_name": "internet"
-        },
-        "last_changed": "2024-01-20T09:38:59.416547+00:00",
-        "last_updated": "2024-01-20T09:38:59.416547+00:00",
-        "context": {
-          "id": "01HMK3SQ6RYYSFRZ23A0CX8DC0",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.casa_consumo",
-        "state": "1313",
-        "attributes": {
-          "unit_of_measurement": "W",
-          "device_class": "power",
-          "friendly_name": "casa_consumo"
-        },
-        "last_changed": "2024-01-20T09:39:10.165758+00:00",
-        "last_updated": "2024-01-20T09:39:10.165758+00:00",
-        "context": {
-          "id": "01HMK3T1PNW0BJQT858GHHD6C3",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_door_casita_luminosity","state":"677","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"shelly-door-casita luminosity"},"last_changed":"2024-02-18T11:48:17.563776+00:00","last_updated":"2024-02-18T11:48:17.563776+00:00","context":{"id":"01HPY0QAGVRHV6A0MYYMPGSVKC","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 1313,
-        "native_unit_of_measurement": "W"
+        "native_value": 677,
+        "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "switch.vamos_a_estar",
-        "state": "off",
-        "attributes": {
-          "device_class": "switch",
-          "friendly_name": "vamos_a_estar"
-        },
-        "last_changed": "2024-01-20T09:38:59.434411+00:00",
-        "last_updated": "2024-01-20T09:38:59.434411+00:00",
-        "context": {
-          "id": "01HMK3SQ7AJSCCCP64TY7YZ4M2",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.jan_ipad_battery_level",
-        "state": "35",
-        "attributes": {
-          "unit_of_measurement": "%",
-          "device_class": "battery",
-          "icon": "mdi:battery-30",
-          "friendly_name": "Jan iPad Battery Level"
-        },
-        "last_changed": "2024-01-20T09:39:01.501032+00:00",
-        "last_updated": "2024-01-20T09:39:01.501032+00:00",
-        "context": {
-          "id": "01HMK3SS7XM8TDQPZMYZ48Z2MH",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.shelly_door_casita_temperature","state":"13.3","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"shelly-door-casita temperature"},"last_changed":"2024-02-18T11:48:17.564700+00:00","last_updated":"2024-02-18T11:48:17.564700+00:00","context":{"id":"01HPY0QAGWJR8Q39Q0KV8JBHW1","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 35,
+        "native_value": 13.3,
+        "native_unit_of_measurement": "°C"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.shelly_door_casita_battery","state":"91","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"shelly-door-casita battery"},"last_changed":"2024-02-18T11:48:17.565559+00:00","last_updated":"2024-02-18T11:48:17.565559+00:00","context":{"id":"01HPY0QAGX6AP3P31YV2KK2JG6","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 91,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_battery_state",
-        "state": "Not Charging",
-        "attributes": {
-          "Low Power Mode": false,
-          "icon": "mdi:battery-30",
-          "friendly_name": "Jan iPad Battery State"
-        },
-        "last_changed": "2024-01-20T09:39:01.501475+00:00",
-        "last_updated": "2024-01-20T09:39:01.501475+00:00",
-        "context": {
-          "id": "01HMK3SS7XMRGYMVKTNX30Q86S",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.alert_1","state":"unavailable","attributes":{"unit_of_measurement":"bits","friendly_name":"Alert 1"},"last_changed":"2024-02-18T11:48:17.687403+00:00","last_updated":"2024-02-18T11:48:17.687403+00:00","context":{"id":"01HPY0QAMQMRGYMVKTNX30Q86S","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "Not Charging",
-        "native_unit_of_measurement": null
+        "native_value": null,
+        "native_unit_of_measurement": "bits"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_storage",
-        "state": "42.40",
-        "attributes": {
-          "Available": "12,85 GB",
-          "Available (Important)": "32,21 GB",
-          "Available (Opportunistic)": "27,13 GB",
-          "Total": "63,98 GB",
-          "unit_of_measurement": "% available",
-          "icon": "mdi:database",
-          "friendly_name": "Jan iPad Storage"
-        },
-        "last_changed": "2024-01-20T09:39:01.501845+00:00",
-        "last_updated": "2024-01-20T09:39:01.501845+00:00",
-        "context": {
-          "id": "01HMK3SS7XHVH6BH14DMZVB3WE",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.alert_2","state":"unavailable","attributes":{"unit_of_measurement":"bits","friendly_name":"Alert 2"},"last_changed":"2024-02-18T11:48:17.687683+00:00","last_updated":"2024-02-18T11:48:17.687683+00:00","context":{"id":"01HPY0QAMQHVH6BH14DMZVB3WE","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "42.40",
-        "native_unit_of_measurement": "% available"
+        "native_value": null,
+        "native_unit_of_measurement": "bits"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_ssid",
-        "state": "casaWifi",
-        "attributes": {
-          "icon": "mdi:wifi",
-          "friendly_name": "Jan iPad SSID"
-        },
-        "last_changed": "2024-01-20T09:39:01.502191+00:00",
-        "last_updated": "2024-01-20T09:39:01.502191+00:00",
-        "context": {
-          "id": "01HMK3SS7YFMSW6P8FQ19DEJEW",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.alert_3","state":"unavailable","attributes":{"unit_of_measurement":"bits","friendly_name":"Alert 3"},"last_changed":"2024-02-18T11:48:17.689229+00:00","last_updated":"2024-02-18T11:48:17.689229+00:00","context":{"id":"01HPY0QAMSFMSW6P8FQ19DEJEW","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "casaWifi",
-        "native_unit_of_measurement": null
+        "native_value": null,
+        "native_unit_of_measurement": "bits"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_bssid",
-        "state": "ea:9f:80:16:1:74",
-        "attributes": {
-          "icon": "mdi:wifi-star",
-          "friendly_name": "Jan iPad BSSID"
-        },
-        "last_changed": "2024-01-20T09:39:01.502500+00:00",
-        "last_updated": "2024-01-20T09:39:01.502500+00:00",
-        "context": {
-          "id": "01HMK3SS7YDBRFWNAZF43AB1D6",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.pv1_voltage","state":"unavailable","attributes":{"unit_of_measurement":"V","device_class":"voltage","friendly_name":"PV1 voltage"},"last_changed":"2024-02-18T11:48:17.689367+00:00","last_updated":"2024-02-18T11:48:17.689367+00:00","context":{"id":"01HPY0QAMSDBRFWNAZF43AB1D6","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "ea:9f:80:16:1:74",
-        "native_unit_of_measurement": null
+        "native_value": null,
+        "native_unit_of_measurement": "V"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_connection_type",
-        "state": "Wi-Fi",
-        "attributes": {
-          "icon": "mdi:wifi",
-          "friendly_name": "Jan iPad Connection Type"
-        },
-        "last_changed": "2024-01-20T09:39:01.502822+00:00",
-        "last_updated": "2024-01-20T09:39:01.502822+00:00",
-        "context": {
-          "id": "01HMK3SS7YG0A8NSESNSA1JS73",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.pv1_current","state":"unavailable","attributes":{"unit_of_measurement":"A","device_class":"current","friendly_name":"PV1 current"},"last_changed":"2024-02-18T11:48:17.693105+00:00","last_updated":"2024-02-18T11:48:17.693105+00:00","context":{"id":"01HPY0QAMXG0A8NSESNSA1JS73","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "Wi-Fi",
-        "native_unit_of_measurement": null
+        "native_value": null,
+        "native_unit_of_measurement": "A"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_geocoded_location",
-        "state": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
-        "attributes": {
-          "Administrative Area": "Granada",
-          "Areas Of Interest": "N/A",
-          "Country": "España",
-          "Inland Water": "N/A",
-          "ISO Country Code": "ES",
-          "Locality": "Lecrín",
-          "Location": [
-            36.94940185546875,
-            -3.5565428198469076
-          ],
-          "Name": "Avenida de Andalucía, 32–98",
-          "Ocean": "N/A",
-          "Postal Code": "18656",
-          "Sub Administrative Area": "N/A",
-          "Sub Locality": "Talará",
-          "Sub Thoroughfare": "32–98",
-          "Thoroughfare": "Avenida de Andalucía",
-          "Time Zone": "Europe/Madrid",
-          "Zones": [
-            "Casa"
-          ],
-          "icon": "mdi:map",
-          "friendly_name": "Jan iPad Geocoded Location"
-        },
-        "last_changed": "2024-01-20T09:39:01.503165+00:00",
-        "last_updated": "2024-01-20T09:39:01.503165+00:00",
-        "context": {
-          "id": "01HMK3SS7ZN3GHEV1W4WK8W03F",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.pv2_voltage","state":"unavailable","attributes":{"unit_of_measurement":"V","device_class":"voltage","friendly_name":"PV2 voltage"},"last_changed":"2024-02-18T11:48:17.693287+00:00","last_updated":"2024-02-18T11:48:17.693287+00:00","context":{"id":"01HPY0QAMXN3GHEV1W4WK8W03F","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
-        "native_unit_of_measurement": null
+        "native_value": null,
+        "native_unit_of_measurement": "V"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "sensor.jan_ipad_last_update_trigger",
-        "state": "Periodic",
-        "attributes": {
-          "icon": "mdi:cellphone-wireless",
-          "friendly_name": "Jan iPad Last Update Trigger"
-        },
-        "last_changed": "2024-01-20T09:39:01.503572+00:00",
-        "last_updated": "2024-01-20T09:39:01.503572+00:00",
-        "context": {
-          "id": "01HMK3SS7ZDHN60TY0R3JCESVB",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"sensor.pv2_current","state":"unavailable","attributes":{"unit_of_measurement":"A","device_class":"current","friendly_name":"PV2 current"},"last_changed":"2024-02-18T11:48:17.694842+00:00","last_updated":"2024-02-18T11:48:17.694842+00:00","context":{"id":"01HPY0QAMYDHN60TY0R3JCESVB","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "Periodic",
-        "native_unit_of_measurement": null
+        "native_value": null,
+        "native_unit_of_measurement": "A"
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "device_tracker.jan_ipad",
-        "state": "home",
-        "attributes": {
-          "source_type": "gps",
-          "battery_level": 35,
-          "latitude": 36.94940185546875,
-          "longitude": -3.5565428198469076,
-          "gps_accuracy": 45.752,
-          "altitude": 679.7943840026855,
-          "vertical_accuracy": 17.27096939086914,
-          "friendly_name": "Jan iPad"
-        },
-        "last_changed": "2024-01-20T09:39:01.504688+00:00",
-        "last_updated": "2024-01-20T09:39:01.504688+00:00",
-        "context": {
-          "id": "01HMK3SS80DVKQZY6EB6M26WRD",
-          "parent_id": null,
-          "user_id": null
-        }
+      "state": {"entity_id":"sensor.solar_power","state":"unavailable","attributes":{"unit_of_measurement":"W","device_class":"power","friendly_name":"Solar power"},"last_changed":"2024-02-18T11:48:17.695036+00:00","last_updated":"2024-02-18T11:48:17.695036+00:00","context":{"id":"01HPY0QAMZDVKQZY6EB6M26WRD","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
       },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.peak_production","state":"unavailable","attributes":{"state_class":"measurement","unit_of_measurement":"W","device_class":"power","friendly_name":"Peak production"},"last_changed":"2024-02-18T11:48:17.696086+00:00","last_updated":"2024-02-18T11:48:17.696086+00:00","context":{"id":"01HPY0QAN010EEY8495H3TZET7","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.production","state":"unavailable","attributes":{"state_class":"measurement","unit_of_measurement":"W","device_class":"power","friendly_name":"Production"},"last_changed":"2024-02-18T11:48:17.697207+00:00","last_updated":"2024-02-18T11:48:17.697207+00:00","context":{"id":"01HPY0QAN13WMB504KEH0QJF58","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.daily_energy_yield","state":"unavailable","attributes":{"unit_of_measurement":"kWh","device_class":"energy","friendly_name":"Daily energy yield"},"last_changed":"2024-02-18T11:48:17.715743+00:00","last_updated":"2024-02-18T11:48:17.715743+00:00","context":{"id":"01HPY0QANKWJN92SD4C2Z4V0SK","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "kWh"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.power_meter","state":"unavailable","attributes":{"unit_of_measurement":"W","device_class":"power","friendly_name":"Power meter"},"last_changed":"2024-02-18T11:48:17.716053+00:00","last_updated":"2024-02-18T11:48:17.716053+00:00","context":{"id":"01HPY0QANMBE5N0JXCV5WF729N","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": null,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.casa_consumo","state":"434","attributes":{"unit_of_measurement":"W","device_class":"power","friendly_name":"casa_consumo"},"last_changed":"2024-02-18T11:48:17.608306+00:00","last_updated":"2024-02-18T11:48:17.608306+00:00","context":{"id":"01HPY0QAJ88A5KCG08F68J4KY7","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 434,
+        "native_unit_of_measurement": "W"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"switch.vamos_a_estar","state":"off","attributes":{"device_class":"switch","friendly_name":"vamos_a_estar"},"last_changed":"2024-02-18T11:48:17.612399+00:00","last_updated":"2024-02-18T11:48:17.612399+00:00","context":{"id":"01HPY0QAJCM8TDQPZMYZ48Z2MH","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "button.calentador_reboot",
-        "state": "unknown",
-        "attributes": {
-          "device_class": "restart",
-          "friendly_name": "Calentador  Reboot"
-        },
-        "last_changed": "2024-01-20T09:39:01.712108+00:00",
-        "last_updated": "2024-01-20T09:39:01.712108+00:00",
-        "context": {
-          "id": "01HMK3SSEGY7YQ637GFCRSMZ3Q",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"button.calentador_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Calentador  Reboot"},"last_changed":"2024-02-18T11:48:18.028110+00:00","last_updated":"2024-02-18T11:48:18.028110+00:00","context":{"id":"01HPY0QAZCBK1K672QSD30GPGD","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "event.calentador",
-        "state": "unknown",
-        "attributes": {
-          "event_types": [
-            "single",
-            "long"
-          ],
-          "event_type": null,
-          "device_class": "button",
-          "friendly_name": "Calentador "
-        },
-        "last_changed": "2024-01-20T09:39:01.714171+00:00",
-        "last_updated": "2024-01-20T09:39:01.714171+00:00",
-        "context": {
-          "id": "01HMK3SSEJCHE0EYW7S6MR869S",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"event.calentador","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"Calentador "},"last_changed":"2024-02-18T11:48:18.035287+00:00","last_updated":"2024-02-18T11:48:18.035287+00:00","context":{"id":"01HPY0QAZKE5EYFXHFVMB5KEBQ","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "button.shelly_floor_lamp_reboot",
-        "state": "unknown",
-        "attributes": {
-          "device_class": "restart",
-          "friendly_name": "shelly-floor-lamp Reboot"
-        },
-        "last_changed": "2024-01-20T09:39:01.988318+00:00",
-        "last_updated": "2024-01-20T09:39:01.988318+00:00",
-        "context": {
-          "id": "01HMK3SSQ4CTFTQ475SNJ90TSC",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"button.shelly_outdoor_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"shelly-outdoor Reboot"},"last_changed":"2024-02-18T11:48:18.070694+00:00","last_updated":"2024-02-18T11:48:18.070694+00:00","context":{"id":"01HPY0QB0PPA8TNVHF4GXJEV4Q","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "event.shelly_floor_lamp",
-        "state": "2024-01-19T19:55:47.396+00:00",
-        "attributes": {
-          "event_types": [
-            "single",
-            "long"
-          ],
-          "event_type": "single",
-          "device_class": "button",
-          "friendly_name": "shelly-floor-lamp"
-        },
-        "last_changed": "2024-01-20T09:39:01.989283+00:00",
-        "last_updated": "2024-01-20T09:39:01.989283+00:00",
-        "context": {
-          "id": "01HMK3SSQ50SEJPYK93QTSQDVK",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"event.casa_luz_1","state":"2024-02-18T10:19:06.088+00:00","attributes":{"event_types":["single","long"],"event_type":"single","device_class":"button","friendly_name":"casa_luz_1"},"last_changed":"2024-02-18T11:48:18.071767+00:00","last_updated":"2024-02-18T11:48:18.071767+00:00","context":{"id":"01HPY0QB0QEQG1PY26Z16F5Z9R","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": "single",
         "last_event_attributes": null
       },
-      "last_seen": "2024-01-20T09:39:11.380962+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "button.shelly_outdoor_reboot",
-        "state": "unknown",
-        "attributes": {
-          "device_class": "restart",
-          "friendly_name": "shelly-outdoor Reboot"
-        },
-        "last_changed": "2024-01-20T09:35:36.949922+00:00",
-        "last_updated": "2024-01-20T09:35:36.949922+00:00",
-        "context": {
-          "id": "01HMK3KHFNAFSCVPE4EFKNQ45Z",
-          "parent_id": null,
-          "user_id": null
-        }
+      "state": {"entity_id":"event.casa_luz_2","state":"2024-02-18T10:08:49.339+00:00","attributes":{"event_types":["single","long"],"event_type":"single","device_class":"button","friendly_name":"casa_luz_2"},"last_changed":"2024-02-18T11:48:18.072848+00:00","last_updated":"2024-02-18T11:48:18.072848+00:00","context":{"id":"01HPY0QB0RY22MNCFBD8P64XKP","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": "single",
+        "last_event_attributes": null
       },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_battery_level","state":"75","attributes":{"unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-charging-60","friendly_name":"Jan iPad Battery Level"},"last_changed":"2024-02-18T11:48:18.154715+00:00","last_updated":"2024-02-18T11:48:18.154715+00:00","context":{"id":"01HPY0QB3AZFYD6MHSYRW1ZDXF","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 75,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_battery_state","state":"Charging","attributes":{"Low Power Mode":false,"icon":"mdi:battery-charging-60","friendly_name":"Jan iPad Battery State"},"last_changed":"2024-02-18T11:48:18.155405+00:00","last_updated":"2024-02-18T11:48:18.155405+00:00","context":{"id":"01HPY0QB3B9ARVN3VGVW7K74JH","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Charging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_storage","state":"36.80","attributes":{"Available":"8,61 GB","Available (Important)":"29,11 GB","Available (Opportunistic)":"23,54 GB","Total":"63,98 GB","unit_of_measurement":"% available","icon":"mdi:database","friendly_name":"Jan iPad Storage"},"last_changed":"2024-02-18T11:48:18.156066+00:00","last_updated":"2024-02-18T11:48:18.156066+00:00","context":{"id":"01HPY0QB3CCJKNKS9RA6H4JZXX","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "36.80",
+        "native_unit_of_measurement": "% available"
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_ssid","state":"casaWifi","attributes":{"icon":"mdi:wifi","friendly_name":"Jan iPad SSID"},"last_changed":"2024-02-18T11:48:18.156852+00:00","last_updated":"2024-02-18T11:48:18.156852+00:00","context":{"id":"01HPY0QB3CY1YBQHEEYPYGE5KN","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "casaWifi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_bssid","state":"6c:5a:b0:b6:8f:e9","attributes":{"icon":"mdi:wifi-star","friendly_name":"Jan iPad BSSID"},"last_changed":"2024-02-18T11:48:18.157846+00:00","last_updated":"2024-02-18T11:48:18.157846+00:00","context":{"id":"01HPY0QB3DPXG2EWQGK19G1JZ5","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "6c:5a:b0:b6:8f:e9",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_connection_type","state":"Wi-Fi","attributes":{"icon":"mdi:wifi","friendly_name":"Jan iPad Connection Type"},"last_changed":"2024-02-18T11:48:18.158978+00:00","last_updated":"2024-02-18T11:48:18.158978+00:00","context":{"id":"01HPY0QB3EA4R8XARPRVYVJ43X","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Wi-Fi",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_geocoded_location","state":"Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña","attributes":{"Administrative Area":"Granada","Areas Of Interest":"N/A","Country":"España","Inland Water":"N/A","ISO Country Code":"ES","Locality":"Lecrín","Location":[36.94940185546875,-3.5565428198469076],"Name":"Avenida de Andalucía, 32–98","Ocean":"N/A","Postal Code":"18656","Sub Administrative Area":"N/A","Sub Locality":"Talará","Sub Thoroughfare":"32–98","Thoroughfare":"Avenida de Andalucía","Time Zone":"Europe/Madrid","Zones":["Casa"],"icon":"mdi:map","friendly_name":"Jan iPad Geocoded Location"},"last_changed":"2024-02-18T11:48:18.159810+00:00","last_updated":"2024-02-18T11:48:18.159810+00:00","context":{"id":"01HPY0QB3FF00ZJD67S4NRBM21","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Avenida de Andalucía, 32–98\n18656 Lecrín Granada\nEspaña",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_last_update_trigger","state":"Launch","attributes":{"icon":"mdi:cellphone-wireless","friendly_name":"Jan iPad Last Update Trigger"},"last_changed":"2024-02-18T11:48:18.160694+00:00","last_updated":"2024-02-18T11:48:18.160694+00:00","context":{"id":"01HPY0QB3GZA4T48ZVJEY514W8","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "Launch",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"device_tracker.jan_ipad","state":"home","attributes":{"source_type":"gps","battery_level":35,"latitude":36.94940185546875,"longitude":-3.5565428198469076,"gps_accuracy":45.752,"altitude":679.7943840026855,"vertical_accuracy":17.27096939086914,"friendly_name":"Jan iPad"},"last_changed":"2024-02-18T11:48:18.165025+00:00","last_updated":"2024-02-18T11:48:18.165025+00:00","context":{"id":"01HPY0QB3N6VJVKH4HSY6912MW","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-01-20T09:38:03.245788+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     },
     {
-      "state": {
-        "entity_id": "event.casa_luz_1",
-        "state": "2024-01-19T17:49:25.979+00:00",
-        "attributes": {
-          "event_types": [
-            "single",
-            "long"
-          ],
-          "event_type": "single",
-          "device_class": "button",
-          "friendly_name": "casa_luz_1"
-        },
-        "last_changed": "2024-01-20T09:35:36.953548+00:00",
-        "last_updated": "2024-01-20T09:35:36.953548+00:00",
-        "context": {
-          "id": "01HMK3KHFS5P2NARPPZK4T89Y5",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
+      "state": {"entity_id":"button.shelly_floor_lamp_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"shelly-floor-lamp Reboot"},"last_changed":"2024-02-18T11:48:18.208052+00:00","last_updated":"2024-02-18T11:48:18.208052+00:00","context":{"id":"01HPY0QB50MQM2YJ0D5KECJZ3G","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
+    },
+    {
+      "state": {"entity_id":"event.shelly_floor_lamp","state":"unknown","attributes":{"event_types":["single","long"],"event_type":"single","device_class":"button","friendly_name":"shelly-floor-lamp"},"last_changed":"2024-02-18T11:48:18.209021+00:00","last_updated":"2024-02-18T11:48:18.209021+00:00","context":{"id":"01HPY0QB51AASNE33RX7E0AYK8","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": "single",
         "last_event_attributes": null
       },
-      "last_seen": "2024-01-20T09:38:03.245788+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "event.casa_luz_2",
-        "state": "2024-01-19T17:49:26.791+00:00",
-        "attributes": {
-          "event_types": [
-            "single",
-            "long"
-          ],
-          "event_type": "single",
-          "device_class": "button",
-          "friendly_name": "casa_luz_2"
-        },
-        "last_changed": "2024-01-20T09:35:36.955403+00:00",
-        "last_updated": "2024-01-20T09:35:36.955403+00:00",
-        "context": {
-          "id": "01HMK3KHFVZPXY8V1C59HP9S7W",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "last_event_type": "single",
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-01-20T09:38:03.245788+00:00"
+      "last_seen": "2024-02-18T11:48:26.752386+00:00"
     }
   ]
 }
