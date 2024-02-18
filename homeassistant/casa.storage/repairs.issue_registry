@@ -12,21 +12,7 @@
         "issue_id": "deprecated_retry_on_empty"
       },
       {
-        "created": "2024-02-17T18:27:23.711962+00:00",
-        "dismissed_version": null,
-        "domain": "modbus",
-        "is_persistent": false,
-        "issue_id": "removed_lazy_error_count"
-      },
-      {
-        "created": "2024-02-17T18:27:40.844922+00:00",
-        "dismissed_version": null,
-        "domain": "homeassistant",
-        "is_persistent": false,
-        "issue_id": "deprecated_yaml_ping"
-      },
-      {
-        "created": "2024-02-17T18:27:48.663220+00:00",
+        "created": "2024-02-18T18:18:36.620590+00:00",
         "dismissed_version": null,
         "domain": "homeassistant",
         "is_persistent": false,

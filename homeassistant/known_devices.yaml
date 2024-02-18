@@ -1,0 +1,77 @@
+
+modbus_server:
+  name: modbus_server
+  mac: E8:FD:F8:88:92:28
+  icon:
+  picture:
+  track: false 
+
+macmini:
+  name: MacMini
+  mac: 14:98:77:7D:B8:D3
+  icon:
+  picture:
+  track: true
+
+ipcam:
+  name: IPCAM
+  mac: FC:6B:F0:05:EF:F3
+  icon:
+  picture:
+  track: false
+
+jan_ipad:
+  name: Jan-iPad
+  mac: 0A:5E:DE:6B:5E:FE
+  icon:
+  picture:
+  track: true
+
+aircon:
+  name: aircon
+  mac: E8:4F:25:28:70:C1
+  icon:
+  picture:
+  track: false
+
+domotica:
+  name: domotica
+  mac: DC:A6:32:E7:E2:BF
+  icon:
+  picture:
+  track: false
+
+00_00_ca_11_22_33:
+  name: 00_00_ca_11_22_33
+  mac: 00:00:CA:11:22:33
+  icon:
+  picture:
+  track: false
+
+solar:
+  name: solar
+  mac: 5C:C0:A0:62:52:CB
+  icon:
+  picture:
+  track: false
+
+estacion:
+  name: estacion
+  mac: BC:DD:C2:A8:FD:8B
+  icon:
+  picture:
+  track: false
+
+4c_31_2d_0a_36_45:
+  name: 4c_31_2d_0a_36_45
+  mac: 4C:31:2D:0A:36:45
+  icon:
+  picture:
+  track: false
+
+dc_97_58_30_2c_dd:
+  name: dc_97_58_30_2c_dd
+  mac: DC:97:58:30:2C:DD
+  icon:
+  picture:
+  track: false

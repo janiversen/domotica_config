@@ -28,6 +28,106 @@
         "serial_number": null,
         "sw_version": null,
         "via_device_id": null
+      },
+      {
+        "area_id": "garden",
+        "config_entries": [
+          "e671d6aa004b26dbed6da4d27a9a2686"
+        ],
+        "configuration_url": "http://192.168.10.30",
+        "connections": [
+          [
+            "mac",
+            "34:94:54:6a:10:4c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "42cb50c3b6725acb2b6e1e611ff094b0",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "shelly-outdoor",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "2c38d29eed2a59f23ac1b50336d0b750"
+        ],
+        "configuration_url": "http://192.168.10.26",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d5:0a:7b"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "f9d68bca51bb25819e466676ef05016d",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "shelly-floor-lamp",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "kitchen",
+        "config_entries": [
+          "f290aa93401e7056c3137cfe9e5bd674"
+        ],
+        "configuration_url": "http://192.168.10.21",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d4:c1:ac"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "472c62c8009f88a79df019318e0810de",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "Calentador ",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "435c355230fc0f91ac6ba7afbc45b685"
+        ],
+        "configuration_url": "http://192.168.10.24",
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6a:99:d2"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHDW-2)",
+        "id": "fbfd5dd1c278aea11c6ffbb15be86ae3",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly Door/Window 2",
+        "name_by_user": null,
+        "name": "shelly-door",
+        "serial_number": null,
+        "sw_version": "",
+        "via_device_id": null
       }
     ],
     "deleted_devices": [
@@ -47,34 +147,6 @@
       },
       {
         "config_entries": [
-          "e37c2bb82aa7d9d1e9fc899feed89e67"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:d4:c1:ac"
-          ]
-        ],
-        "identifiers": [],
-        "id": "472c62c8009f88a79df019318e0810de",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "4b1e4d3724a0929eef85c6fdc50627ce"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:d5:0a:7b"
-          ]
-        ],
-        "identifiers": [],
-        "id": "f9d68bca51bb25819e466676ef05016d",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "4cbed22cf03b37e736614666b267a1b3"
         ],
         "connections": [
@@ -85,20 +157,6 @@
         ],
         "identifiers": [],
         "id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "7f0390fe5ed411225d1e00af1e899090"
-        ],
-        "connections": [
-          [
-            "mac",
-            "c4:5b:be:6a:99:d2"
-          ]
-        ],
-        "identifiers": [],
-        "id": "fbfd5dd1c278aea11c6ffbb15be86ae3",
         "orphaned_timestamp": null
       },
       {
@@ -141,20 +199,6 @@
           ]
         ],
         "id": "e26949a2e07a60bd12e14ab77d13a363",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "260dfd11e228ebd05f1b869cd35530cc"
-        ],
-        "connections": [
-          [
-            "mac",
-            "34:94:54:6a:10:4c"
-          ]
-        ],
-        "identifiers": [],
-        "id": "42cb50c3b6725acb2b6e1e611ff094b0",
         "orphaned_timestamp": null
       }
     ]
