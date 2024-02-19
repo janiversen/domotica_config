@@ -150,6 +150,22 @@
         "source": "user",
         "unique_id": "36.94941163721342--3.5566520690917973",
         "disabled_by": null
+      },
+      {
+        "entry_id": "2043acaebc0325c17608239c8657267a",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "ecowitt",
+        "title": "Ecowitt",
+        "data": {
+          "webhook_id": "7912987b86134383687bd3b19850dd94"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
       }
     ]
   }

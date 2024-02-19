@@ -178,9 +178,33 @@
         "serial_number": null,
         "sw_version": "",
         "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "2043acaebc0325c17608239c8657267a"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "caefc01de2902e749923315a18297717",
+        "identifiers": [
+          [
+            "ecowitt",
+            "29F36210F09426378CC962EA57FE03A8"
+          ]
+        ],
+        "manufacturer": null,
+        "model": "WH2650A",
+        "name_by_user": null,
+        "name": "WH2650A",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
       }
     ],
-    "deleted_devices": [
-    ]
+    "deleted_devices": []
   }
 }
