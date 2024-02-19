@@ -138,3 +138,17 @@ shelly_casita_door:
   icon:
   picture:
   track: true
+
+9e_b5_a2_fc_de_72:
+  name: 9e_b5_a2_fc_de_72
+  mac: 9E:B5:A2:FC:DE:72
+  icon:
+  picture:
+  track: false
+
+d6_d9_fc_ef_7a_d4:
+  name: d6_d9_fc_ef_7a_d4
+  mac: D6:D9:FC:EF:7A:D4
+  icon:
+  picture:
+  track: false
