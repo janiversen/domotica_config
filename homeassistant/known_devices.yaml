@@ -75,3 +75,66 @@ dc_97_58_30_2c_dd:
   icon:
   picture:
   track: false
+
+fc_d2_b6_ad_d3_12:
+  name: fc_d2_b6_ad_d3_12
+  mac: FC:D2:B6:AD:D3:12
+  icon:
+  picture:
+  track: true
+
+wifi_extender:
+  name: wifi_extender
+  mac: 6C:5A:B0:B6:8F:E8
+  icon:
+  picture:
+  track: true
+
+shelly_flood:
+  name: shelly-flood
+  mac: EC:FA:BC:C8:B7:69
+  icon:
+  picture:
+  track: true
+
+shelly_outdoor:
+  name: shelly-outdoor
+  mac: 34:94:54:6A:10:4C
+  icon:
+  picture:
+  track: true
+
+shelly_calentador:
+  name: shelly-calentador
+  mac: E8:DB:84:D4:C1:AC
+  icon:
+  picture:
+  track: true
+
+shelly_lamp:
+  name: shelly-lamp
+  mac: E8:DB:84:D5:0A:7B
+  icon:
+  picture:
+  track: true
+
+aa_ff_e0_4a_bf_67:
+  name: aa_ff_e0_4a_bf_67
+  mac: AA:FF:E0:4A:BF:67
+  icon:
+  picture:
+  track: true
+
+shelly_door:
+  name: shelly-door
+  mac: C4:5B:BE:6A:99:D2
+  icon:
+  picture:
+  track: true
+
+shelly_casita_door:
+  name: shelly-casita-door
+  mac: 10:52:1C:07:62:57
+  icon:
+  picture:
+  track: true

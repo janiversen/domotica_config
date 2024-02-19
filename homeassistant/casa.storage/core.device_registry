@@ -128,79 +128,59 @@
         "serial_number": null,
         "sw_version": "",
         "via_device_id": null
-      }
-    ],
-    "deleted_devices": [
-      {
-        "config_entries": [
-          "2653660aaac53ac092e44d571747fd55"
-        ],
-        "connections": [],
-        "identifiers": [
-          [
-            "sun",
-            "2653660aaac53ac092e44d571747fd55"
-          ]
-        ],
-        "id": "39eb9980628046f58eebe59d78df18d5",
-        "orphaned_timestamp": null
       },
       {
+        "area_id": "garden",
         "config_entries": [
-          "4cbed22cf03b37e736614666b267a1b3"
+          "6497cac4ccbdcc13c6731b4c64aeb3bc"
         ],
+        "configuration_url": "http://192.168.10.25",
         "connections": [
           [
             "mac",
             "ec:fa:bc:c8:b7:69"
           ]
         ],
-        "identifiers": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHWT-1)",
         "id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
-        "orphaned_timestamp": null
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly Flood",
+        "name_by_user": null,
+        "name": "Shelly-flood",
+        "serial_number": null,
+        "sw_version": "",
+        "via_device_id": null
       },
       {
+        "area_id": "sheed",
         "config_entries": [
-          "16be647e84007f32fd313036a99e67d5"
+          "27c180e548447ffbae5bf0e183eb7d2f"
         ],
+        "configuration_url": "http://192.168.10.13",
         "connections": [
           [
             "mac",
             "10:52:1c:07:62:57"
           ]
         ],
-        "identifiers": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHDW-2)",
         "id": "eb2187a592309eff614b9c374cc1bc77",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "74e298dc20f4a898b244fc62467d7e6d"
-        ],
-        "connections": [],
-        "identifiers": [
-          [
-            "ecowitt",
-            "29F36210F09426378CC962EA57FE03A8"
-          ]
-        ],
-        "id": "57f8083a15e53edd3d10f218824a3af8",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "5f5c611cd2b775389c67f7130d697930"
-        ],
-        "connections": [],
-        "identifiers": [
-          [
-            "mobile_app",
-            "7719C43E-E09F-4531-9FA5-0F33706DFA45"
-          ]
-        ],
-        "id": "e26949a2e07a60bd12e14ab77d13a363",
-        "orphaned_timestamp": null
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly Door/Window 2",
+        "name_by_user": null,
+        "name": "shelly-door-casita",
+        "serial_number": null,
+        "sw_version": "",
+        "via_device_id": null
       }
+    ],
+    "deleted_devices": [
     ]
   }
 }

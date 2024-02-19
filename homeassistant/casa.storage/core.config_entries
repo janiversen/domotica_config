@@ -93,6 +93,63 @@
         "source": "zeroconf",
         "unique_id": "C45BBE6A99D2",
         "disabled_by": null
+      },
+      {
+        "entry_id": "6497cac4ccbdcc13c6731b4c64aeb3bc",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Shelly-flood",
+        "data": {
+          "host": "192.168.10.25",
+          "sleep_period": 43200,
+          "model": "SHWT-1",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "ECFABCC8B769",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "27c180e548447ffbae5bf0e183eb7d2f",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "shelly-door-casita",
+        "data": {
+          "host": "192.168.10.13",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "10521C076257",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "946b5e96cc98b556f1459945d96ce20d",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "aemet",
+        "title": "AEMET",
+        "data": {
+          "api_key": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYW5jYXNhY29uZG9yQGdtYWlsLmNvbSIsImp0aSI6IjVjNzJjM2Q1LTlkY2YtNDFkNy1hOWEwLTM4ZTA3NjhiMTA4ZSIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNzA4MzM3MDU0LCJ1c2VySWQiOiI1YzcyYzNkNS05ZGNmLTQxZDctYTlhMC0zOGUwNzY4YjEwOGUiLCJyb2xlIjoiIn0.etOnS30-77nu9JyKxbtTOiPUIKh0Crf_f5uCL7k6F_I",
+          "name": "AEMET",
+          "latitude": 36.94941163721342,
+          "longitude": -3.5566520690917973
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "36.94941163721342--3.5566520690917973",
+        "disabled_by": null
       }
     ]
   }

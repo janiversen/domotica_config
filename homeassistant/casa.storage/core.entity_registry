@@ -112,7 +112,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -140,7 +140,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -166,7 +166,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -194,7 +194,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -220,7 +220,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -248,7 +248,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -274,7 +274,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -300,7 +300,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -326,7 +326,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -354,7 +354,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -382,7 +382,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -410,7 +410,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -436,7 +436,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -462,7 +462,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -488,7 +488,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -516,7 +516,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -544,7 +544,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -572,7 +572,7 @@
         "capabilities": {
           "state_class": "measurement"
         },
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -598,7 +598,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -650,7 +650,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -676,7 +676,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -702,7 +702,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -728,7 +728,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -754,7 +754,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -780,7 +780,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -806,7 +806,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -832,7 +832,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -858,7 +858,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -884,7 +884,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -936,7 +936,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -962,7 +962,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -988,7 +988,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -1014,7 +1014,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": null,
@@ -1040,7 +1040,7 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "71ebd1f8f6afef25f57fadfca70549a1",
+        "config_entry_id": "946b5e96cc98b556f1459945d96ce20d",
         "device_class": null,
         "device_id": null,
         "disabled_by": "integration",
@@ -1731,8 +1731,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "e671d6aa004b26dbed6da4d27a9a2686",
@@ -1762,8 +1762,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "e671d6aa004b26dbed6da4d27a9a2686",
@@ -1897,8 +1897,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "2c38d29eed2a59f23ac1b50336d0b750",
@@ -2138,8 +2138,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "f290aa93401e7056c3137cfe9e5bd674",
@@ -2409,353 +2409,208 @@
         "unique_id": "C45BBE6A99D2-device-battery",
         "previous_unique_id": null,
         "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "6497cac4ccbdcc13c6731b4c64aeb3bc",
+        "device_class": null,
+        "device_id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "binary_sensor.shelly_flood_flood",
+        "hidden_by": null,
+        "icon": null,
+        "id": "ba6c46a57cd7bc8f2a43015b13ac5f4b",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "moisture",
+        "original_icon": null,
+        "original_name": "Shelly-flood flood",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "ECFABCC8B769-sensor_0-flood",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "6497cac4ccbdcc13c6731b4c64aeb3bc",
+        "device_class": null,
+        "device_id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.shelly_flood_temperature",
+        "hidden_by": null,
+        "icon": null,
+        "id": "0eb0d6a74561bdc8400a7ab13eb8aee8",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "sensor": {
+            "suggested_display_precision": 1
+          }
+        },
+        "original_device_class": "temperature",
+        "original_icon": null,
+        "original_name": "Shelly-flood temperature",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "ECFABCC8B769-sensor_0-extTemp",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "6497cac4ccbdcc13c6731b4c64aeb3bc",
+        "device_class": null,
+        "device_id": "d6b7a92a1c3471c0fbc2bd38bfe709f5",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.shelly_flood_battery",
+        "hidden_by": null,
+        "icon": null,
+        "id": "85b4e9fa32da2abd5a9f885640b70672",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "battery",
+        "original_icon": null,
+        "original_name": "Shelly-flood battery",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "ECFABCC8B769-device-battery",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "27c180e548447ffbae5bf0e183eb7d2f",
+        "device_class": null,
+        "device_id": "eb2187a592309eff614b9c374cc1bc77",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "binary_sensor.shelly_door_casita_door",
+        "hidden_by": null,
+        "icon": null,
+        "id": "1543e021bfdc64f47864109390f05dcd",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "opening",
+        "original_icon": null,
+        "original_name": "shelly-door-casita door",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "10521C076257-sensor_0-dwIsOpened",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "27c180e548447ffbae5bf0e183eb7d2f",
+        "device_class": null,
+        "device_id": "eb2187a592309eff614b9c374cc1bc77",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.shelly_door_casita_luminosity",
+        "hidden_by": null,
+        "icon": null,
+        "id": "332171178461cbd57d3248ce14596e59",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "illuminance",
+        "original_icon": null,
+        "original_name": "shelly-door-casita luminosity",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "10521C076257-sensor_0-luminosity",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "27c180e548447ffbae5bf0e183eb7d2f",
+        "device_class": null,
+        "device_id": "eb2187a592309eff614b9c374cc1bc77",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.shelly_door_casita_temperature",
+        "hidden_by": null,
+        "icon": null,
+        "id": "42850d96487e46ee4d91ec96ac7f8b38",
+        "has_entity_name": false,
+        "name": null,
+        "options": {
+          "sensor": {
+            "suggested_display_precision": 1
+          }
+        },
+        "original_device_class": "temperature",
+        "original_icon": null,
+        "original_name": "shelly-door-casita temperature",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "10521C076257-sensor_0-extTemp",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": {
+          "state_class": "measurement"
+        },
+        "config_entry_id": "27c180e548447ffbae5bf0e183eb7d2f",
+        "device_class": null,
+        "device_id": "eb2187a592309eff614b9c374cc1bc77",
+        "disabled_by": null,
+        "entity_category": "diagnostic",
+        "entity_id": "sensor.shelly_door_casita_battery",
+        "hidden_by": null,
+        "icon": null,
+        "id": "a903b716d6268ebaf3693cc92c9eb0e5",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "battery",
+        "original_icon": null,
+        "original_name": "shelly-door-casita battery",
+        "platform": "shelly",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "10521C076257-device-battery",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
       }
     ],
-    "deleted_entities": [
-      {
-        "config_entry_id": "4cbed22cf03b37e736614666b267a1b3",
-        "entity_id": "binary_sensor.shelly_flood_flood",
-        "id": "ba6c46a57cd7bc8f2a43015b13ac5f4b",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "ECFABCC8B769-sensor_0-flood"
-      },
-      {
-        "config_entry_id": "4cbed22cf03b37e736614666b267a1b3",
-        "entity_id": "sensor.shelly_flood_temperature",
-        "id": "0eb0d6a74561bdc8400a7ab13eb8aee8",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "ECFABCC8B769-sensor_0-extTemp"
-      },
-      {
-        "config_entry_id": "4cbed22cf03b37e736614666b267a1b3",
-        "entity_id": "sensor.shelly_flood_battery",
-        "id": "85b4e9fa32da2abd5a9f885640b70672",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "ECFABCC8B769-device-battery"
-      },
-      {
-        "config_entry_id": "16be647e84007f32fd313036a99e67d5",
-        "entity_id": "binary_sensor.shelly_door_casita_door",
-        "id": "7440205f49eb62c0fb7d9294341ce658",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "10521C076257-sensor_0-dwIsOpened"
-      },
-      {
-        "config_entry_id": "16be647e84007f32fd313036a99e67d5",
-        "entity_id": "sensor.shelly_door_casita_luminosity",
-        "id": "f4b2ea4505fba130bc04ac884d057c84",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "10521C076257-sensor_0-luminosity"
-      },
-      {
-        "config_entry_id": "16be647e84007f32fd313036a99e67d5",
-        "entity_id": "sensor.shelly_door_casita_temperature",
-        "id": "a20aeea7e653050e2247503d79b08661",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "10521C076257-sensor_0-extTemp"
-      },
-      {
-        "config_entry_id": "16be647e84007f32fd313036a99e67d5",
-        "entity_id": "sensor.shelly_door_casita_battery",
-        "id": "75912725d0fec31449ed666f4bb4fb9e",
-        "orphaned_timestamp": null,
-        "platform": "shelly",
-        "unique_id": "10521C076257-device-battery"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_indoor_humidity",
-        "id": "411e73b5427a6dd13ccb0873cb72ac1c",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-humidityin"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_humidity",
-        "id": "8e04f99afa9c270d397c413da239993d",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-humidity"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_wind_direction",
-        "id": "19f61eb248ba4ac542b5317bbdd47b18",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-winddir"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_solar_radiation",
-        "id": "72b6de80fd43a1638a80f7e533d5a565",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-solarradiation"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_uv_index",
-        "id": "39fed4a33164dc216493754a05a1bb71",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-uv"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "binary_sensor.wh2650a_wh65_battery",
-        "id": "64d603b6fd16ca6b7408624d6d6bed9a",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-wh65batt"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "binary_sensor.wh2650a_wh25_battery",
-        "id": "1472d71c201ff6b704a8fc29de8e8449",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-wh25batt"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_solar_lux",
-        "id": "643be027e15fc067b9f3637d6232ac78",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-solarradiation_lux"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_outdoor_temperature",
-        "id": "9fbe30edc552b6381012d9803599ce73",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-tempc"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_indoor_temperature",
-        "id": "4c10a8f36a47b67705b0374110960cb5",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-tempinc"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_wind_speed",
-        "id": "153bc596f07d3ab0b68f550c63c93d77",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-windspeedkmh"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_wind_gust",
-        "id": "86bf74071d9a806f11aa7127dc46aae8",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-windgustkmh"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_max_daily_gust",
-        "id": "5d99012e0c56899c7777bdbdc79e87ec",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-maxdailygustkmh"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_rain_rate",
-        "id": "62dfe701a0aaa74ca71c0c333b75ef44",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-rainratemm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_event_rain_rate",
-        "id": "e5f8f55e7c6f110d5537b8c91e7ec516",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-eventrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_hourly_rain_rate",
-        "id": "994ae96336219f6b261ff1152cad65e3",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-hourlyrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_daily_rain_rate",
-        "id": "83c6549bb86004f82f8070252947010c",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-dailyrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_weekly_rain_rate",
-        "id": "413586be22f746ddf2fb2af97fc5ff5b",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-weeklyrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_monthly_rain_rate",
-        "id": "2c2f432430f06f8bb438ec35732611dd",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-monthlyrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_yearly_rain_rate",
-        "id": "a2521458613e13b73a0dd1d2a6749f9d",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-yearlyrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_total_rain",
-        "id": "09c6de11be912238ad78b71bebf291e5",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-totalrainmm"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_relative_pressure",
-        "id": "365d57216bf4d6212241fc9a65d3bfac",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-baromrelhpa"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_absolute_pressure",
-        "id": "770ded03395bb176fdd8cd6f5a187457",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-baromabshpa"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_windchill",
-        "id": "5b3659b6e10fc535f95c2e58e6b71cc9",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-windchillc"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_dewpoint",
-        "id": "019cb838f714708baf7dd8fe54b7e110",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-dewpointc"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_indoor_dewpoint",
-        "id": "936884f7f8a90bb3c0a0b4c2067bb204",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-dewpointinc"
-      },
-      {
-        "config_entry_id": "99009e862c3baa99855de34d5d9da3b2",
-        "entity_id": "sensor.wh2650a_feels_like_temperature",
-        "id": "32bccf6fc3c93304b3f50ee3b846bcbe",
-        "orphaned_timestamp": null,
-        "platform": "ecowitt",
-        "unique_id": "29F36210F09426378CC962EA57FE03A8-tempfeelsc"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "device_tracker.jan_ipad",
-        "id": "d925f1f36a1d74aae54ef3371bc92f9c",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_battery_level",
-        "id": "6b47b02337344d108ea09ea1cf5cb118",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_battery_level"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_battery_state",
-        "id": "60e0b127630936a2df7e5360b945ae11",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_battery_state"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_storage",
-        "id": "f74cc4f660adb90f0b5cf91d1803c50d",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_storage"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_ssid",
-        "id": "e9f808598eca077b7029c0763a31a977",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_connectivity_ssid"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_bssid",
-        "id": "5cd127870971451517d82b4444977a70",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_connectivity_bssid"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_connection_type",
-        "id": "7baf1d13fa3011c88e76895a13c5b142",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_connectivity_connection_type"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_geocoded_location",
-        "id": "ddd59f9ac2caf83c6330e7f5ccac449d",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_geocoded_location"
-      },
-      {
-        "config_entry_id": "5f5c611cd2b775389c67f7130d697930",
-        "entity_id": "sensor.jan_ipad_last_update_trigger",
-        "id": "8ec194f6e08606a92ee65f02384cefbf",
-        "orphaned_timestamp": null,
-        "platform": "mobile_app",
-        "unique_id": "d79f08c261bce59e63a63ddadaa1a295c40877f6163b5c26eecef198b9a11d3c_last_update_trigger"
-      }
-    ]
+    "deleted_entities": []
   }
 }

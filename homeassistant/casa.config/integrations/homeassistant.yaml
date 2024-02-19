@@ -1,0 +1,2 @@
+homeassistant:
+  internal_url: http://192.168.10.14:8123/
