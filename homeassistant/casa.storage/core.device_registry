@@ -203,6 +203,61 @@
         "serial_number": null,
         "sw_version": null,
         "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "8ed9a79b0bdd9c99cc28da5e0873858e"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "a042d08ec733a3648de177cbc40a5c44",
+        "identifiers": [
+          [
+            "mobile_app",
+            "7719C43E-E09F-4531-9FA5-0F33706DFA45"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPad13,1",
+        "name_by_user": null,
+        "name": "Jan iPad",
+        "serial_number": null,
+        "sw_version": "17.2",
+        "via_device_id": null
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "aeebcb7d19d0764a1cb9af2cd8b8fb2c"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "e8:4f:25:28:70:c1"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "d2bb0b54405eaa33d7237b058768a4fc",
+        "identifiers": [
+          [
+            "melcloud",
+            "e8:4f:25:28:70:c1-2104064274"
+          ]
+        ],
+        "manufacturer": "Mitsubishi Electric",
+        "model": null,
+        "name_by_user": null,
+        "name": "air on",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
       }
     ],
     "deleted_devices": []

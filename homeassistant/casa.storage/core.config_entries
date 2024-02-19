@@ -166,6 +166,98 @@
         "source": "user",
         "unique_id": null,
         "disabled_by": null
+      },
+      {
+        "entry_id": "8ed9a79b0bdd9c99cc28da5e0873858e",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPad",
+        "data": {
+          "supports_encryption": true,
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7"
+          },
+          "app_version": "2024.1 (2024.535)",
+          "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
+          "app_name": "Home Assistant",
+          "manufacturer": "Apple",
+          "app_id": "io.robbie.HomeAssistant",
+          "model": "iPad13,1",
+          "os_name": "iPadOS",
+          "os_version": "17.2",
+          "device_name": "Jan iPad",
+          "webhook_id": "3798099cf915afdd0b63e3e0ab047fb8888d2a895150164d2c37e901f404c443",
+          "secret": "72d7a15edcfc94ec1b8c7a928da01ccdbef4739896c8602b218f20aee80b60cd",
+          "user_id": "c11fa2f7653c435eb08e07e3f952c573",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-7719C43E-E09F-4531-9FA5-0F33706DFA45",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c11a1105f53b76533cbd00f2fe4311e7",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "cast",
+        "title": "cast",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "cast",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a1990ffae8ca34d859e5ce1ad4b73ef4",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "apple_tv",
+        "title": "XREAL BEAM 1DD",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "FC:D2:B6:AD:D3:12",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "daeb067419f2403a710d7ee25410cc8a",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "bluetooth",
+        "title": "hci0 (DC:A6:32:E7:E2:C0)",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "DC:A6:32:E7:E2:C0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "aeebcb7d19d0764a1cb9af2cd8b8fb2c",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "melcloud",
+        "title": "jancasacondor@gmail.com",
+        "data": {
+          "username": "jancasacondor@gmail.com",
+          "token": "0-14B0821BC9654401BF9C9AAEE5CBAB-586336-1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "jancasacondor@gmail.com",
+        "disabled_by": null
       }
     ]
   }

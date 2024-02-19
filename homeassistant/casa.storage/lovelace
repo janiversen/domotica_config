@@ -347,6 +347,37 @@
                 "sensor.casa_luz_2_power"
               ],
               "title": "shelly-outdoor"
+            },
+            {
+              "type": "thermostat",
+              "entity": "climate.air_on",
+              "features": [
+                {
+                  "type": "climate-hvac-modes",
+                  "hvac_modes": [
+                    "off",
+                    "heat",
+                    "dry",
+                    "cool",
+                    "fan_only",
+                    "heat_cool"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.air_on_none",
+                  "name": "None"
+                },
+                {
+                  "entity": "sensor.air_on_none_2",
+                  "name": "None"
+                }
+              ],
+              "title": "air on"
             }
           ]
         }

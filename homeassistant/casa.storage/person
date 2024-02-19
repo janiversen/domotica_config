@@ -9,7 +9,8 @@
         "name": "jan",
         "user_id": "c11fa2f7653c435eb08e07e3f952c573",
         "device_trackers": [
-          "device_tracker.jan_ipad"
+          "device_tracker.jan_ipad",
+          "device_tracker.jan_ipad_2"
         ],
         "picture": "/api/image/serve/d7db522128d6b8b0f29aded79c465785/512x512"
       },
