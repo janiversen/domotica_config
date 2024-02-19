@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace_dashboards",
+  "data": {
+    "items": [
+      {
+        "id": "dashboard_technical",
+        "show_in_sidebar": true,
+        "icon": "mdi:toolbox",
+        "title": "Technical",
+        "require_admin": false,
+        "mode": "storage",
+        "url_path": "dashboard-technical"
+      }
+    ]
+  }
+}
