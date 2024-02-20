@@ -378,6 +378,24 @@
                 }
               ],
               "title": "air on"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "device_tracker.shelly_flood"
+                },
+                {
+                  "entity": "sensor.shelly_flood_battery"
+                },
+                {
+                  "entity": "binary_sensor.shelly_flood_flood"
+                },
+                {
+                  "entity": "sensor.shelly_flood_temperature"
+                }
+              ],
+              "title": "Shelly flood (deposit)"
             }
           ]
         }
