@@ -13,65 +13,48 @@
             {
               "type": "entities",
               "entities": [
-                "sensor.shelly_flood_battery",
-                "binary_sensor.shelly_flood_flood",
-                "sensor.shelly_flood_temperature"
-              ],
-              "title": "Campo"
-            },
-            {
-              "type": "entities",
-              "entities": [
+                {
+                  "entity": "binary_sensor.shelly_flood_flood"
+                },
                 {
                   "entity": "switch.calentador"
                 },
                 {
                   "entity": "switch.vamos_a_estar"
+                },
+                {
+                  "entity": "switch.shelly_floor_lamp"
+                },
+                {
+                  "entity": "person.jan"
+                },
+                {
+                  "entity": "person.belen"
+                },
+                {
+                  "entity": "switch.casa_luz_1"
+                },
+                {
+                  "entity": "switch.casa_luz_2"
+                },
+                {
+                  "entity": "binary_sensor.shelly_door_door"
+                },
+                {
+                  "entity": "device_tracker.jan_ipad"
+                },
+                {
+                  "entity": "device_tracker.macmini"
+                },
+                {
+                  "entity": "binary_sensor.shelly_door_casita_door"
                 }
               ],
-              "title": "Cocina",
-              "show_header_toggle": false
+              "title": "Datos simple"
             },
             {
               "type": "entities",
               "entities": [
-                "switch.shelly_floor_lamp",
-                "sensor.shelly_door_battery",
-                "binary_sensor.shelly_door_door",
-                "sensor.shelly_door_luminosity",
-                "sensor.shelly_door_temperature"
-              ],
-              "title": "Salon"
-            },
-            {
-              "type": "grid",
-              "square": true,
-              "columns": 3,
-              "cards": [
-                {
-                  "show_state": true,
-                  "show_name": false,
-                  "camera_view": "auto",
-                  "type": "picture-entity",
-                  "entity": "person.jan",
-                  "aspect_ratio": "1",
-                  "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' width='50' height='50' style='background-color:%23b3e5fc'%3E%3Cg%3E%3Ctext font-family='roboto' x='50%25' y='50%25' text-anchor='middle' stroke='%23212121' font-size='1.3em' dy='.3em'%3Ej%3C/text%3E%3C/g%3E%3C/svg%3E"
-                },
-                {
-                  "type": "picture-entity",
-                  "entity": "person.belen",
-                  "aspect_ratio": "1",
-                  "show_name": false,
-                  "image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' width='50' height='50' style='background-color:%23b3e5fc'%3E%3Cg%3E%3Ctext font-family='roboto' x='50%25' y='50%25' text-anchor='middle' stroke='%23212121' font-size='1.3em' dy='.3em'%3Eb%3C/text%3E%3C/g%3E%3C/svg%3E"
-                }
-              ]
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.aemet_condition"
-                },
                 {
                   "entity": "sensor.aemet_daily_forecast_condition"
                 },
@@ -86,105 +69,6 @@
                 },
                 {
                   "entity": "sensor.aemet_daily_forecast_temperature_low"
-                },
-                {
-                  "entity": "sensor.aemet_daily_forecast_time"
-                },
-                {
-                  "entity": "sensor.aemet_daily_forecast_wind_bearing"
-                },
-                {
-                  "entity": "sensor.aemet_daily_forecast_wind_speed"
-                },
-                {
-                  "entity": "sensor.aemet_humidity"
-                },
-                {
-                  "entity": "sensor.aemet_rain"
-                },
-                {
-                  "entity": "sensor.aemet_rain_probability"
-                },
-                {
-                  "entity": "sensor.aemet_snow"
-                },
-                {
-                  "entity": "sensor.aemet_snow_probability"
-                },
-                {
-                  "entity": "sensor.aemet_station_id"
-                },
-                {
-                  "entity": "sensor.aemet_station_name"
-                },
-                {
-                  "entity": "sensor.aemet_station_timestamp"
-                },
-                {
-                  "entity": "sensor.aemet_storm_probability"
-                },
-                {
-                  "entity": "sensor.aemet_temperature"
-                },
-                {
-                  "entity": "sensor.aemet_temperature_feeling"
-                },
-                {
-                  "entity": "sensor.aemet_town_id"
-                },
-                {
-                  "entity": "sensor.aemet_town_name"
-                },
-                {
-                  "entity": "sensor.aemet_town_timestamp"
-                },
-                {
-                  "entity": "sensor.aemet_wind_bearing"
-                },
-                {
-                  "entity": "sensor.aemet_wind_max_speed"
-                },
-                {
-                  "entity": "sensor.aemet_wind_speed"
-                },
-                {
-                  "entity": "sensor.alert_1"
-                },
-                {
-                  "entity": "sensor.alert_2"
-                },
-                {
-                  "entity": "sensor.alert_3"
-                },
-                {
-                  "entity": "sensor.casa_consumo"
-                },
-                {
-                  "entity": "sensor.daily_energy_yield"
-                },
-                {
-                  "entity": "sensor.peak_production"
-                },
-                {
-                  "entity": "sensor.power_meter"
-                },
-                {
-                  "entity": "sensor.production"
-                },
-                {
-                  "entity": "sensor.pv1_current"
-                },
-                {
-                  "entity": "sensor.pv1_voltage"
-                },
-                {
-                  "entity": "sensor.pv2_current"
-                },
-                {
-                  "entity": "sensor.pv2_voltage"
-                },
-                {
-                  "entity": "sensor.solar_power"
                 }
               ],
               "title": "Sensor"
@@ -198,57 +82,15 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "sensor.shelly_door_casita_battery",
-                  "name": "Battery"
-                },
-                {
-                  "entity": "binary_sensor.shelly_door_casita_door",
-                  "name": "Door"
-                },
-                {
-                  "entity": "sensor.shelly_door_casita_luminosity",
-                  "name": "Luminosity"
-                },
-                {
-                  "entity": "sensor.shelly_door_casita_temperature",
-                  "name": "Temperature"
-                }
-              ],
-              "title": "shelly-door-casita"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.wh2650a_absolute_pressure",
-                  "name": "Absolute Pressure"
-                },
-                {
                   "entity": "sensor.wh2650a_daily_rain_rate",
                   "name": "Daily Rain Rate"
-                },
-                {
-                  "entity": "sensor.wh2650a_dewpoint",
-                  "name": "Dewpoint"
-                },
-                {
-                  "entity": "sensor.wh2650a_event_rain_rate",
-                  "name": "Event Rain Rate"
                 },
                 {
                   "entity": "sensor.wh2650a_feels_like_temperature",
                   "name": "Feels like Temperature"
                 },
                 {
-                  "entity": "sensor.wh2650a_hourly_rain_rate",
-                  "name": "Hourly Rain Rate"
-                },
-                {
                   "entity": "sensor.wh2650a_humidity",
-                  "name": "Humidity"
-                },
-                {
-                  "entity": "sensor.wh2650a_indoor_dewpoint",
                   "name": "Indoor Dewpoint"
                 },
                 {
@@ -258,10 +100,6 @@
                 {
                   "entity": "sensor.wh2650a_indoor_temperature",
                   "name": "Indoor Temperature"
-                },
-                {
-                  "entity": "sensor.wh2650a_max_daily_gust",
-                  "name": "Max Daily Gust"
                 },
                 {
                   "entity": "sensor.wh2650a_monthly_rain_rate",
@@ -276,18 +114,6 @@
                   "name": "Rain Rate"
                 },
                 {
-                  "entity": "sensor.wh2650a_relative_pressure",
-                  "name": "Relative Pressure"
-                },
-                {
-                  "entity": "sensor.wh2650a_solar_lux",
-                  "name": "Solar Lux"
-                },
-                {
-                  "entity": "sensor.wh2650a_solar_radiation",
-                  "name": "Solar Radiation"
-                },
-                {
                   "entity": "sensor.wh2650a_total_rain",
                   "name": "Total Rain"
                 },
@@ -296,57 +122,15 @@
                   "name": "UV Index"
                 },
                 {
-                  "entity": "sensor.wh2650a_weekly_rain_rate",
-                  "name": "Weekly Rain Rate"
-                },
-                {
-                  "entity": "binary_sensor.wh2650a_wh25_battery",
-                  "name": "WH25 Battery"
-                },
-                {
-                  "entity": "binary_sensor.wh2650a_wh65_battery",
-                  "name": "WH65 Battery"
-                },
-                {
-                  "entity": "sensor.wh2650a_wind_direction",
-                  "name": "Wind Direction"
-                },
-                {
                   "entity": "sensor.wh2650a_wind_gust",
                   "name": "Wind Gust"
                 },
                 {
                   "entity": "sensor.wh2650a_wind_speed",
                   "name": "Wind Speed"
-                },
-                {
-                  "entity": "sensor.wh2650a_windchill",
-                  "name": "Windchill"
-                },
-                {
-                  "entity": "sensor.wh2650a_yearly_rain_rate",
-                  "name": "Yearly Rain Rate"
                 }
               ],
               "title": "WH2650A"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "switch.casa_luz_1",
-                "switch.casa_luz_2"
-              ],
-              "title": "shelly-outdoor"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.casa_luz_1_energy",
-                "sensor.casa_luz_1_power",
-                "sensor.casa_luz_2_energy",
-                "sensor.casa_luz_2_power"
-              ],
-              "title": "shelly-outdoor"
             },
             {
               "type": "thermostat",
@@ -369,33 +153,25 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "sensor.air_on_none",
-                  "name": "None"
+                  "entity": "sensor.casa_consumo"
                 },
                 {
-                  "entity": "sensor.air_on_none_2",
-                  "name": "None"
+                  "entity": "sensor.daily_energy_yield"
+                },
+                {
+                  "entity": "sensor.peak_production"
+                },
+                {
+                  "entity": "sensor.power_meter"
+                },
+                {
+                  "entity": "sensor.production"
+                },
+                {
+                  "entity": "sensor.solar_power"
                 }
               ],
-              "title": "air on"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "device_tracker.shelly_flood"
-                },
-                {
-                  "entity": "sensor.shelly_flood_battery"
-                },
-                {
-                  "entity": "binary_sensor.shelly_flood_flood"
-                },
-                {
-                  "entity": "sensor.shelly_flood_temperature"
-                }
-              ],
-              "title": "Shelly flood (deposit)"
+              "title": "solar"
             }
           ]
         }
