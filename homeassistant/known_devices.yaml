@@ -152,3 +152,31 @@ d6_d9_fc_ef_7a_d4:
   icon:
   picture:
   track: false
+
+belen_iphone:
+  name: Belen-iPhone
+  mac: 76:39:0E:76:55:61
+  icon:
+  picture:
+  track: true
+
+belen_ipad:
+  name: Belen-iPad
+  mac: FE:B3:8D:23:4E:13
+  icon:
+  picture:
+  track: true
+
+casa_television:
+  name: casa_television
+  mac: 70:2A:D5:D7:56:DB
+  icon:
+  picture:
+  track: true
+
+thermomix:
+  name: thermomix
+  mac: B4:EC:02:DD:96:C0
+  icon:
+  picture:
+  track: true

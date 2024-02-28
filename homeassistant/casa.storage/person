@@ -17,7 +17,9 @@
       {
         "id": "belen",
         "name": "belen",
-        "device_trackers": [],
+        "device_trackers": [
+          "device_tracker.belen_ipad"
+        ],
         "user_id": "15eeb893b95343edbf6a46482a335f43",
         "picture": "/api/image/serve/37d1745968fd95fc0ee399a04494298a/512x512"
       }

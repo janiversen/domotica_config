@@ -176,8 +176,8 @@
         "data": {
           "supports_encryption": true,
           "app_data": {
-            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
-            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7"
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
           },
           "app_version": "2024.1 (2024.535)",
           "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
@@ -186,7 +186,7 @@
           "app_id": "io.robbie.HomeAssistant",
           "model": "iPad13,1",
           "os_name": "iPadOS",
-          "os_version": "17.2",
+          "os_version": "17.3.1",
           "device_name": "Jan iPad",
           "webhook_id": "3798099cf915afdd0b63e3e0ab047fb8888d2a895150164d2c37e901f404c443",
           "secret": "72d7a15edcfc94ec1b8c7a928da01ccdbef4739896c8602b218f20aee80b60cd",
@@ -220,7 +220,13 @@
         "minor_version": 1,
         "domain": "apple_tv",
         "title": "XREAL BEAM 1DD",
-        "data": {},
+        "data": {
+          "address": "192.168.10.42",
+          "identifiers": [
+            "FC:D2:B6:AD:D3:12",
+            "FCD2B6ADD312"
+          ]
+        },
         "options": {},
         "pref_disable_new_entities": false,
         "pref_disable_polling": false,
