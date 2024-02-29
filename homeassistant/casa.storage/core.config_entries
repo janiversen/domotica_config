@@ -179,7 +179,7 @@
             "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7",
             "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
           },
-          "app_version": "2024.1 (2024.535)",
+          "app_version": "2024.2 (2024.561)",
           "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
           "app_name": "Home Assistant",
           "manufacturer": "Apple",

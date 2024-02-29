@@ -9,8 +9,8 @@
         "name": "jan",
         "user_id": "c11fa2f7653c435eb08e07e3f952c573",
         "device_trackers": [
-          "device_tracker.jan_ipad",
-          "device_tracker.jan_ipad_2"
+          "device_tracker.jan_ipad_2",
+          "device_tracker.jan_iphone"
         ],
         "picture": "/api/image/serve/d7db522128d6b8b0f29aded79c465785/512x512"
       },
@@ -18,7 +18,8 @@
         "id": "belen",
         "name": "belen",
         "device_trackers": [
-          "device_tracker.belen_ipad"
+          "device_tracker.belen_ipad",
+          "device_tracker.belen_iphone"
         ],
         "user_id": "15eeb893b95343edbf6a46482a335f43",
         "picture": "/api/image/serve/37d1745968fd95fc0ee399a04494298a/512x512"
