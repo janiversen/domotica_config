@@ -1662,7 +1662,7 @@
         "icon": "mdi:outdoor-lamp",
         "id": "8e5b33bf3bc6142ca102df7d70150f09",
         "has_entity_name": false,
-        "name": "Pared exterior salon",
+        "name": "Derecha",
         "options": {},
         "original_device_class": null,
         "original_icon": null,
@@ -1688,7 +1688,7 @@
         "icon": "mdi:outdoor-lamp",
         "id": "19c2324cc68f722371d36691b5ab0db0",
         "has_entity_name": false,
-        "name": "Pared exterior cocina",
+        "name": "Izquierda",
         "options": {},
         "original_device_class": null,
         "original_icon": null,
@@ -1731,8 +1731,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "e671d6aa004b26dbed6da4d27a9a2686",
@@ -1762,8 +1762,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "e671d6aa004b26dbed6da4d27a9a2686",
@@ -1897,8 +1897,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "2c38d29eed2a59f23ac1b50336d0b750",
@@ -2138,8 +2138,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "f290aa93401e7056c3137cfe9e5bd674",
@@ -2229,7 +2229,7 @@
         "entity_category": null,
         "entity_id": "switch.calentador",
         "hidden_by": null,
-        "icon": null,
+        "icon": "mdi:water-boiler",
         "id": "bb83bcb5bd9a9fc3c72786339ad80a99",
         "has_entity_name": false,
         "name": null,
