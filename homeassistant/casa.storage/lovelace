@@ -43,13 +43,16 @@
                   "entity": "person.belen"
                 },
                 {
-                  "entity": "binary_sensor.shelly_door_door"
+                  "entity": "binary_sensor.shelly_door_door",
+                  "name": "Puerta principal"
                 },
                 {
-                  "entity": "binary_sensor.shelly_door_casita_door"
+                  "entity": "binary_sensor.shelly_door_casita_door",
+                  "name": "Puerta Casita"
                 },
                 {
-                  "entity": "binary_sensor.shelly_flood_flood"
+                  "entity": "binary_sensor.shelly_flood_flood",
+                  "name": "Deposito, sale Agua el suelo"
                 }
               ],
               "title": "Monitor"
@@ -65,34 +68,28 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "sensor.wh2650a_daily_rain_rate",
-                  "name": "Daily Rain Rate"
+                  "entity": "sensor.wh2650a_daily_rain_rate"
                 },
                 {
                   "entity": "sensor.wh2650a_weekly_rain_rate"
                 },
                 {
-                  "entity": "sensor.wh2650a_monthly_rain_rate",
-                  "name": "Monthly Rain Rate"
+                  "entity": "sensor.wh2650a_monthly_rain_rate"
                 },
                 {
-                  "entity": "sensor.wh2650a_indoor_temperature",
-                  "name": "Indoor Temperature"
+                  "entity": "sensor.wh2650a_indoor_temperature"
                 },
                 {
-                  "entity": "sensor.wh2650a_outdoor_temperature",
-                  "name": "Outdoor Temperature"
+                  "entity": "sensor.wh2650a_outdoor_temperature"
                 },
                 {
-                  "entity": "sensor.wh2650a_uv_index",
-                  "name": "UV Index"
+                  "entity": "sensor.wh2650a_uv_index"
                 },
                 {
-                  "entity": "sensor.wh2650a_wind_speed",
-                  "name": "Wind Speed"
+                  "entity": "sensor.wh2650a_wind_speed"
                 }
               ],
-              "title": "WH2650A"
+              "title": "Tiempo local"
             },
             {
               "type": "thermostat",
@@ -115,13 +112,16 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "sensor.production"
+                  "entity": "sensor.production",
+                  "name": "Solar paneles"
                 },
                 {
-                  "entity": "sensor.casa_consumo"
+                  "entity": "sensor.casa_consumo",
+                  "name": "Consumo"
                 },
                 {
-                  "entity": "sensor.power_meter"
+                  "entity": "sensor.power_meter",
+                  "name": "Export/Import"
                 }
               ],
               "title": "solar"

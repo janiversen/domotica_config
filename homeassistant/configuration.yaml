@@ -13,7 +13,6 @@ homeassistant:
   packages:
     common: !include_dir_merge_named common.config/integrations
     setup: !include_dir_merge_named active/integrations
-#  customize: !include_dir_merge_named common.config/customizations
 
 automation common: !include_dir_list common.config/automations
 automation setup: !include_dir_list active/automations

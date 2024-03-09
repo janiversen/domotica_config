@@ -17,6 +17,13 @@
         "content_type": "image/jpeg",
         "name": "IMG_0504.JPG",
         "uploaded_at": "2024-02-19T10:08:25.867855+00:00"
+      },
+      {
+        "id": "5cafad99f7255f807264ef36190ef47f",
+        "filesize": 1341906,
+        "content_type": "image/jpeg",
+        "name": "IMG_1001.jpeg",
+        "uploaded_at": "2024-03-09T16:32:34.087480+00:00"
       }
     ]
   }

@@ -1,9 +1,8 @@
-alias: New Automation
+alias: Flood deposit
 description: ''
 trigger:
 - type: moist
   platform: device
-  device_id: cf9d11dcb11c7eb357a01b05057f96e0
   entity_id: binary_sensor.shelly_flood_flood
   domain: binary_sensor
 condition: []

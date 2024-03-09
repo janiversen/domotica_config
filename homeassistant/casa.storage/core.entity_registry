@@ -41,10 +41,10 @@
         "entity_category": null,
         "entity_id": "switch.vamos_a_estar",
         "hidden_by": null,
-        "icon": null,
+        "icon": "mdi:car",
         "id": "e84d2f84b02ad13abe20fde6009ae398",
         "has_entity_name": false,
-        "name": null,
+        "name": "Vamos a estar",
         "options": {},
         "original_device_class": "switch",
         "original_icon": null,
@@ -1659,10 +1659,10 @@
         "entity_category": null,
         "entity_id": "switch.casa_luz_1",
         "hidden_by": null,
-        "icon": null,
+        "icon": "mdi:outdoor-lamp",
         "id": "8e5b33bf3bc6142ca102df7d70150f09",
         "has_entity_name": false,
-        "name": null,
+        "name": "Pared exterior salon",
         "options": {},
         "original_device_class": null,
         "original_icon": null,
@@ -1685,10 +1685,10 @@
         "entity_category": null,
         "entity_id": "switch.casa_luz_2",
         "hidden_by": null,
-        "icon": null,
+        "icon": "mdi:outdoor-lamp",
         "id": "19c2324cc68f722371d36691b5ab0db0",
         "has_entity_name": false,
-        "name": null,
+        "name": "Pared exterior cocina",
         "options": {},
         "original_device_class": null,
         "original_icon": null,
@@ -1731,8 +1731,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "e671d6aa004b26dbed6da4d27a9a2686",
@@ -1762,8 +1762,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "e671d6aa004b26dbed6da4d27a9a2686",
@@ -1897,8 +1897,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "2c38d29eed2a59f23ac1b50336d0b750",
@@ -1988,10 +1988,10 @@
         "entity_category": null,
         "entity_id": "switch.shelly_floor_lamp",
         "hidden_by": null,
-        "icon": null,
+        "icon": "mdi:floor-lamp",
         "id": "c0a8ce0ce808f7fc07349d78ce80a324",
         "has_entity_name": false,
-        "name": null,
+        "name": "Lampera Salon",
         "options": {},
         "original_device_class": null,
         "original_icon": null,
@@ -2138,8 +2138,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long",
-            "single"
+            "single",
+            "long"
           ]
         },
         "config_entry_id": "f290aa93401e7056c3137cfe9e5bd674",
@@ -2301,7 +2301,7 @@
         "area_id": null,
         "capabilities": null,
         "config_entry_id": "435c355230fc0f91ac6ba7afbc45b685",
-        "device_class": null,
+        "device_class": "door",
         "device_id": "fbfd5dd1c278aea11c6ffbb15be86ae3",
         "disabled_by": null,
         "entity_category": null,
@@ -2501,7 +2501,7 @@
         "area_id": null,
         "capabilities": null,
         "config_entry_id": "27c180e548447ffbae5bf0e183eb7d2f",
-        "device_class": null,
+        "device_class": "door",
         "device_id": "eb2187a592309eff614b9c374cc1bc77",
         "disabled_by": null,
         "entity_category": null,
@@ -2736,8 +2736,12 @@
         "icon": null,
         "id": "904a396eaf3c7bba5c53a775c877eb63",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "UV",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": null,
         "original_icon": null,
         "original_name": "UV Index",
@@ -2844,8 +2848,12 @@
         "icon": null,
         "id": "326e2b0ff4a2d1753d842282ec413120",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "Temperature Campo",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": "temperature",
         "original_icon": null,
         "original_name": "Outdoor Temperature",
@@ -2872,8 +2880,12 @@
         "icon": null,
         "id": "2d8dd61434624e77a1aa565140aaa078",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "Temperature Casa",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": "temperature",
         "original_icon": null,
         "original_name": "Indoor Temperature",
@@ -2900,8 +2912,12 @@
         "icon": null,
         "id": "1b7689b50b306b9cf8c05d1d375577e3",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "Viento",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": "wind_speed",
         "original_icon": null,
         "original_name": "Wind Speed",
@@ -3068,7 +3084,7 @@
         "icon": null,
         "id": "b6c7d630f96d87f019a8f55b707c98b4",
         "has_entity_name": true,
-        "name": "Lluvia Dia",
+        "name": "Lluvia diario",
         "options": {
           "sensor": {
             "display_precision": null
@@ -3100,7 +3116,7 @@
         "icon": null,
         "id": "41d3917c4c34b091a8a3d4d06c1ef295",
         "has_entity_name": true,
-        "name": "Weekly rain rate",
+        "name": "Lluvia semanal",
         "options": {
           "sensor": {
             "display_precision": null
@@ -3132,8 +3148,12 @@
         "icon": null,
         "id": "7d058ed29fcaa0c7b0a78ee69fb8a393",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "Lluvia mensual",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": "precipitation",
         "original_icon": null,
         "original_name": "Monthly Rain Rate",
