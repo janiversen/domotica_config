@@ -1,32 +1,32 @@
 modbus:
   name: sun2000
   type: tcp
-  host: modbus_server.lan
-  port: 502
+  host: solar.lan
+  port: 6607
   delay: 5
   timeout: 9
 
   sensors:
     - name: "Alert 1"
-      slave: 1
+      slave: 0
       address: 32008
       scan_interval: 60
       data_type: int16
       unit_of_measurement: bits
     - name: "Alert 2"
-      slave: 1
+      slave: 0
       address: 32009
       scan_interval: 60
       data_type: int16
       unit_of_measurement: bits
     - name: "Alert 3"
-      slave: 1
+      slave: 0
       address: 32010
       scan_interval: 60
       data_type: int16
       unit_of_measurement: bits
     - name: "PV1 voltage"
-      slave: 1
+      slave: 0
       address: 32016
       scan_interval: 10
       scale: 0.1
@@ -35,7 +35,7 @@ modbus:
       device_class: voltage
       unit_of_measurement: V
     - name: "PV1 current"
-      slave: 1
+      slave: 0
       address: 32017
       scan_interval: 10
       scale: 0.01
@@ -44,7 +44,7 @@ modbus:
       device_class: current
       unit_of_measurement: A
     - name: "PV2 voltage"
-      slave: 1
+      slave: 0
       address: 32018
       scan_interval: 10
       scale: 0.1
@@ -53,7 +53,7 @@ modbus:
       device_class: voltage
       unit_of_measurement: V
     - name: "PV2 current"
-      slave: 1
+      slave: 0
       address: 32019
       scan_interval: 10
       scale: 0.01
@@ -62,14 +62,14 @@ modbus:
       device_class: current
       unit_of_measurement: A
     - name: "Solar power"
-      slave: 1
+      slave: 0
       address: 32064
       scan_interval: 10
       data_type: int32
       device_class: power
       unit_of_measurement: W
     - name: "Peak production"
-      slave: 1
+      slave: 0
       address: 32078
       scan_interval: 60
       data_type: int32
@@ -77,7 +77,7 @@ modbus:
       device_class: power
       unit_of_measurement: W
     - name: "Production"
-      slave: 1
+      slave: 0
       address: 32080
       scan_interval: 10
       data_type: int32
@@ -85,7 +85,7 @@ modbus:
       device_class: power
       unit_of_measurement: W
     - name: "Daily energy yield"
-      slave: 1
+      slave: 0
       address: 32114
       scan_interval: 3600
       scale: 0.01
@@ -94,7 +94,7 @@ modbus:
       device_class: energy
       unit_of_measurement: kWh
     - name: "Power meter"
-      slave: 1
+      slave: 0
       address: 37113
       scan_interval: 10
       data_type: int32

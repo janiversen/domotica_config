@@ -3068,8 +3068,12 @@
         "icon": null,
         "id": "b6c7d630f96d87f019a8f55b707c98b4",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "Lluvia Dia",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": "precipitation",
         "original_icon": null,
         "original_name": "Daily Rain Rate",
@@ -3096,8 +3100,12 @@
         "icon": null,
         "id": "41d3917c4c34b091a8a3d4d06c1ef295",
         "has_entity_name": true,
-        "name": null,
-        "options": {},
+        "name": "Weekly rain rate",
+        "options": {
+          "sensor": {
+            "display_precision": null
+          }
+        },
         "original_device_class": "precipitation",
         "original_icon": null,
         "original_name": "Weekly Rain Rate",
