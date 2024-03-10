@@ -132,7 +132,7 @@
         "version": 1,
         "minor_version": 1,
         "domain": "shelly",
-        "title": "shellyswitch25-8CAAB561E73A",
+        "title": "Dormitorio_W_P",
         "data": {
           "host": "192.168.20.105",
           "sleep_period": 0,
@@ -348,6 +348,44 @@
         "pref_disable_polling": false,
         "source": "ignore",
         "unique_id": "E4:5F:01:11:29:9E",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "58a46eb2c9c3d8afc2eb3fdea7951734",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Cocina_DW",
+        "data": {
+          "host": "192.168.20.126",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "C45BBE6C3A01",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "abbe00865a318133bebcea6b5a790eee",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Cristalera_DW",
+        "data": {
+          "host": "192.168.20.128",
+          "sleep_period": 43200,
+          "model": "SHDW-2",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "C45BBE6C3AF3",
         "disabled_by": null
       }
     ]

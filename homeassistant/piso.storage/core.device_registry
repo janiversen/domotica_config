@@ -174,7 +174,7 @@
         "manufacturer": "Shelly",
         "model": "Shelly 2.5",
         "name_by_user": null,
-        "name": "shellyswitch25-8CAAB561E73A",
+        "name": "Dormitorio_W_P",
         "serial_number": null,
         "sw_version": "20230913-112234/v1.14.0-gcb84623",
         "via_device_id": null
@@ -427,6 +427,56 @@
         "name": "Salon_E_1",
         "serial_number": null,
         "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "cristalera",
+        "config_entries": [
+          "abbe00865a318133bebcea6b5a790eee"
+        ],
+        "configuration_url": "http://192.168.20.128",
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6c:3a:f3"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHDW-2)",
+        "id": "9d2ab263400b53fbf8353ee9e11df033",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly Door/Window 2",
+        "name_by_user": null,
+        "name": "Cristalera_DW",
+        "serial_number": null,
+        "sw_version": "20220209-093605/v1.11.8-g8c7bb8d",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "58a46eb2c9c3d8afc2eb3fdea7951734"
+        ],
+        "configuration_url": "http://192.168.20.126",
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6c:3a:01"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHDW-2)",
+        "id": "407663a816633ab31786f1d098d70ce8",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly Door/Window 2",
+        "name_by_user": null,
+        "name": "Cocina_DW",
+        "serial_number": null,
+        "sw_version": "20220209-093605/v1.11.8-g8c7bb8d",
         "via_device_id": null
       }
     ],
