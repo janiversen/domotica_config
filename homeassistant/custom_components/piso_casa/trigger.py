@@ -5,6 +5,7 @@ from homeassistant.core import callback
 from homeassistant.helpers.event import (
     async_track_state_change_event,
 )
+from .base import _LOGGER
 
 
 class triggers:
@@ -25,6 +26,17 @@ class triggers:
     def async_track_boiler(self, event) -> None:
         """Track boiler on/off."""
         if event.data["new_state"].state != "on":
+            return
+        if (self.hass.states.get("switch.vamos_a_estar").state == "on"):
+            asyncio.run_coroutine_threadsafe(
+                self.hass.services.async_call(
+                    "switch",
+                    "turn_off",
+                    {"entity_id": "switch.vamos_a_estar"},
+                    blocking=True,
+                ),
+                self.hass.loop
+            )
             return
         if (
             self.hass.states.get("person.jan").state == "home" or

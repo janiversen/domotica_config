@@ -10,7 +10,7 @@ from .trigger import triggers
 async def async_setup(hass, _config):
     """Prepare piso/casa automations."""
     _LOGGER.setLevel("DEBUG")
-    _LOGGER.debug("JAN starting")
+    _LOGGER.debug("Piso/Casa automation starting")
     casa = _config[DOMAIN]
     hass.data[DOMAIN] = casa
     hass.async_create_task(
