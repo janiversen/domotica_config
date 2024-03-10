@@ -26,14 +26,14 @@
         "title": "Jan iPad",
         "data": {
           "app_data": {
-            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
-            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7"
+            "push_token": "cAY7NyQkVkKMqNq5kaZSlr:APA91bF6rS6vP-yKXfbI5rSOBUVqRHbvjmVYawivygetLaN5Z51PtilVU5bWFECk1fN2dv_tmLGgoArkbwx0mmjST1aNlaW3opB2ryKPpvrIMZ4mlFCPba7Dahp2rMCV6l7wgyrawaG7",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
           },
           "device_id": "7719C43E-E09F-4531-9FA5-0F33706DFA45",
           "os_name": "iPadOS",
           "model": "iPad13,1",
-          "app_version": "2023.7 (2023.471)",
-          "os_version": "17.1.2",
+          "app_version": "2024.2 (2024.561)",
+          "os_version": "17.3.1",
           "app_id": "io.robbie.HomeAssistant",
           "device_name": "Jan iPad",
           "supports_encryption": true,
