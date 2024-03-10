@@ -45,13 +45,19 @@ class CasaConsumo(CalcSensor):
     @callback
     def async_track_production(self, event) -> None:
         """Track production."""
-        self.production = int(event.data["new_state"].state)
+        try:
+            self.production = int(event.data["new_state"].state)
+        except ValueError:
+            return
         self._attr_native_value = self.production - self.power_meter
         self.async_write_ha_state()
 
     @callback
     def async_track_power_meter(self, event) -> None:
         """Track production."""
-        self.power_meter = int(event.data["new_state"].state)
+        try:
+            self.power_meter = int(event.data["new_state"].state)
+        except ValueError:
+            return
         self._attr_native_value = self.production - self.power_meter
         self.async_write_ha_state()
