@@ -95,10 +95,20 @@
                   "name": "Mes"
                 },
                 {
-                  "entity": "sensor.wh2650a_uv_index"
+                  "entity": "sensor.wh2650a_uv_index",
+                  "name": "UV"
                 },
                 {
-                  "entity": "sensor.wh2650a_wind_speed"
+                  "entity": "sensor.wh2650a_wind_speed",
+                  "name": "Viento"
+                },
+                {
+                  "entity": "sensor.wh2650a_outdoor_temperature",
+                  "name": "Campo"
+                },
+                {
+                  "entity": "sensor.wh2650a_indoor_temperature",
+                  "name": "Casa"
                 }
               ]
             },
