@@ -13,10 +13,39 @@
             {
               "type": "entities",
               "entities": [
-                "switch.bano_sa_luz",
-                "switch.bano_sb_vir_luz_vest"
+                {
+                  "entity": "switch.bano_sa_luz"
+                },
+                {
+                  "entity": "switch.bano_sb_vir_luz_vest"
+                },
+                {
+                  "entity": "sensor.bano_sa_luz_energy"
+                },
+                {
+                  "entity": "sensor.bano_sa_luz_power"
+                },
+                {
+                  "entity": "binary_sensor.bano_sa_luz_overpowering"
+                },
+                {
+                  "entity": "sensor.bano_sb_vir_luz_vest_energy"
+                },
+                {
+                  "entity": "sensor.bano_sb_vir_luz_vest_power"
+                },
+                {
+                  "entity": "button.bano_w_1_reboot"
+                },
+                {
+                  "entity": "binary_sensor.bano_sb_vir_luz_vest_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.bano_w_1_overheating"
+                }
               ],
-              "title": "Bano_W_1"
+              "title": "Bano_W_1",
+              "show_header_toggle": false
             },
             {
               "type": "entities",
@@ -32,6 +61,9 @@
                 {
                   "entity": "sensor.cocina_dw_temperature",
                   "name": "Temperature"
+                },
+                {
+                  "entity": "sensor.cocina_dw_battery"
                 }
               ],
               "title": "Cocina_DW"
@@ -39,10 +71,39 @@
             {
               "type": "entities",
               "entities": [
-                "switch.coci_eb_ent",
-                "switch.coci_sa_arma_led"
+                {
+                  "entity": "sensor.coci_eb_ent_energy"
+                },
+                {
+                  "entity": "sensor.coci_eb_ent_power"
+                },
+                {
+                  "entity": "sensor.coci_sa_arma_led_energy"
+                },
+                {
+                  "entity": "sensor.coci_sa_arma_led_power"
+                },
+                {
+                  "entity": "switch.coci_eb_ent"
+                },
+                {
+                  "entity": "switch.coci_sa_arma_led"
+                },
+                {
+                  "entity": "button.cocina_e_3_reboot"
+                },
+                {
+                  "entity": "binary_sensor.coci_eb_ent_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.coci_sa_arma_led_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.cocina_e_3_overheating"
+                }
               ],
-              "title": "Cocina_E_3"
+              "title": "Cocina_E_3",
+              "show_header_toggle": false
             },
             {
               "type": "entities",
@@ -58,6 +119,15 @@
                 {
                   "entity": "sensor.cristalera_dw_temperature",
                   "name": "Temperature"
+                },
+                {
+                  "entity": "switch.cristalera_w_1"
+                },
+                {
+                  "entity": "sensor.cristalera_dw_battery"
+                },
+                {
+                  "entity": "button.cristalera_w_1_reboot"
                 }
               ],
               "title": "Cristalera_DW"
@@ -65,14 +135,12 @@
             {
               "type": "entities",
               "entities": [
-                "switch.cristalera_w_1"
-              ],
-              "title": "Cristalera_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "switch.dorm_luz_cama"
+                {
+                  "entity": "switch.dorm_luz_cama"
+                },
+                {
+                  "entity": "button.dorm_luz_cama_reboot"
+                }
               ],
               "title": "DORM_LUZ_CAMA"
             },
@@ -94,6 +162,12 @@
                 {
                   "entity": "light.dormitorio_rgb_channel_4",
                   "name": "Channel 4"
+                },
+                {
+                  "entity": "button.dormitorio_rgb_reboot"
+                },
+                {
+                  "entity": "binary_sensor.dormitorio_rgb_overpowering"
                 }
               ],
               "title": "Dormitorio_RGB"
@@ -101,24 +175,306 @@
             {
               "type": "entities",
               "entities": [
-                "switch.dormitorio_v_1"
+                {
+                  "entity": "switch.dormitorio_v_1"
+                },
+                {
+                  "entity": "button.dormitorio_v_1_reboot"
+                }
               ],
               "title": "Dormitorio_V_1"
             },
             {
               "type": "entities",
               "entities": [
-                "switch.dorm_sa_luz_vest",
-                "switch.dorm_sb_vir_luz"
+                {
+                  "entity": "sensor.dorm_sa_luz_vest_energy"
+                },
+                {
+                  "entity": "sensor.dorm_sa_luz_vest_power"
+                },
+                {
+                  "entity": "sensor.dorm_sb_vir_luz_energy"
+                },
+                {
+                  "entity": "sensor.dorm_sb_vir_luz_power"
+                },
+                {
+                  "entity": "button.dormitorio_w_1_reboot"
+                },
+                {
+                  "entity": "binary_sensor.dormitorio_w_1_overheating"
+                },
+                {
+                  "entity": "switch.dorm_sa_luz_vest"
+                },
+                {
+                  "entity": "switch.dorm_sb_vir_luz"
+                },
+                {
+                  "entity": "binary_sensor.dorm_sa_luz_vest_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.dorm_sb_vir_luz_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.dormitorio_w_1_overheating"
+                }
               ],
               "title": "Dormitorio_W_1"
             },
             {
               "type": "entities",
               "entities": [
-                "cover.dormitorio_w_p"
+                {
+                  "entity": "button.dormitorio_w_p_reboot",
+                  "name": "Reboot"
+                },
+                {
+                  "entity": "sensor.dormitorio_w_p_energy"
+                },
+                {
+                  "entity": "binary_sensor.dormitorio_w_p_overheating"
+                },
+                {
+                  "entity": "button.dormitorio_w_p_reboot"
+                },
+                {
+                  "entity": "cover.dormitorio_w_p"
+                },
+                {
+                  "entity": "sensor.dormitorio_w_p_power"
+                }
               ],
               "title": "Dormitorio_W_P"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "switch.library_w_1"
+                },
+                {
+                  "entity": "button.library_w_1_reboot"
+                }
+              ],
+              "title": "Library_w_1"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "button.salon_e_1_reboot",
+                  "name": "Reboot"
+                },
+                {
+                  "entity": "switch.salon_e_1"
+                }
+              ],
+              "title": "Salon_E_1"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.bano2_eb_pllar_energy"
+                },
+                {
+                  "entity": "sensor.bano2_eb_pllar_power"
+                },
+                {
+                  "entity": "sensor.salo_ea_espejo_energy"
+                },
+                {
+                  "entity": "sensor.salo_ea_espejo_power"
+                },
+                {
+                  "entity": "button.salon_e_5_reboot"
+                },
+                {
+                  "entity": "binary_sensor.salon_e_5_overheating"
+                },
+                {
+                  "entity": "switch.bano2_eb_pllar"
+                },
+                {
+                  "entity": "switch.salo_ea_espejo"
+                },
+                {
+                  "entity": "binary_sensor.bano2_eb_pllar_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.salon_e_5_overheating"
+                },
+                {
+                  "entity": "binary_sensor.salo_ea_espejo_overpowering"
+                }
+              ],
+              "title": "Salon_E_5",
+              "show_header_toggle": false
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "light.salon_rgb_channel_1",
+                  "name": "Channel 1"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_2",
+                  "name": "Channel 2"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_3",
+                  "name": "Channel 3"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_4",
+                  "name": "Channel 4"
+                },
+                {
+                  "entity": "button.salon_rgb_reboot"
+                },
+                {
+                  "entity": "binary_sensor.salon_rgb_overpowering"
+                }
+              ],
+              "title": "Salon_RGB"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.salo_sa_luz_coci_energy"
+                },
+                {
+                  "entity": "sensor.salo_sa_luz_coci_power"
+                },
+                {
+                  "entity": "sensor.salo_sb_vir_luz_energy"
+                },
+                {
+                  "entity": "sensor.salo_sb_vir_luz_power"
+                },
+                {
+                  "entity": "switch.salo_sa_luz_coci"
+                },
+                {
+                  "entity": "switch.salo_sb_vir_luz"
+                },
+                {
+                  "entity": "binary_sensor.salon_s_2_overheating"
+                },
+                {
+                  "entity": "button.salon_s_2_reboot"
+                },
+                {
+                  "entity": "binary_sensor.salo_sb_vir_luz_overpowering"
+                },
+                {
+                  "entity": "binary_sensor.salo_sa_luz_coci_overpowering"
+                }
+              ],
+              "title": "Salon_S_2"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "cover.salon_w_p_1"
+                },
+                {
+                  "entity": "sensor.salon_w_p_1_energy"
+                },
+                {
+                  "entity": "sensor.salon_w_p_1_power"
+                },
+                {
+                  "entity": "button.salon_w_p_1_reboot"
+                },
+                {
+                  "entity": "binary_sensor.salon_w_p_1_overheating"
+                }
+              ],
+              "title": "Salon_W_P_1"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "button.salon_rgb_reboot",
+                  "name": "Reboot"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_1"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_2"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_3"
+                },
+                {
+                  "entity": "light.salon_rgb_channel_4"
+                },
+                {
+                  "entity": "binary_sensor.salon_rgb_overpowering"
+                }
+              ],
+              "title": "Salon_RGB"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.salon_w_p_2_energy",
+                  "name": "Energy"
+                },
+                {
+                  "entity": "sensor.salon_w_p_2_power",
+                  "name": "Power"
+                },
+                {
+                  "entity": "binary_sensor.salon_w_p_2_overheating"
+                },
+                {
+                  "entity": "button.salon_w_p_2_reboot"
+                },
+                {
+                  "entity": "cover.salon_w_p_2"
+                }
+              ],
+              "title": "Salon_W_P_2"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.sun_next_dawn",
+                  "name": "Next dawn"
+                },
+                {
+                  "entity": "sensor.sun_next_dusk",
+                  "name": "Next dusk"
+                },
+                {
+                  "entity": "sensor.sun_next_midnight",
+                  "name": "Next midnight"
+                },
+                {
+                  "entity": "sensor.sun_next_noon",
+                  "name": "Next noon"
+                },
+                {
+                  "entity": "sensor.sun_next_rising",
+                  "name": "Next rising"
+                },
+                {
+                  "entity": "sensor.sun_next_setting",
+                  "name": "Next setting"
+                }
+              ],
+              "title": "Sun"
             },
             {
               "type": "entities",
@@ -154,6 +510,9 @@
                 {
                   "entity": "sensor.jan_ipad_storage",
                   "name": "Storage"
+                },
+                {
+                  "entity": "device_tracker.jan_ipad"
                 }
               ],
               "title": "Jan iPad"
@@ -161,492 +520,16 @@
             {
               "type": "entities",
               "entities": [
-                "switch.library_w_1"
-              ],
-              "title": "Library_w_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "switch.salon_e_1"
-              ],
-              "title": "Salon_E_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "switch.bano2_eb_pllar",
-                "switch.salo_ea_espejo"
-              ],
-              "title": "Salon_E_5"
-            },
-            {
-              "type": "entities",
-              "entities": [
                 {
-                  "entity": "light.salon_rgb_channel_1",
-                  "name": "Channel 1"
+                  "entity": "automation.alert_ha"
                 },
                 {
-                  "entity": "light.salon_rgb_channel_2",
-                  "name": "Channel 2"
+                  "entity": "automation.alert_internet"
                 },
                 {
-                  "entity": "light.salon_rgb_channel_3",
-                  "name": "Channel 3"
-                },
-                {
-                  "entity": "light.salon_rgb_channel_4",
-                  "name": "Channel 4"
+                  "entity": "automation.battery_door"
                 }
-              ],
-              "title": "Salon_RGB"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "switch.salo_sa_luz_coci",
-                "switch.salo_sb_vir_luz"
-              ],
-              "title": "Salon_S_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "cover.salon_w_p_1"
-              ],
-              "title": "Salon_W_P_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.bano_sa_luz_energy",
-                "sensor.bano_sa_luz_power",
-                "sensor.bano_sb_vir_luz_vest_energy",
-                "sensor.bano_sb_vir_luz_vest_power"
-              ],
-              "title": "Bano_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "event.bano_sa_luz",
-                "event.bano_sb_vir_luz_vest"
-              ],
-              "title": "Bano_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.bano_w_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Bano_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "binary_sensor.bano_sa_luz_overpowering",
-                "binary_sensor.bano_sb_vir_luz_vest_overpowering",
-                {
-                  "entity": "binary_sensor.bano_w_1_overheating",
-                  "name": "Overheating"
-                }
-              ],
-              "title": "Bano_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.cocina_dw_battery",
-                  "name": "Battery"
-                }
-              ],
-              "title": "Cocina_DW"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.coci_eb_ent_energy",
-                "sensor.coci_eb_ent_power",
-                "sensor.coci_sa_arma_led_energy",
-                "sensor.coci_sa_arma_led_power"
-              ],
-              "title": "Cocina_E_3"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.cocina_e_3_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Cocina_E_3"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "binary_sensor.coci_eb_ent_overpowering",
-                "binary_sensor.coci_sa_arma_led_overpowering",
-                {
-                  "entity": "binary_sensor.cocina_e_3_overheating",
-                  "name": "Overheating"
-                }
-              ],
-              "title": "Cocina_E_3"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.cristalera_dw_battery",
-                  "name": "Battery"
-                }
-              ],
-              "title": "Cristalera_DW"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "event.cristalera_w_1"
-              ],
-              "title": "Cristalera_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.cristalera_w_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Cristalera_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.dorm_luz_cama_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "DORM_LUZ_CAMA"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.dormitorio_rgb_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Dormitorio_RGB"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "binary_sensor.dormitorio_rgb_overpowering",
-                  "name": "Overpowering"
-                }
-              ],
-              "title": "Dormitorio_RGB"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.dormitorio_v_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Dormitorio_V_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.dorm_sa_luz_vest_energy",
-                "sensor.dorm_sa_luz_vest_power",
-                "sensor.dorm_sb_vir_luz_energy",
-                "sensor.dorm_sb_vir_luz_power"
-              ],
-              "title": "Dormitorio_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.dormitorio_w_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Dormitorio_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "binary_sensor.dorm_sa_luz_vest_overpowering",
-                "binary_sensor.dorm_sb_vir_luz_overpowering",
-                {
-                  "entity": "binary_sensor.dormitorio_w_1_overheating",
-                  "name": "Overheating"
-                }
-              ],
-              "title": "Dormitorio_W_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.dormitorio_w_p_energy",
-                  "name": "Energy"
-                },
-                {
-                  "entity": "sensor.dormitorio_w_p_power",
-                  "name": "Power"
-                }
-              ],
-              "title": "Dormitorio_W_P"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.dormitorio_w_p_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Dormitorio_W_P"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "binary_sensor.dormitorio_w_p_overheating",
-                  "name": "Overheating"
-                }
-              ],
-              "title": "Dormitorio_W_P"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "device_tracker.jan_ipad"
-              ],
-              "title": "Jan iPad"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.library_w_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Library_w_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.salon_e_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Salon_E_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.bano2_eb_pllar_energy",
-                "sensor.bano2_eb_pllar_power",
-                "sensor.salo_ea_espejo_energy",
-                "sensor.salo_ea_espejo_power"
-              ],
-              "title": "Salon_E_5"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.salon_e_5_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Salon_E_5"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "binary_sensor.bano2_eb_pllar_overpowering",
-                {
-                  "entity": "binary_sensor.salon_e_5_overheating",
-                  "name": "Overheating"
-                },
-                "binary_sensor.salo_ea_espejo_overpowering"
-              ],
-              "title": "Salon_E_5"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.salon_rgb_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Salon_RGB"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "binary_sensor.salon_rgb_overpowering",
-                  "name": "Overpowering"
-                }
-              ],
-              "title": "Salon_RGB"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "sensor.salo_sa_luz_coci_energy",
-                "sensor.salo_sa_luz_coci_power",
-                "sensor.salo_sb_vir_luz_energy",
-                "sensor.salo_sb_vir_luz_power"
-              ],
-              "title": "Salon_S_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.salon_s_2_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Salon_S_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "binary_sensor.salon_s_2_overheating",
-                  "name": "Overheating"
-                },
-                "binary_sensor.salo_sa_luz_coci_overpowering",
-                "binary_sensor.salo_sb_vir_luz_overpowering"
-              ],
-              "title": "Salon_S_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.salon_w_p_1_energy",
-                  "name": "Energy"
-                },
-                {
-                  "entity": "sensor.salon_w_p_1_power",
-                  "name": "Power"
-                }
-              ],
-              "title": "Salon_W_P_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.salon_w_p_1_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Salon_W_P_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "binary_sensor.salon_w_p_1_overheating",
-                  "name": "Overheating"
-                }
-              ],
-              "title": "Salon_W_P_1"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.salon_w_p_2_energy",
-                  "name": "Energy"
-                },
-                {
-                  "entity": "sensor.salon_w_p_2_power",
-                  "name": "Power"
-                }
-              ],
-              "title": "Salon_W_P_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                "cover.salon_w_p_2"
-              ],
-              "title": "Salon_W_P_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "button.salon_w_p_2_reboot",
-                  "name": "Reboot"
-                }
-              ],
-              "title": "Salon_W_P_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "binary_sensor.salon_w_p_2_overheating",
-                  "name": "Overheating"
-                }
-              ],
-              "title": "Salon_W_P_2"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
-                  "entity": "sensor.sun_next_dawn",
-                  "name": "Next dawn"
-                },
-                {
-                  "entity": "sensor.sun_next_dusk",
-                  "name": "Next dusk"
-                },
-                {
-                  "entity": "sensor.sun_next_midnight",
-                  "name": "Next midnight"
-                },
-                {
-                  "entity": "sensor.sun_next_noon",
-                  "name": "Next noon"
-                },
-                {
-                  "entity": "sensor.sun_next_rising",
-                  "name": "Next rising"
-                },
-                {
-                  "entity": "sensor.sun_next_setting",
-                  "name": "Next setting"
-                }
-              ],
-              "title": "Sun"
+              ]
             }
           ]
         }
