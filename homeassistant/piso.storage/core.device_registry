@@ -53,6 +53,381 @@
         "serial_number": null,
         "sw_version": "17.1.2",
         "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "73fb7b3a0b54897eea2f9ad5607fa201"
+        ],
+        "configuration_url": "http://192.168.20.115",
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:3c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "225e2f38fb387ec1d4d67ad0aeaae757",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Salon_W_P_2",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "f55233744ca79ea355378615c073d0dd"
+        ],
+        "configuration_url": "http://192.168.20.118",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:19:98"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "2c1c3492ea8f5e8585ce4a8c9dae0d93",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Salon_S_2",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "cocina",
+        "config_entries": [
+          "89f322b96006b95bb4b5a4a732de3d48"
+        ],
+        "configuration_url": "http://192.168.20.125",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:a2:85:0e"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "50a567fd49025173059adb055b4ab91b",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Cocina_E_3",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "bano",
+        "config_entries": [
+          "3f3c0a9b5bbe97588e97ec2205fbf2aa"
+        ],
+        "configuration_url": "http://192.168.20.101",
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:8f"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "21c4319f998ad498ee4d71d074fecbb2",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Bano_W_1",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "9a658f7b2271815471551eb24f3873c7"
+        ],
+        "configuration_url": "http://192.168.20.105",
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:3a"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "d0cfcff542de6ac552eb47ebae6fab24",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "shellyswitch25-8CAAB561E73A",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "75f3b0ebcf61ceae3d8125890fe66658"
+        ],
+        "configuration_url": "http://192.168.20.102",
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e6:a9"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "37bd0685a2794e57557d5b7969a97136",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Dormitorio_W_1",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "5636b06ff6c1109a8eeaca0f31dcf912"
+        ],
+        "configuration_url": "http://192.168.20.116",
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:5f:43:9f"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "02283a733cb86b4d6527c1673f4ff1bb",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Salon_E_5",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "31e118599c30049596e5df277bc8c380"
+        ],
+        "configuration_url": "http://192.168.20.113",
+        "connections": [
+          [
+            "mac",
+            "34:94:54:6a:10:53"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "8ded3e97ac2c51477934af538a19edbb",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Salon_W_P_1",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "b58bbbf1e711b70faccd20e6795dd907"
+        ],
+        "configuration_url": "http://192.168.20.107",
+        "connections": [
+          [
+            "mac",
+            "bc:ff:4d:4a:57:2b"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHRGBW2)",
+        "id": "8fdb0729ff1e04a908abe347dc2e93be",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly RGBW2",
+        "name_by_user": null,
+        "name": "Dormitorio_RGB",
+        "serial_number": null,
+        "sw_version": "20230913-131259/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "3716d6ff79faef7d289710c73bdeb087"
+        ],
+        "configuration_url": "http://192.168.20.117",
+        "connections": [
+          [
+            "mac",
+            "bc:ff:4d:4b:02:4d"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHRGBW2)",
+        "id": "772bcdadfa1484f3c05d472818b2d917",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly RGBW2",
+        "name_by_user": null,
+        "name": "Salon_RGB",
+        "serial_number": null,
+        "sw_version": "20230913-131259/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "b359e8f347d7884ff193dccdf12c4ab3"
+        ],
+        "configuration_url": "http://192.168.20.108",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d4:a4:6b"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "c5a08cae66cf217abc4810b57286b0d0",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "DORM_LUZ_CAMA",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "libraria",
+        "config_entries": [
+          "cbf2741309f18a5cf5251e684c8f0c73"
+        ],
+        "configuration_url": "http://192.168.20.124",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d3:ed:4d"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "4ef720ce3520f9254577d025451e5c31",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "Library_w_1",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "a1c3c605fdebc25b49248c45ea31b87c"
+        ],
+        "configuration_url": "http://192.168.20.104",
+        "connections": [
+          [
+            "mac",
+            "e8:db:84:d3:30:51"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "b3fa3726fe84b335d3d098325effcdd1",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "Dormitorio_V_1",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "cristalera",
+        "config_entries": [
+          "c820ee64f515e271dc219a61324dd2cd"
+        ],
+        "configuration_url": "http://192.168.20.127",
+        "connections": [
+          [
+            "mac",
+            "e8:68:e7:86:f2:d7"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "0a6e068ba4c82241cbeff2eccc3182b8",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "Cristalera_W_1",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "347becd27e8754a4d6b1c82382379d5a"
+        ],
+        "configuration_url": "http://192.168.20.112",
+        "connections": [
+          [
+            "mac",
+            "e8:68:e7:86:dd:e2"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-1)",
+        "id": "34b316136a28256fe1c37691ec42f8f0",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 1",
+        "name_by_user": null,
+        "name": "Salon_E_1",
+        "serial_number": null,
+        "sw_version": "20230913-112003/v1.14.0-gcb84623",
+        "via_device_id": null
       }
     ],
     "deleted_devices": [
@@ -142,20 +517,6 @@
       },
       {
         "config_entries": [
-          "638a41c1636de7e436e51eee8a4aaf47"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:d3:ed:4d"
-          ]
-        ],
-        "identifiers": [],
-        "id": "4ef720ce3520f9254577d025451e5c31",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "b244c8a2b6ee28036ed8ed53829442fb"
         ],
         "connections": [],
@@ -194,20 +555,6 @@
         ],
         "identifiers": [],
         "id": "86b14c6aa6405d7bb284a7a64dda9506",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "619b5059a1794af1a598bea7ec53a814"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:68:e7:86:f2:d7"
-          ]
-        ],
-        "identifiers": [],
-        "id": "0a6e068ba4c82241cbeff2eccc3182b8",
         "orphaned_timestamp": null
       },
       {
@@ -268,20 +615,6 @@
       },
       {
         "config_entries": [
-          "3cd32a363c892345b2403be766f996f6"
-        ],
-        "connections": [
-          [
-            "mac",
-            "8c:aa:b5:61:e7:8f"
-          ]
-        ],
-        "identifiers": [],
-        "id": "21c4319f998ad498ee4d71d074fecbb2",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "183363475f902ad565c8530e1df11a18"
         ],
         "connections": [
@@ -310,34 +643,6 @@
       },
       {
         "config_entries": [
-          "4f9bcfac0cd1e5a46acd07b078ce70d8"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:68:e7:86:dd:e2"
-          ]
-        ],
-        "identifiers": [],
-        "id": "34b316136a28256fe1c37691ec42f8f0",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "5dd2841c7d58cae2ea5801c742cc637b"
-        ],
-        "connections": [
-          [
-            "mac",
-            "8c:aa:b5:61:e7:3c"
-          ]
-        ],
-        "identifiers": [],
-        "id": "225e2f38fb387ec1d4d67ad0aeaae757",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "2f8ee37fd8c69e739f510fc6348c235a"
         ],
         "connections": [
@@ -348,20 +653,6 @@
         ],
         "identifiers": [],
         "id": "a1c1f164db05516ef8b1c4a277b7b972",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "701b4214d2b47ac41059471763236629"
-        ],
-        "connections": [
-          [
-            "mac",
-            "8c:aa:b5:5f:43:9f"
-          ]
-        ],
-        "identifiers": [],
-        "id": "02283a733cb86b4d6527c1673f4ff1bb",
         "orphaned_timestamp": null
       },
       {
@@ -390,20 +681,6 @@
         ],
         "identifiers": [],
         "id": "1431435a6f7e53481de2e28654cfce1a",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "bde20309d6827e943104b19c7d9db6a0"
-        ],
-        "connections": [
-          [
-            "mac",
-            "8c:aa:b5:61:e7:3a"
-          ]
-        ],
-        "identifiers": [],
-        "id": "d0cfcff542de6ac552eb47ebae6fab24",
         "orphaned_timestamp": null
       },
       {
@@ -464,20 +741,6 @@
       },
       {
         "config_entries": [
-          "1b2dfdc0c6ad8f0061e975cf6eb6bc54"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:d3:30:51"
-          ]
-        ],
-        "identifiers": [],
-        "id": "b3fa3726fe84b335d3d098325effcdd1",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "bbf01682e9161668d67e27314fe756cd"
         ],
         "connections": [
@@ -502,20 +765,6 @@
         ],
         "identifiers": [],
         "id": "3e8c017a7ca67a1124aa9a2dd5113be1",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "2d1bff3ac65d9a2d1b2092fd8843af25"
-        ],
-        "connections": [
-          [
-            "mac",
-            "8c:aa:b5:61:e6:a9"
-          ]
-        ],
-        "identifiers": [],
-        "id": "37bd0685a2794e57557d5b7969a97136",
         "orphaned_timestamp": null
       },
       {
@@ -548,20 +797,6 @@
       },
       {
         "config_entries": [
-          "164b51275198cb1cf162ae29aadc79db"
-        ],
-        "connections": [
-          [
-            "mac",
-            "34:94:54:6a:10:53"
-          ]
-        ],
-        "identifiers": [],
-        "id": "8ded3e97ac2c51477934af538a19edbb",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "503f9a9504e26a37c7da013acd1f450a"
         ],
         "connections": [
@@ -590,20 +825,6 @@
       },
       {
         "config_entries": [
-          "4199aa3407db48c88d8e83a97c8b18c8"
-        ],
-        "connections": [
-          [
-            "mac",
-            "bc:ff:4d:4a:57:2b"
-          ]
-        ],
-        "identifiers": [],
-        "id": "8fdb0729ff1e04a908abe347dc2e93be",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
           "1bfdb804b31694d143e14e6e3755b919"
         ],
         "connections": [
@@ -614,48 +835,6 @@
         ],
         "identifiers": [],
         "id": "6792643823562bffe5c147672e618ea9",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "ccf8f66f02a54ed64e0f96bb304b7305"
-        ],
-        "connections": [
-          [
-            "mac",
-            "bc:ff:4d:4b:02:4d"
-          ]
-        ],
-        "identifiers": [],
-        "id": "772bcdadfa1484f3c05d472818b2d917",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "b8205b341681bb0b460f4e7c3a296b7e"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:a2:19:98"
-          ]
-        ],
-        "identifiers": [],
-        "id": "2c1c3492ea8f5e8585ce4a8c9dae0d93",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "1dcc071a33465e7c4a8d0e60ed6756ec"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:a2:85:0e"
-          ]
-        ],
-        "identifiers": [],
-        "id": "50a567fd49025173059adb055b4ab91b",
         "orphaned_timestamp": null
       },
       {
@@ -754,20 +933,6 @@
           ]
         ],
         "id": "c9fee3becb3f634f10d18d9d68ab5488",
-        "orphaned_timestamp": null
-      },
-      {
-        "config_entries": [
-          "d326356b232ea53cedba2419619340f3"
-        ],
-        "connections": [
-          [
-            "mac",
-            "e8:db:84:d4:a4:6b"
-          ]
-        ],
-        "identifiers": [],
-        "id": "c5a08cae66cf217abc4810b57286b0d0",
         "orphaned_timestamp": null
       },
       {
