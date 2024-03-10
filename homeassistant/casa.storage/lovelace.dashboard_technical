@@ -526,28 +526,19 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "sensor.sun_next_dawn",
-                  "name": "None"
-                },
-                {
-                  "entity": "sensor.sun_next_dusk",
-                  "name": "None"
-                },
-                {
-                  "entity": "sensor.sun_next_midnight",
-                  "name": "None"
+                  "entity": "sun.sun"
                 },
                 {
                   "entity": "sensor.sun_next_noon",
-                  "name": "None"
-                },
-                {
-                  "entity": "sensor.sun_next_rising",
-                  "name": "None"
+                  "name": "Luna llena"
                 },
                 {
                   "entity": "sensor.sun_next_setting",
-                  "name": "None"
+                  "name": "atardecer"
+                },
+                {
+                  "entity": "sensor.sun_next_rising",
+                  "name": "amanecer"
                 }
               ],
               "title": "Sun"

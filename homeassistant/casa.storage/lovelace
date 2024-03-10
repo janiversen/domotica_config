@@ -152,6 +152,27 @@
               "forecast_type": "daily"
             },
             {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": true,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "sensor.sun_next_rising",
+                  "name": "amanecer"
+                },
+                {
+                  "entity": "sensor.sun_next_setting",
+                  "name": "atardecer"
+                },
+                {
+                  "entity": "sensor.sun_next_noon",
+                  "name": "Luna llena"
+                }
+              ],
+              "title": "Sol"
+            },
+            {
               "type": "thermostat",
               "entity": "climate.air_on",
               "features": [
