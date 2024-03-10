@@ -51,7 +51,8 @@
                     "action": "toggle"
                   }
                 }
-              ]
+              ],
+              "title": "Interruptores"
             },
             {
               "show_name": true,
@@ -71,23 +72,27 @@
                   "entity": "sensor.power_meter",
                   "name": "Export"
                 }
-              ]
+              ],
+              "title": "Energia"
             },
             {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": true,
               "type": "glance",
-              "title": "Tiempo",
+              "title": "Tiempo en casa",
               "entities": [
                 {
                   "entity": "sensor.wh2650a_daily_rain_rate",
-                  "name": "24 Horas"
+                  "name": "Día"
                 },
                 {
                   "entity": "sensor.wh2650a_weekly_rain_rate",
-                  "name": "7 Dias"
+                  "name": "Semana"
                 },
                 {
                   "entity": "sensor.wh2650a_monthly_rain_rate",
-                  "name": "30 Dias"
+                  "name": "Mes"
                 },
                 {
                   "entity": "sensor.wh2650a_uv_index"
@@ -115,7 +120,8 @@
                   "entity": "binary_sensor.shelly_flood_flood",
                   "name": "Deposito"
                 }
-              ]
+              ],
+              "title": "Vigilancia"
             },
             {
               "type": "glance",
