@@ -12,7 +12,7 @@
           "device_tracker.jan_ipad"
         ],
         "id": "jan",
-        "picture": null
+        "picture": "/api/image/serve/d7db522128d6b8b0f29aded79c465785/512x512"
       },
       {
         "name": "belen",
@@ -20,7 +20,7 @@
           "device_tracker.belen_iphone"
         ],
         "user_id": "ea1525457ff949c19536b969d57ed9aa",
-        "picture": null,
+        "picture": "/api/image/serve/5cafad99f7255f807264ef36190ef47f/512x512",
         "id": "belen"
       }
     ]

@@ -11,7 +11,7 @@
           "title": "Home",
           "cards": [
             {
-              "type": "entities",
+              "type": "glance",
               "entities": [
                 {
                   "entity": "person.jan"
