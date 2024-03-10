@@ -73,9 +73,6 @@
                   "entity": "switch.casa_luz_1"
                 },
                 {
-                  "entity": "event.casa_luz_1"
-                },
-                {
                   "entity": "sensor.casa_luz_1_energy"
                 },
                 {
@@ -88,9 +85,6 @@
                   "entity": "switch.casa_luz_2"
                 },
                 {
-                  "entity": "event.casa_luz_2"
-                },
-                {
                   "entity": "sensor.casa_luz_2_energy"
                 },
                 {
@@ -98,6 +92,12 @@
                 },
                 {
                   "entity": "sensor.casa_luz_2_power"
+                },
+                {
+                  "entity": "button.shelly_outdoor_reboot"
+                },
+                {
+                  "entity": "binary_sensor.shelly_outdoor_overheating"
                 }
               ],
               "title": "shelly-casa-luz (outdoor 1 2)"
@@ -109,13 +109,13 @@
                   "entity": "switch.calentador"
                 },
                 {
-                  "entity": "event.calentador"
-                },
-                {
                   "entity": "switch.vamos_a_estar"
                 },
                 {
                   "entity": "device_tracker.shelly_calentador"
+                },
+                {
+                  "entity": "button.calentador_reboot"
                 }
               ],
               "title": "Shelly-calentador (Cocina)",
@@ -464,9 +464,6 @@
                   "entity": "automation.battery_wh65"
                 },
                 {
-                  "entity": "automation.new_automation"
-                },
-                {
                   "entity": "switch.vamos_a_estar"
                 }
               ],
@@ -483,6 +480,77 @@
                 }
               ],
               "title": "Trackers"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.jan_ipad_battery_level",
+                  "name": "Battery Level"
+                },
+                {
+                  "entity": "sensor.jan_ipad_battery_state",
+                  "name": "Battery State"
+                },
+                {
+                  "entity": "sensor.jan_ipad_bssid",
+                  "name": "BSSID"
+                },
+                {
+                  "entity": "sensor.jan_ipad_connection_type",
+                  "name": "Connection Type"
+                },
+                {
+                  "entity": "sensor.jan_ipad_geocoded_location",
+                  "name": "Geocoded Location"
+                },
+                {
+                  "entity": "sensor.jan_ipad_last_update_trigger",
+                  "name": "Last Update Trigger"
+                },
+                {
+                  "entity": "sensor.jan_ipad_ssid",
+                  "name": "SSID"
+                },
+                {
+                  "entity": "sensor.jan_ipad_storage",
+                  "name": "Storage"
+                },
+                {
+                  "entity": "device_tracker.jan_ipad_2"
+                }
+              ],
+              "title": "Jan iPad"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.sun_next_dawn",
+                  "name": "None"
+                },
+                {
+                  "entity": "sensor.sun_next_dusk",
+                  "name": "None"
+                },
+                {
+                  "entity": "sensor.sun_next_midnight",
+                  "name": "None"
+                },
+                {
+                  "entity": "sensor.sun_next_noon",
+                  "name": "None"
+                },
+                {
+                  "entity": "sensor.sun_next_rising",
+                  "name": "None"
+                },
+                {
+                  "entity": "sensor.sun_next_setting",
+                  "name": "None"
+                }
+              ],
+              "title": "Sun"
             }
           ]
         }
