@@ -3,6 +3,7 @@ description: ''
 trigger:
 - type: moist
   platform: device
+  device_id: d6b7a92a1c3471c0fbc2bd38bfe709f5
   entity_id: binary_sensor.shelly_flood_flood
   domain: binary_sensor
 condition: []

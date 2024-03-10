@@ -11,7 +11,7 @@ macmini:
   mac: 14:98:77:7D:B8:D3
   icon:
   picture:
-  track: true
+  track: false
 
 ipcam:
   name: IPCAM
@@ -34,16 +34,9 @@ aircon:
   picture:
   track: false
 
-domotica:
-  name: domotica
+casa:
+  name: casa
   mac: DC:A6:32:E7:E2:BF
-  icon:
-  picture:
-  track: false
-
-00_00_ca_11_22_33:
-  name: 00_00_ca_11_22_33
-  mac: 00:00:CA:11:22:33
   icon:
   picture:
   track: false
@@ -62,82 +55,68 @@ estacion:
   picture:
   track: false
 
-4c_31_2d_0a_36_45:
-  name: 4c_31_2d_0a_36_45
+IPCAM_entrada:
+  name: IPCAM_entrada
   mac: 4C:31:2D:0A:36:45
   icon:
   picture:
   track: false
 
-dc_97_58_30_2c_dd:
-  name: dc_97_58_30_2c_dd
+IPCAM_estanque:
+  name: IPCAM_estanque
   mac: DC:97:58:30:2C:DD
   icon:
   picture:
   track: false
-
-fc_d2_b6_ad_d3_12:
-  name: fc_d2_b6_ad_d3_12
-  mac: FC:D2:B6:AD:D3:12
-  icon:
-  picture:
-  track: true
 
 wifi_extender:
   name: wifi_extender
   mac: 6C:5A:B0:B6:8F:E8
   icon:
   picture:
-  track: true
+  track: false 
 
 shelly_flood:
   name: shelly-flood
   mac: EC:FA:BC:C8:B7:69
   icon:
   picture:
-  track: true
+  track: false
 
 shelly_outdoor:
   name: shelly-outdoor
   mac: 34:94:54:6A:10:4C
   icon:
   picture:
-  track: true
+  track: false
 
 shelly_calentador:
   name: shelly-calentador
   mac: E8:DB:84:D4:C1:AC
   icon:
   picture:
-  track: true
+  track: false
 
 shelly_lamp:
   name: shelly-lamp
   mac: E8:DB:84:D5:0A:7B
   icon:
   picture:
-  track: true
-
-aa_ff_e0_4a_bf_67:
-  name: aa_ff_e0_4a_bf_67
-  mac: AA:FF:E0:4A:BF:67
-  icon:
-  picture:
-  track: true
+  track: false
 
 shelly_door:
   name: shelly-door
   mac: C4:5B:BE:6A:99:D2
   icon:
   picture:
-  track: true
+  track: false
 
 shelly_casita_door:
   name: shelly-casita-door
   mac: 10:52:1C:07:62:57
   icon:
   picture:
-  track: true
+  track: false
 
 belen_iphone:
   name: Belen-iPhone
@@ -158,14 +137,14 @@ casa_television:
   mac: 70:2A:D5:D7:56:DB
   icon:
   picture:
-  track: true
+  track: false
 
 thermomix:
   name: thermomix
   mac: B4:EC:02:DD:96:C0
   icon:
   picture:
-  track: true
+  track: false
 
 jan_iphone:
   name: Jan-iPhone
@@ -173,3 +152,10 @@ jan_iphone:
   icon:
   picture:
   track: true
+
+UNKNOWN_1:
+  name: UNKNOWN_1
+  mac: 00:00:CA:11:22:33
+  icon:
+  picture:
+  track: false
