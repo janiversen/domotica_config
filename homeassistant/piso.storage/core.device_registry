@@ -155,31 +155,6 @@
         "via_device_id": null
       },
       {
-        "area_id": null,
-        "config_entries": [
-          "9a658f7b2271815471551eb24f3873c7"
-        ],
-        "configuration_url": "http://192.168.20.105",
-        "connections": [
-          [
-            "mac",
-            "8c:aa:b5:61:e7:3a"
-          ]
-        ],
-        "disabled_by": null,
-        "entry_type": null,
-        "hw_version": "gen1 (SHSW-25)",
-        "id": "d0cfcff542de6ac552eb47ebae6fab24",
-        "identifiers": [],
-        "manufacturer": "Shelly",
-        "model": "Shelly 2.5",
-        "name_by_user": null,
-        "name": "Dormitorio_W_P",
-        "serial_number": null,
-        "sw_version": "20230913-112234/v1.14.0-gcb84623",
-        "via_device_id": null
-      },
-      {
         "area_id": "dormitorio",
         "config_entries": [
           "75f3b0ebcf61ceae3d8125890fe66658"
@@ -451,7 +426,7 @@
         "name_by_user": null,
         "name": "Cristalera_DW",
         "serial_number": null,
-        "sw_version": "20220209-093605/v1.11.8-g8c7bb8d",
+        "sw_version": "",
         "via_device_id": null
       },
       {
@@ -476,7 +451,32 @@
         "name_by_user": null,
         "name": "Cocina_DW",
         "serial_number": null,
-        "sw_version": "20220209-093605/v1.11.8-g8c7bb8d",
+        "sw_version": "",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "59232f79ee44133e8ee6492617f4cfb2"
+        ],
+        "configuration_url": "http://192.168.20.105",
+        "connections": [
+          [
+            "mac",
+            "8c:aa:b5:61:e7:3a"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHSW-25)",
+        "id": "d0cfcff542de6ac552eb47ebae6fab24",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly 2.5",
+        "name_by_user": null,
+        "name": "Dormitorio_W_P",
+        "serial_number": null,
+        "sw_version": "20230913-112234/v1.14.0-gcb84623",
         "via_device_id": null
       }
     ],

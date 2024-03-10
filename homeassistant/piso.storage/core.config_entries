@@ -128,25 +128,6 @@
         "disabled_by": null
       },
       {
-        "entry_id": "9a658f7b2271815471551eb24f3873c7",
-        "version": 1,
-        "minor_version": 1,
-        "domain": "shelly",
-        "title": "Dormitorio_W_P",
-        "data": {
-          "host": "192.168.20.105",
-          "sleep_period": 0,
-          "model": "SHSW-25",
-          "gen": 1
-        },
-        "options": {},
-        "pref_disable_new_entities": false,
-        "pref_disable_polling": false,
-        "source": "zeroconf",
-        "unique_id": "8CAAB561E73A",
-        "disabled_by": null
-      },
-      {
         "entry_id": "75f3b0ebcf61ceae3d8125890fe66658",
         "version": 1,
         "minor_version": 1,
@@ -386,6 +367,25 @@
         "pref_disable_polling": false,
         "source": "zeroconf",
         "unique_id": "C45BBE6C3AF3",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "59232f79ee44133e8ee6492617f4cfb2",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_P",
+        "data": {
+          "host": "192.168.20.105",
+          "sleep_period": 0,
+          "model": "SHSW-25",
+          "gen": 1
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "8CAAB561E73A",
         "disabled_by": null
       }
     ]
