@@ -1,4 +1,0 @@
-platform: ping
-host: piso_router.lan
-name: internet
-count: 8

@@ -1,9 +1,0 @@
-#
-# Outdoor camera
-#
-stream:
-camera:
-  - platform: ffmpeg
-    name: Casa porche
-    #still_image_url: http://admin:admin@ipcam.lan/tmpfs/auto.jpg
-    input: rtsp://admin:admin@ipcam.lan/1

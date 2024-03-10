@@ -52,46 +52,6 @@
         "disabled_by": null
       },
       {
-        "entry_id": "9f027392c66f3b22acd98883c2153588",
-        "version": 1,
-        "minor_version": 1,
-        "domain": "ping",
-        "title": "ha_server",
-        "data": {
-          "imported_by": "binary_sensor"
-        },
-        "options": {
-          "host": "piso.lan",
-          "count": 8,
-          "consider_home": 180
-        },
-        "pref_disable_new_entities": false,
-        "pref_disable_polling": false,
-        "source": "import",
-        "unique_id": null,
-        "disabled_by": null
-      },
-      {
-        "entry_id": "e8ed081fcdb2d82b4e1086fceacfb9f1",
-        "version": 1,
-        "minor_version": 1,
-        "domain": "ping",
-        "title": "internet",
-        "data": {
-          "imported_by": "binary_sensor"
-        },
-        "options": {
-          "host": "piso_router.lan",
-          "count": 8,
-          "consider_home": 180
-        },
-        "pref_disable_new_entities": false,
-        "pref_disable_polling": false,
-        "source": "import",
-        "unique_id": null,
-        "disabled_by": null
-      },
-      {
         "entry_id": "73fb7b3a0b54897eea2f9ad5607fa201",
         "version": 1,
         "minor_version": 1,

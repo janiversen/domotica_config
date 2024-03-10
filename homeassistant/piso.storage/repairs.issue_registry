@@ -5,13 +5,6 @@
   "data": {
     "issues": [
       {
-        "created": "2024-03-10T07:31:34.618359+00:00",
-        "dismissed_version": null,
-        "domain": "homeassistant",
-        "is_persistent": false,
-        "issue_id": "deprecated_yaml_ping"
-      },
-      {
         "created": "2024-03-10T07:31:41.863464+00:00",
         "dismissed_version": null,
         "domain": "homeassistant",
