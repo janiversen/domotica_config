@@ -20,6 +20,95 @@
                   "entity": "person.belen"
                 }
               ]
+            },
+            {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": true,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "sensor.sun_next_rising",
+                  "name": "amanecer"
+                },
+                {
+                  "entity": "sensor.sun_next_setting",
+                  "name": "atardecer"
+                },
+                {
+                  "entity": "sensor.sun_next_noon",
+                  "name": "Luna llena"
+                }
+              ],
+              "title": "Sol"
+            },
+            {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": true,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "binary_sensor.cocina_dw_door",
+                  "name": "Cocina"
+                },
+                {
+                  "entity": "binary_sensor.cristalera_dw_door",
+                  "name": "Cristalera"
+                }
+              ],
+              "title": "Vigilancia"
+            },
+            {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": true,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "sensor.cristalera_dw_temperature",
+                  "name": "Patio"
+                }
+              ],
+              "title": "Tiempo en piso"
+            },
+            {
+              "type": "glance",
+              "show_name": true,
+              "show_icon": true,
+              "show_state": false,
+              "entities": [
+                {
+                  "entity": "cover.dormitorio_w_p",
+                  "name": "Dormitorio"
+                },
+                {
+                  "entity": "cover.salon_w_p_1",
+                  "name": "Salon"
+                },
+                {
+                  "entity": "cover.salon_w_p_2",
+                  "name": "Estudio"
+                }
+              ],
+              "title": "Persianas"
+            },
+            {
+              "type": "glance",
+              "show_name": true,
+              "show_icon": true,
+              "show_state": false,
+              "state_color": true,
+              "entities": [
+                {
+                  "entity": "switch.library_w_1",
+                  "name": "Estudio",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                }
+              ],
+              "title": "Interruptores"
             }
           ]
         }

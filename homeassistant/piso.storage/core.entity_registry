@@ -1152,8 +1152,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "f55233744ca79ea355378615c073d0dd",
@@ -1183,8 +1183,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "f55233744ca79ea355378615c073d0dd",
@@ -2248,8 +2248,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "3f3c0a9b5bbe97588e97ec2205fbf2aa",
@@ -2279,8 +2279,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "3f3c0a9b5bbe97588e97ec2205fbf2aa",
@@ -2814,8 +2814,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "75f3b0ebcf61ceae3d8125890fe66658",
@@ -2845,8 +2845,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "75f3b0ebcf61ceae3d8125890fe66658",
@@ -4243,8 +4243,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "b58bbbf1e711b70faccd20e6795dd907",
@@ -4844,8 +4844,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "3716d6ff79faef7d289710c73bdeb087",
@@ -5393,8 +5393,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "b359e8f347d7884ff193dccdf12c4ab3",
@@ -5608,8 +5608,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "cbf2741309f18a5cf5251e684c8f0c73",
@@ -5849,8 +5849,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "a1c3c605fdebc25b49248c45ea31b87c",
@@ -6064,8 +6064,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "c820ee64f515e271dc219a61324dd2cd",
@@ -6437,7 +6437,7 @@
         "area_id": null,
         "capabilities": null,
         "config_entry_id": "abbe00865a318133bebcea6b5a790eee",
-        "device_class": null,
+        "device_class": "door",
         "device_id": "9d2ab263400b53fbf8353ee9e11df033",
         "disabled_by": null,
         "entity_category": null,
@@ -6551,7 +6551,7 @@
         "area_id": null,
         "capabilities": null,
         "config_entry_id": "58a46eb2c9c3d8afc2eb3fdea7951734",
-        "device_class": null,
+        "device_class": "door",
         "device_id": "407663a816633ab31786f1d098d70ce8",
         "disabled_by": null,
         "entity_category": null,

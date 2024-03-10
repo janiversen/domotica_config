@@ -4,332 +4,332 @@
   "key": "core.restore_state",
   "data": [
     {
-      "state": {"entity_id":"person.jan","state":"not_home","attributes":{"editable":true,"id":"jan","source":"device_tracker.jan_iphone","user_id":"2e0c17cedad14058a331a80580362c80","device_trackers":["device_tracker.jan_iphone","device_tracker.jan_ipad"],"entity_picture":"/api/image/serve/d7db522128d6b8b0f29aded79c465785/512x512","friendly_name":"jan"},"last_changed":"2024-03-10T12:49:40.459304+00:00","last_updated":"2024-03-10T12:49:46.121264+00:00","context":{"id":"01HRM6JZM9Q8DQV42RPMV6VKMT","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"person.jan","state":"not_home","attributes":{"editable":true,"id":"jan","source":"device_tracker.jan_iphone","user_id":"2e0c17cedad14058a331a80580362c80","device_trackers":["device_tracker.jan_iphone","device_tracker.jan_ipad"],"entity_picture":"/api/image/serve/d7db522128d6b8b0f29aded79c465785/512x512","friendly_name":"jan"},"last_changed":"2024-03-10T13:11:24.628440+00:00","last_updated":"2024-03-10T13:11:30.360641+00:00","context":{"id":"01HRM7TS9RDFE1WH24CE68EPFA","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"person.belen","state":"not_home","attributes":{"editable":true,"id":"belen","source":"device_tracker.belen_iphone","user_id":"ea1525457ff949c19536b969d57ed9aa","device_trackers":["device_tracker.belen_iphone"],"entity_picture":"/api/image/serve/5cafad99f7255f807264ef36190ef47f/512x512","friendly_name":"belen"},"last_changed":"2024-03-10T12:49:40.459764+00:00","last_updated":"2024-03-10T12:49:46.121588+00:00","context":{"id":"01HRM6JZM9FV1JH2BNKXWT8BJ6","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"person.belen","state":"not_home","attributes":{"editable":true,"id":"belen","source":"device_tracker.belen_iphone","user_id":"ea1525457ff949c19536b969d57ed9aa","device_trackers":["device_tracker.belen_iphone"],"entity_picture":"/api/image/serve/5cafad99f7255f807264ef36190ef47f/512x512","friendly_name":"belen"},"last_changed":"2024-03-10T13:11:24.629154+00:00","last_updated":"2024-03-10T13:11:30.360982+00:00","context":{"id":"01HRM7TS9RQM1ZAY91C72GEF3A","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"automation.battery_door","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Battery door"},"last_changed":"2024-03-10T12:49:43.117640+00:00","last_updated":"2024-03-10T12:49:43.117640+00:00","context":{"id":"01HRM6JWPDPSJTBD7D2SP84ZKF","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"automation.battery_door","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Battery door"},"last_changed":"2024-03-10T13:11:27.348112+00:00","last_updated":"2024-03-10T13:11:27.348112+00:00","context":{"id":"01HRM7TPBM164N6V85D67Z3QJ1","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"automation.battery_flood_casa","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Battery flood casa"},"last_changed":"2024-03-10T12:49:43.118523+00:00","last_updated":"2024-03-10T12:49:43.118523+00:00","context":{"id":"01HRM6JWPESBDSRW4HHE3ZT3R7","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"automation.battery_flood_casa","state":"on","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Battery flood casa"},"last_changed":"2024-03-10T13:11:27.349046+00:00","last_updated":"2024-03-10T13:11:27.349046+00:00","context":{"id":"01HRM7TPBNK252SV7R65B8J91P","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"automation.alert_ha","state":"on","attributes":{"last_triggered":"2023-12-11T07:53:37.949212+00:00","mode":"single","current":0,"friendly_name":"Alert HA"},"last_changed":"2024-03-10T12:49:43.119103+00:00","last_updated":"2024-03-10T12:49:43.119103+00:00","context":{"id":"01HRM6JWPF3CFGPJ0C0NX673MZ","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"automation.alert_ha","state":"on","attributes":{"last_triggered":"2023-12-11T07:53:37.949212+00:00","mode":"single","current":0,"friendly_name":"Alert HA"},"last_changed":"2024-03-10T13:11:27.349610+00:00","last_updated":"2024-03-10T13:11:27.349610+00:00","context":{"id":"01HRM7TPBNDS8ZH14WQ3YQH1KZ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"automation.alert_internet","state":"on","attributes":{"last_triggered":"2023-01-26T08:22:56.604256+00:00","mode":"single","current":0,"friendly_name":"Alert internet"},"last_changed":"2024-03-10T12:49:43.119442+00:00","last_updated":"2024-03-10T12:49:43.119442+00:00","context":{"id":"01HRM6JWPFK5CQPDYA1Q15636H","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"automation.alert_internet","state":"on","attributes":{"last_triggered":"2023-01-26T08:22:56.604256+00:00","mode":"single","current":0,"friendly_name":"Alert internet"},"last_changed":"2024-03-10T13:11:27.349908+00:00","last_updated":"2024-03-10T13:11:27.349908+00:00","context":{"id":"01HRM7TPBN3CFGPJ0C0NX673MZ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"binary_sensor.cocina_dw_door","state":"off","attributes":{"device_class":"opening","friendly_name":"Cocina_DW door"},"last_changed":"2024-03-10T12:49:43.291673+00:00","last_updated":"2024-03-10T12:49:43.291673+00:00","context":{"id":"01HRM6JWVVCTXH6J475CCPNSYQ","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"binary_sensor.cocina_dw_door","state":"off","attributes":{"device_class":"door","friendly_name":"Cocina_DW door"},"last_changed":"2024-03-10T13:13:04.790609+00:00","last_updated":"2024-03-10T13:13:04.790609+00:00","context":{"id":"01HRM7XNGPXDZ38MD6CV62NYW3","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"binary_sensor.cristalera_dw_door","state":"on","attributes":{"device_class":"opening","friendly_name":"Cristalera_DW door"},"last_changed":"2024-03-10T12:49:43.292298+00:00","last_updated":"2024-03-10T12:49:43.292298+00:00","context":{"id":"01HRM6JWVW4JH7XGCZ99TMT8T8","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"binary_sensor.cristalera_dw_door","state":"on","attributes":{"device_class":"door","friendly_name":"Cristalera_DW door"},"last_changed":"2024-03-10T13:12:56.599484+00:00","last_updated":"2024-03-10T13:12:56.599484+00:00","context":{"id":"01HRM7XDGQYS4RDMD41TB1VNM4","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.cocina_dw_luminosity","state":"296","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"Cocina_DW luminosity"},"last_changed":"2024-03-10T12:49:43.309633+00:00","last_updated":"2024-03-10T12:49:43.309633+00:00","context":{"id":"01HRM6JWWD0FQXHX5NY0010ZJN","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.cocina_dw_luminosity","state":"132","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"Cocina_DW luminosity"},"last_changed":"2024-03-10T14:00:13.913524+00:00","last_updated":"2024-03-10T14:00:13.913524+00:00","context":{"id":"01HRMAM0ASP1212FTD7564104E","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 296,
+        "native_value": 132,
         "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.cocina_dw_temperature","state":"18.8","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Cocina_DW temperature"},"last_changed":"2024-03-10T12:49:43.310244+00:00","last_updated":"2024-03-10T12:49:43.310244+00:00","context":{"id":"01HRM6JWWEHKM1147D8HKH6799","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.cocina_dw_temperature","state":"18.8","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Cocina_DW temperature"},"last_changed":"2024-03-10T13:51:55.224611+00:00","last_updated":"2024-03-10T13:51:55.224611+00:00","context":{"id":"01HRMA4SAR7RV0X33XX0FKBS0C","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": 18.8,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.cocina_dw_battery","state":"94","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"Cocina_DW battery"},"last_changed":"2024-03-10T12:49:43.310968+00:00","last_updated":"2024-03-10T12:49:43.310968+00:00","context":{"id":"01HRM6JWWERJ2AT9RVEKY87HXT","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.cocina_dw_battery","state":"93","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"Cocina_DW battery"},"last_changed":"2024-03-10T13:11:27.511644+00:00","last_updated":"2024-03-10T13:11:27.511644+00:00","context":{"id":"01HRM7TPGQRJ2AT9RVEKY87HXT","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 94,
+        "native_value": 93,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.cristalera_dw_luminosity","state":"0","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"Cristalera_DW luminosity"},"last_changed":"2024-03-10T12:49:43.312377+00:00","last_updated":"2024-03-10T12:49:43.312377+00:00","context":{"id":"01HRM6JWWG1B5TQRP1CB9W4WJK","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.cristalera_dw_luminosity","state":"0","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"Cristalera_DW luminosity"},"last_changed":"2024-03-10T13:11:27.512348+00:00","last_updated":"2024-03-10T13:11:27.512348+00:00","context":{"id":"01HRM7TPGR1B5TQRP1CB9W4WJK","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": 0,
         "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.cristalera_dw_temperature","state":"12.2","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Cristalera_DW temperature"},"last_changed":"2024-03-10T12:49:43.313263+00:00","last_updated":"2024-03-10T12:49:43.313263+00:00","context":{"id":"01HRM6JWWH33Z3RA4G5DPFEFWA","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.cristalera_dw_temperature","state":"13.8","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Cristalera_DW temperature"},"last_changed":"2024-03-10T13:12:56.600344+00:00","last_updated":"2024-03-10T13:12:56.600344+00:00","context":{"id":"01HRM7XDGRAYPRWPW7RSTA77VJ","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 12.2,
+        "native_value": 13.8,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.cristalera_dw_battery","state":"100","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"Cristalera_DW battery"},"last_changed":"2024-03-10T12:49:43.313832+00:00","last_updated":"2024-03-10T12:49:43.313832+00:00","context":{"id":"01HRM6JWWH4420ZKSC5D22KBGD","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.cristalera_dw_battery","state":"100","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"Cristalera_DW battery"},"last_changed":"2024-03-10T13:11:27.513242+00:00","last_updated":"2024-03-10T13:11:27.513242+00:00","context":{"id":"01HRM7TPGS4420ZKSC5D22KBGD","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": 100,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"switch.vamos_a_estar","state":"unknown","attributes":{"device_class":"switch","friendly_name":"vamos_a_estar"},"last_changed":"2024-03-10T12:49:43.334041+00:00","last_updated":"2024-03-10T12:49:43.334041+00:00","context":{"id":"01HRM6JWX6RHV6A0MYYMPGSVKC","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"switch.vamos_a_estar","state":"unknown","attributes":{"device_class":"switch","friendly_name":"vamos_a_estar"},"last_changed":"2024-03-10T13:11:27.523410+00:00","last_updated":"2024-03-10T13:11:27.523410+00:00","context":{"id":"01HRM7TPH3RHV6A0MYYMPGSVKC","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"event.salon_rgb","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"Salon_RGB"},"last_changed":"2024-03-10T12:49:43.900424+00:00","last_updated":"2024-03-10T12:49:43.900424+00:00","context":{"id":"01HRM6JXEW995MPCRRT2561S1Q","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": null,
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.library_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Library_w_1 Reboot"},"last_changed":"2024-03-10T12:49:43.972465+00:00","last_updated":"2024-03-10T12:49:43.972465+00:00","context":{"id":"01HRM6JXH41R1SW29RCV9P9V55","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"button.dormitorio_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_W_1 Reboot"},"last_changed":"2024-03-10T13:11:28.454331+00:00","last_updated":"2024-03-10T13:11:28.454331+00:00","context":{"id":"01HRM7TQE6DHN60TY0R3JCESVB","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"event.library_w_1","state":"2024-03-10T09:28:40.007+00:00","attributes":{"event_types":["single","long"],"event_type":"single","device_class":"button","friendly_name":"Library_w_1"},"last_changed":"2024-03-10T12:49:43.973897+00:00","last_updated":"2024-03-10T12:49:43.973897+00:00","context":{"id":"01HRM6JXH5MQM2YJ0D5KECJZ3G","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"event.dorm_sa_luz_vest","state":"2024-03-10T11:52:40.528+00:00","attributes":{"event_types":["long","single"],"event_type":"single","device_class":"button","friendly_name":"dorm_Sa_luz_vest"},"last_changed":"2024-03-10T13:11:28.621532+00:00","last_updated":"2024-03-10T13:11:28.621532+00:00","context":{"id":"01HRM7TQKDWJN92SD4C2Z4V0SK","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": "single",
         "last_event_attributes": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"button.salon_rgb_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_RGB Reboot"},"last_changed":"2024-03-10T12:49:43.990346+00:00","last_updated":"2024-03-10T12:49:43.990346+00:00","context":{"id":"01HRM6JXHPAASNE33RX7E0AYK8","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.dormitorio_rgb_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_RGB Reboot"},"last_changed":"2024-03-10T12:49:43.995932+00:00","last_updated":"2024-03-10T12:49:43.995932+00:00","context":{"id":"01HRM6JXHV82BCBFYKQS6KX4X3","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"event.dormitorio_rgb","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"Dormitorio_RGB"},"last_changed":"2024-03-10T12:49:43.999348+00:00","last_updated":"2024-03-10T12:49:43.999348+00:00","context":{"id":"01HRM6JXHZ4QD4XFVS0Q9G76FD","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"event.dorm_sb_vir_luz","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"dorm_Sb_vir_luz"},"last_changed":"2024-03-10T13:11:28.623346+00:00","last_updated":"2024-03-10T13:11:28.623346+00:00","context":{"id":"01HRM7TQKF7JMNVVHBY5HPTTX0","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"button.dorm_luz_cama_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"DORM_LUZ_CAMA Reboot"},"last_changed":"2024-03-10T12:49:44.007994+00:00","last_updated":"2024-03-10T12:49:44.007994+00:00","context":{"id":"01HRM6JXJ74C0D5XZB56G9BKC7","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"button.library_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Library_w_1 Reboot"},"last_changed":"2024-03-10T13:11:28.652544+00:00","last_updated":"2024-03-10T13:11:28.652544+00:00","context":{"id":"01HRM7TQMCVT7HCAY25VY4X3Q1","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"event.dorm_luz_cama","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"DORM_LUZ_CAMA"},"last_changed":"2024-03-10T12:49:44.010565+00:00","last_updated":"2024-03-10T12:49:44.010565+00:00","context":{"id":"01HRM6JXJATCB99VDCCA14M10T","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": null,
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.dormitorio_v_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_V_1 Reboot"},"last_changed":"2024-03-10T12:49:44.016060+00:00","last_updated":"2024-03-10T12:49:44.016060+00:00","context":{"id":"01HRM6JXJGG2ABEKPGX0EVHKQR","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"event.dormitorio_v_1","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"Dormitorio_V_1"},"last_changed":"2024-03-10T12:49:44.018600+00:00","last_updated":"2024-03-10T12:49:44.018600+00:00","context":{"id":"01HRM6JXJJYQSFKJ7AWQS8PZ60","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": null,
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.salon_w_p_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_W_P_1 Reboot"},"last_changed":"2024-03-10T12:49:44.023235+00:00","last_updated":"2024-03-10T12:49:44.023235+00:00","context":{"id":"01HRM6JXJQ2H8DFA9YGM6W1KRJ","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.salon_w_p_2_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_W_P_2 Reboot"},"last_changed":"2024-03-10T12:49:44.027876+00:00","last_updated":"2024-03-10T12:49:44.027876+00:00","context":{"id":"01HRM6JXJVVD8AD4WZEXYVTC2D","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.salon_s_2_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_S_2 Reboot"},"last_changed":"2024-03-10T12:49:44.032572+00:00","last_updated":"2024-03-10T12:49:44.032572+00:00","context":{"id":"01HRM6JXK0PWK41CFF5JCE7E0N","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"event.salo_sa_luz_coci","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"salo_Sa_luz_coci"},"last_changed":"2024-03-10T12:49:44.033719+00:00","last_updated":"2024-03-10T12:49:44.033719+00:00","context":{"id":"01HRM6JXK1MK66CZ3QMM18ASYH","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": null,
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"event.salo_sb_vir_luz","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"salo_Sb_vir_luz"},"last_changed":"2024-03-10T12:49:44.034146+00:00","last_updated":"2024-03-10T12:49:44.034146+00:00","context":{"id":"01HRM6JXK2JX1J6FPPREV590F7","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": null,
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.bano_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Bano_W_1 Reboot"},"last_changed":"2024-03-10T12:49:44.038488+00:00","last_updated":"2024-03-10T12:49:44.038488+00:00","context":{"id":"01HRM6JXK6M4WGZRQBZR7RBRP7","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"event.bano_sa_luz","state":"2024-03-10T09:59:49.022+00:00","attributes":{"event_types":["single","long"],"event_type":"single","device_class":"button","friendly_name":"bano_Sa_luz"},"last_changed":"2024-03-10T12:49:44.039812+00:00","last_updated":"2024-03-10T12:49:44.039812+00:00","context":{"id":"01HRM6JXK7KE49A0G61TKGK4RG","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"event.library_w_1","state":"2024-03-10T09:28:40.007+00:00","attributes":{"event_types":["long","single"],"event_type":"single","device_class":"button","friendly_name":"Library_w_1"},"last_changed":"2024-03-10T13:11:28.653445+00:00","last_updated":"2024-03-10T13:11:28.653445+00:00","context":{"id":"01HRM7TQMDY7YQ637GFCRSMZ3Q","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": "single",
         "last_event_attributes": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"event.bano_sb_vir_luz_vest","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"bano_Sb_vir_luz_vest"},"last_changed":"2024-03-10T12:49:44.040272+00:00","last_updated":"2024-03-10T12:49:44.040272+00:00","context":{"id":"01HRM6JXK8VCNN7ZKA5F1J2ZT5","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"button.salon_w_p_2_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_W_P_2 Reboot"},"last_changed":"2024-03-10T13:11:28.663258+00:00","last_updated":"2024-03-10T13:11:28.663258+00:00","context":{"id":"01HRM7TQMQ2CEWY6WRAZJM5Q7Y","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.salon_s_2_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_S_2 Reboot"},"last_changed":"2024-03-10T13:11:28.692578+00:00","last_updated":"2024-03-10T13:11:28.692578+00:00","context":{"id":"01HRM7TQNME5EYFXHFVMB5KEBQ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.salo_sa_luz_coci","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"salo_Sa_luz_coci"},"last_changed":"2024-03-10T13:11:28.693348+00:00","last_updated":"2024-03-10T13:11:28.693348+00:00","context":{"id":"01HRM7TQNN4TSYYPPG8WK1GM41","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"button.cocina_e_3_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Cocina_E_3 Reboot"},"last_changed":"2024-03-10T12:49:44.044216+00:00","last_updated":"2024-03-10T12:49:44.044216+00:00","context":{"id":"01HRM6JXKC14H7Y605DGC1BWFV","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"event.salo_sb_vir_luz","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"salo_Sb_vir_luz"},"last_changed":"2024-03-10T13:11:28.694144+00:00","last_updated":"2024-03-10T13:11:28.694144+00:00","context":{"id":"01HRM7TQNP8Z53Q73R9KVMGQ2E","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.salon_w_p_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_W_P_1 Reboot"},"last_changed":"2024-03-10T13:11:28.708207+00:00","last_updated":"2024-03-10T13:11:28.708207+00:00","context":{"id":"01HRM7TQP4TE68C7SYEA4PNN81","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"button.salon_e_5_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_E_5 Reboot"},"last_changed":"2024-03-10T12:49:44.048040+00:00","last_updated":"2024-03-10T12:49:44.048040+00:00","context":{"id":"01HRM6JXKGVP78AWWGHJ0KK58P","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"button.cocina_e_3_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Cocina_E_3 Reboot"},"last_changed":"2024-03-10T13:11:28.720335+00:00","last_updated":"2024-03-10T13:11:28.720335+00:00","context":{"id":"01HRM7TQPGZ05MBFH4FV0V2GHH","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_storage","state":"37.87","attributes":{"Available":"8,45 GB","Available (Important)":"29,71 GB","Available (Opportunistic)":"24,23 GB","Total":"63,98 GB","unit_of_measurement":"% available","icon":"mdi:database","friendly_name":"Jan iPad Storage"},"last_changed":"2024-03-10T12:49:44.057888+00:00","last_updated":"2024-03-10T12:49:44.057888+00:00","context":{"id":"01HRM6JXKS95RM37BHNK43BKA9","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"button.dormitorio_w_p_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_W_P Reboot"},"last_changed":"2024-03-10T14:16:05.203657+00:00","last_updated":"2024-03-10T14:16:05.203657+00:00","context":{"id":"01HRMBH1AK00T6XMGYF84SEJKA","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.dormitorio_v_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_V_1 Reboot"},"last_changed":"2024-03-10T13:11:28.743889+00:00","last_updated":"2024-03-10T13:11:28.743889+00:00","context":{"id":"01HRM7TQQ71R1SW29RCV9P9V55","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.dormitorio_v_1","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"Dormitorio_V_1"},"last_changed":"2024-03-10T13:11:28.744746+00:00","last_updated":"2024-03-10T13:11:28.744746+00:00","context":{"id":"01HRM7TQQ8AASNE33RX7E0AYK8","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.dormitorio_rgb_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_RGB Reboot"},"last_changed":"2024-03-10T13:11:28.750920+00:00","last_updated":"2024-03-10T13:11:28.750920+00:00","context":{"id":"01HRM7TQQE8TMSN7NP2J498683","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.dormitorio_rgb","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"Dormitorio_RGB"},"last_changed":"2024-03-10T13:11:28.751720+00:00","last_updated":"2024-03-10T13:11:28.751720+00:00","context":{"id":"01HRM7TQQF82BCBFYKQS6KX4X3","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.salon_e_5_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_E_5 Reboot"},"last_changed":"2024-03-10T13:11:28.758829+00:00","last_updated":"2024-03-10T13:11:28.758829+00:00","context":{"id":"01HRM7TQQP9061K5PCJEEA35HP","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.dorm_luz_cama_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"DORM_LUZ_CAMA Reboot"},"last_changed":"2024-03-10T13:11:28.788358+00:00","last_updated":"2024-03-10T13:11:28.788358+00:00","context":{"id":"01HRM7TQRMVD8AD4WZEXYVTC2D","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.dorm_luz_cama","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"DORM_LUZ_CAMA"},"last_changed":"2024-03-10T13:11:28.789372+00:00","last_updated":"2024-03-10T13:11:28.789372+00:00","context":{"id":"01HRM7TQRNMK66CZ3QMM18ASYH","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.salon_e_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_E_1 Reboot"},"last_changed":"2024-03-10T13:11:28.793708+00:00","last_updated":"2024-03-10T13:11:28.793708+00:00","context":{"id":"01HRM7TQRSM4WGZRQBZR7RBRP7","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.bano_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Bano_W_1 Reboot"},"last_changed":"2024-03-10T13:11:28.807817+00:00","last_updated":"2024-03-10T13:11:28.807817+00:00","context":{"id":"01HRM7TQS795RM37BHNK43BKA9","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.bano_sa_luz","state":"2024-03-10T09:59:49.022+00:00","attributes":{"event_types":["long","single"],"event_type":"single","device_class":"button","friendly_name":"bano_Sa_luz"},"last_changed":"2024-03-10T13:11:28.808914+00:00","last_updated":"2024-03-10T13:11:28.808914+00:00","context":{"id":"01HRM7TQS80SJYK36SFCCNQDDE","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": "single",
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.bano_sb_vir_luz_vest","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"bano_Sb_vir_luz_vest"},"last_changed":"2024-03-10T13:11:28.809944+00:00","last_updated":"2024-03-10T13:11:28.809944+00:00","context":{"id":"01HRM7TQS9P12GG7A1Z27TM0RQ","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"button.salon_rgb_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_RGB Reboot"},"last_changed":"2024-03-10T13:11:29.309495+00:00","last_updated":"2024-03-10T13:11:29.309495+00:00","context":{"id":"01HRM7TR8X52QMV96EB2V4DMBT","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"event.salon_rgb","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"Salon_RGB"},"last_changed":"2024-03-10T13:11:29.312072+00:00","last_updated":"2024-03-10T13:11:29.312072+00:00","context":{"id":"01HRM7TR90CYB2SWJKESW7CBM7","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": null,
+        "last_event_attributes": null
+      },
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.jan_ipad_storage","state":"37.87","attributes":{"Available":"8,45 GB","Available (Important)":"29,71 GB","Available (Opportunistic)":"24,23 GB","Total":"63,98 GB","unit_of_measurement":"% available","icon":"mdi:database","friendly_name":"Jan iPad Storage"},"last_changed":"2024-03-10T14:24:53.584755+00:00","last_updated":"2024-03-10T14:24:53.584755+00:00","context":{"id":"01HRMC15AGFZFBY9TGGG3HQ7RJ","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "37.87",
         "native_unit_of_measurement": "% available"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_battery_level","state":"65","attributes":{"unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-60","friendly_name":"Jan iPad Battery Level"},"last_changed":"2024-03-10T12:49:44.058415+00:00","last_updated":"2024-03-10T12:49:44.058415+00:00","context":{"id":"01HRM6JXKTFFBPQYZGE5M0N1TV","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_battery_level","state":"60","attributes":{"unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-60","friendly_name":"Jan iPad Battery Level"},"last_changed":"2024-03-10T13:11:29.492808+00:00","last_updated":"2024-03-10T13:11:29.492808+00:00","context":{"id":"01HRM7TREMR7KMYT6Y55HMRYYM","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 65,
+        "native_value": 60,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_battery_state","state":"Not Charging","attributes":{"Low Power Mode":false,"icon":"mdi:battery-60","friendly_name":"Jan iPad Battery State"},"last_changed":"2024-03-10T12:49:44.058834+00:00","last_updated":"2024-03-10T12:49:44.058834+00:00","context":{"id":"01HRM6JXKT0SJYK36SFCCNQDDE","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_battery_state","state":"Not Charging","attributes":{"Low Power Mode":false,"icon":"mdi:battery-60","friendly_name":"Jan iPad Battery State"},"last_changed":"2024-03-10T13:11:29.493252+00:00","last_updated":"2024-03-10T13:11:29.493252+00:00","context":{"id":"01HRM7TRENWXBF3PV9135R8WBG","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "Not Charging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_ssid","state":"Not Connected","attributes":{"icon":"mdi:wifi-off","friendly_name":"Jan iPad SSID"},"last_changed":"2024-03-10T12:49:44.059334+00:00","last_updated":"2024-03-10T12:49:44.059334+00:00","context":{"id":"01HRM6JXKVE8023CWXJ9GPFJ1F","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_ssid","state":"Not Connected","attributes":{"icon":"mdi:wifi-off","friendly_name":"Jan iPad SSID"},"last_changed":"2024-03-10T13:11:29.493662+00:00","last_updated":"2024-03-10T13:11:29.493662+00:00","context":{"id":"01HRM7TRENXVZ46691WF2GS5Q4","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "Not Connected",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_bssid","state":"Not Connected","attributes":{"icon":"mdi:wifi-off","friendly_name":"Jan iPad BSSID"},"last_changed":"2024-03-10T12:49:44.059786+00:00","last_updated":"2024-03-10T12:49:44.059786+00:00","context":{"id":"01HRM6JXKVP12GG7A1Z27TM0RQ","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_bssid","state":"Not Connected","attributes":{"icon":"mdi:wifi-off","friendly_name":"Jan iPad BSSID"},"last_changed":"2024-03-10T13:11:29.494075+00:00","last_updated":"2024-03-10T13:11:29.494075+00:00","context":{"id":"01HRM7TREPEHCCVH61NKPJBY3A","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "Not Connected",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_geocoded_location","state":"Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña","attributes":{"Administrative Area":"Granada","Areas Of Interest":"N/A","Country":"España","Inland Water":"N/A","ISO Country Code":"ES","Locality":"Granada","Location":[37.180473822046196,-3.6047434615875558],"Name":"Calle de Luis de Mármol Carvajal, 4","Ocean":"N/A","Postal Code":"18001","Sub Administrative Area":"N/A","Sub Locality":"Centro","Sub Thoroughfare":"4","Thoroughfare":"Calle de Luis de Mármol Carvajal","Time Zone":"Europe/Madrid","Zones":["Piso"],"icon":"mdi:map","friendly_name":"Jan iPad Geocoded Location"},"last_changed":"2024-03-10T12:49:44.060194+00:00","last_updated":"2024-03-10T12:49:44.060194+00:00","context":{"id":"01HRM6JXKW0W57VWCPAXPTZCS4","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_geocoded_location","state":"Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña","attributes":{"Administrative Area":"Granada","Areas Of Interest":"N/A","Country":"España","Inland Water":"N/A","ISO Country Code":"ES","Locality":"Granada","Location":[37.180473822046196,-3.6047434615875558],"Name":"Calle de Luis de Mármol Carvajal, 4","Ocean":"N/A","Postal Code":"18001","Sub Administrative Area":"N/A","Sub Locality":"Centro","Sub Thoroughfare":"4","Thoroughfare":"Calle de Luis de Mármol Carvajal","Time Zone":"Europe/Madrid","Zones":["Piso"],"icon":"mdi:map","friendly_name":"Jan iPad Geocoded Location"},"last_changed":"2024-03-10T13:11:29.494499+00:00","last_updated":"2024-03-10T13:11:29.494499+00:00","context":{"id":"01HRM7TREPZBGW1V5Y5FTRQBV7","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "Calle de Luis de Mármol Carvajal, 4\n18001 Granada Granada\nEspaña",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_last_update_trigger","state":"Background Fetch","attributes":{"icon":"mdi:cellphone-wireless","friendly_name":"Jan iPad Last Update Trigger"},"last_changed":"2024-03-10T12:49:44.060614+00:00","last_updated":"2024-03-10T12:49:44.060614+00:00","context":{"id":"01HRM6JXKWBWK290ETR8A3RAPX","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_last_update_trigger","state":"Periodic","attributes":{"icon":"mdi:cellphone-wireless","friendly_name":"Jan iPad Last Update Trigger"},"last_changed":"2024-03-10T13:11:29.494959+00:00","last_updated":"2024-03-10T13:11:29.494959+00:00","context":{"id":"01HRM7TREPZJFPCG5RH0JQZ5DV","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "Background Fetch",
+        "native_value": "Periodic",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"sensor.jan_ipad_connection_type","state":"Wi-Fi","attributes":{"icon":"mdi:wifi","friendly_name":"Jan iPad Connection Type"},"last_changed":"2024-03-10T12:49:44.061019+00:00","last_updated":"2024-03-10T12:49:44.061019+00:00","context":{"id":"01HRM6JXKXDFDJ6X7RCNPRJ4BG","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.jan_ipad_connection_type","state":"Wi-Fi","attributes":{"icon":"mdi:wifi","friendly_name":"Jan iPad Connection Type"},"last_changed":"2024-03-10T13:11:29.495413+00:00","last_updated":"2024-03-10T13:11:29.495413+00:00","context":{"id":"01HRM7TREQCM5H8CYFTVGBVZ6T","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "Wi-Fi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"button.salon_e_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Salon_E_1 Reboot"},"last_changed":"2024-03-10T12:49:44.062124+00:00","last_updated":"2024-03-10T12:49:44.062124+00:00","context":{"id":"01HRM6JXKYM0CQP7RB29V7HGHA","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"button.cristalera_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Cristalera_W_1 Reboot"},"last_changed":"2024-03-10T13:11:30.642227+00:00","last_updated":"2024-03-10T13:11:30.642227+00:00","context":{"id":"01HRM7TSJJVF60KMA65CT0TCKG","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
-      "state": {"entity_id":"button.dormitorio_w_p_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_W_P Reboot"},"last_changed":"2024-03-10T12:49:44.065283+00:00","last_updated":"2024-03-10T12:49:44.065283+00:00","context":{"id":"01HRM6JXM1KMHN1GD45J2BJT5F","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.cristalera_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Cristalera_W_1 Reboot"},"last_changed":"2024-03-10T12:49:44.373597+00:00","last_updated":"2024-03-10T12:49:44.373597+00:00","context":{"id":"01HRM6JXXN52QMV96EB2V4DMBT","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"event.cristalera_w_1","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"Cristalera_W_1"},"last_changed":"2024-03-10T12:49:44.374288+00:00","last_updated":"2024-03-10T12:49:44.374288+00:00","context":{"id":"01HRM6JXXPE1QSXG9J8FPVDZAQ","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"event.cristalera_w_1","state":"unknown","attributes":{"event_types":["long","single"],"event_type":null,"device_class":"button","friendly_name":"Cristalera_W_1"},"last_changed":"2024-03-10T13:11:30.644142+00:00","last_updated":"2024-03-10T13:11:30.644142+00:00","context":{"id":"01HRM7TSJM13TH0J9YEF7YJS6Y","parent_id":null,"user_id":null}},
       "extra_data": {
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2024-03-10T12:49:46.123177+00:00"
-    },
-    {
-      "state": {"entity_id":"button.dormitorio_w_1_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_W_1 Reboot"},"last_changed":"2024-03-10T12:16:41.657224+00:00","last_updated":"2024-03-10T12:16:41.657224+00:00","context":{"id":"01HRM4PDNS4JAX7TJPN2MT7SHY","parent_id":null,"user_id":null}},
-      "extra_data": null,
-      "last_seen": "2024-03-10T12:47:38.973268+00:00"
-    },
-    {
-      "state": {"entity_id":"event.dorm_sa_luz_vest","state":"2024-03-10T11:52:40.528+00:00","attributes":{"event_types":["single","long"],"event_type":"single","device_class":"button","friendly_name":"dorm_Sa_luz_vest"},"last_changed":"2024-03-10T12:16:41.657946+00:00","last_updated":"2024-03-10T12:16:41.657946+00:00","context":{"id":"01HRM4PDNS9061K5PCJEEA35HP","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": "single",
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:47:38.973268+00:00"
-    },
-    {
-      "state": {"entity_id":"event.dorm_sb_vir_luz","state":"unknown","attributes":{"event_types":["single","long"],"event_type":null,"device_class":"button","friendly_name":"dorm_Sb_vir_luz"},"last_changed":"2024-03-10T12:16:41.658487+00:00","last_updated":"2024-03-10T12:16:41.658487+00:00","context":{"id":"01HRM4PDNTHYEWTESHSQKEBPSX","parent_id":null,"user_id":null}},
-      "extra_data": {
-        "last_event_type": null,
-        "last_event_attributes": null
-      },
-      "last_seen": "2024-03-10T12:47:38.973268+00:00"
+      "last_seen": "2024-03-10T14:26:30.365540+00:00"
     },
     {
       "state": {"entity_id":"button.shellyswitch25_8caab561e73a_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Dormitorio_W_P Reboot"},"last_changed":"2024-03-10T10:02:29.445388+00:00","last_updated":"2024-03-10T10:02:29.445388+00:00","context":{"id":"01HRKX0P65182FTFNVNE7EHXHK","parent_id":null,"user_id":null}},
