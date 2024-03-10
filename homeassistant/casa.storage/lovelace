@@ -11,10 +11,10 @@
           "title": "Home",
           "cards": [
             {
+              "type": "glance",
               "show_name": true,
               "show_icon": true,
               "show_state": false,
-              "type": "glance",
               "state_color": true,
               "entities": [
                 {
