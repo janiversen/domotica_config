@@ -164,10 +164,6 @@
                 {
                   "entity": "sensor.sun_next_setting",
                   "name": "atardecer"
-                },
-                {
-                  "entity": "sensor.sun_next_noon",
-                  "name": "Luna llena"
                 }
               ],
               "title": "Sol"

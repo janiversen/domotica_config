@@ -27,12 +27,26 @@ jan_ipad_casa:
   picture:
   track: true
 
+jan_ipad_piso:
+  name: Jan-iPad
+  mac: 8A:FC:2E:33:7A:EA
+  icon:
+  picture:
+  track: false
+
 jan_iphone_casa:
   name: Jan-iPhone
   mac: D6:D9:FC:EF:7A:D4
   icon:
   picture:
   track: true
+
+jan_iphone_piso:
+  name: Jan-iPhone
+  mac: 4A:7C:D9:98:2B:C4
+  icon:
+  picture:
+  track: false
 
 belen_ipad_casa:
   name: Belen-iPad
@@ -321,6 +335,13 @@ cocina_e_3:
   picture:
   track: false
 
+piso_television:
+  name: piso_television
+  mac: DC:03:98:E3:E5:FE
+  icon:
+  picture:
+  track: false
+
 UNKNOWN_1:
   name: UNKNOWN_1
   mac: 00:00:CA:11:22:33
@@ -342,10 +363,10 @@ UNKNOWN_3:
   picture:
   track: false
 
-
-piso_television:
-  name: piso_television
-  mac: DC:03:98:E3:E5:FE
+UNKNOWN_4:
+  name: UNKNOWN_4
+  mac: 9E:B5:A2:FC:DE:72
   icon:
   picture:
   track: false
+
