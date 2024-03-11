@@ -20,9 +20,44 @@ ipcam:
   picture:
   track: false
 
-jan_ipad:
+jan_ipad_casa:
   name: Jan-iPad
   mac: 0A:5E:DE:6B:5E:FE
+  icon:
+  picture:
+  track: true
+
+jan_iphone_casa:
+  name: Jan-iPhone
+  mac: D6:D9:FC:EF:7A:D4
+  icon:
+  picture:
+  track: true
+
+belen_ipad_casa:
+  name: Belen-iPad
+  mac: FE:B3:8D:23:4E:13
+  icon:
+  picture:
+  track: true
+
+belen_ipad_piso:
+  name: Belen-iPad
+  mac: 12:5A:BB:ED:E6:C4
+  icon:
+  picture:
+  track: true
+
+belen_iphone_casa:
+  name: Belen-iPhone
+  mac: 76:39:0E:76:55:61
+  icon:
+  picture:
+  track: true
+
+belen_iphone_piso:
+  name: Belen-iPhone
+  mac: 7E:CB:1C:F9:48:41
   icon:
   picture:
   track: true
@@ -118,20 +153,6 @@ shelly_casita_door:
   picture:
   track: false
 
-belen_iphone:
-  name: Belen-iPhone
-  mac: 76:39:0E:76:55:61
-  icon:
-  picture:
-  track: true
-
-belen_ipad:
-  name: Belen-iPad
-  mac: FE:B3:8D:23:4E:13
-  icon:
-  picture:
-  track: true
-
 casa_television:
   name: casa_television
   mac: 70:2A:D5:D7:56:DB
@@ -146,16 +167,185 @@ thermomix:
   picture:
   track: false
 
-jan_iphone:
-  name: Jan-iPhone
-  mac: D6:D9:FC:EF:7A:D4
+dormitorio_w_3:
+  name: Dormitorio_W_3
+  mac: 08:3A:F2:00:9D:D0
   icon:
   picture:
-  track: true
+  track: false
+
+salon_w_1:
+  name: Salon_W_1
+  mac: 08:3A:F2:00:B0:14
+  icon:
+  picture:
+  track: false
+
+dormitorio_w_4:
+  name: Dormitorio_W_4
+  mac: 08:3A:F2:01:20:7C
+  icon:
+  picture:
+  track: false
+
+dormitorio_w_2:
+  name: Dormitorio_W_2
+  mac: 08:3A:F2:01:22:2C
+  icon:
+  picture:
+  track: false
+
+bano_w_1:
+  name: Bano_W_1
+  mac: 8C:AA:B5:61:E7:8F
+  icon:
+  picture:
+  track: false
+
+domotica:
+  name: domotica
+  mac: E4:5F:01:11:29:9D
+  icon:
+  picture:
+  track: false
+
+salon_w_p_1:
+  name: Salon_W_P_1
+  mac: 34:94:54:6A:10:53
+  icon:
+  picture:
+  track: false
+
+salon_w_2:
+  name: Salon_W_2
+  mac: 08:3A:F2:00:E8:D0
+  icon:
+  picture:
+  track: false
+
+dormitorio_rgb:
+  name: Dormitorio_RGB
+  mac: BC:FF:4D:4A:57:2B
+  icon:
+  picture:
+  track: false
+
+dormitorio_w_p:
+  name: Dormitorio_W_P
+  mac: 8C:AA:B5:61:E7:3A
+  icon:
+  picture:
+  track: false
+
+salon_s_2:
+  name: Salon_S_2
+  mac: E8:DB:84:A2:19:98
+  icon:
+  picture:
+  track: false
+
+salon_e_1:
+  name: Salon_E_1
+  mac: E8:68:E7:86:DD:E2
+  icon:
+  picture:
+  track: false
+
+dormitorio_v_1:
+  name: Dormitorio_V_1
+  mac: E8:DB:84:D3:30:51
+  icon:
+  picture:
+  track: false
+
+salon_e_5:
+  name: Salon_E_5
+  mac: 8C:AA:B5:5F:43:9F
+  icon:
+  picture:
+  track: false
+
+libraria_w_1:
+  name: Libraria_W_1
+  mac: E8:DB:84:D3:ED:4D
+  icon:
+  picture:
+  track: false
+
+dormitorio_w_1:
+  name: Dormitorio_W_1
+  mac: 8C:AA:B5:61:E6:A9
+  icon:
+  picture:
+  track: false
+
+cristalera_w_1:
+  name: Cristalera_W_1
+  mac: E8:68:E7:86:F2:D7
+  icon:
+  picture:
+  track: false
+
+dorm_cama_luz:
+  name: Dorm_cama_luz
+  mac: E8:DB:84:D4:A4:6B
+  icon:
+  picture:
+  track: false
+
+salon_w_p_2:
+  name: Salon_W_P_2
+  mac: 8C:AA:B5:61:E7:3C
+  icon:
+  picture:
+  track: false
+
+fc_d2_b6_ad_d3_12:
+  name: fc_d2_b6_ad_d3_12
+  mac: FC:D2:B6:AD:D3:12
+  icon:
+  picture:
+  track: false
+
+salon_rgb:
+  name: Salon_RGB
+  mac: BC:FF:4D:4B:02:4D
+  icon:
+  picture:
+  track: false
+
+cocina_e_3:
+  name: Cocina_E_3
+  mac: E8:DB:84:A2:85:0E
+  icon:
+  picture:
+  track: false
 
 UNKNOWN_1:
   name: UNKNOWN_1
   mac: 00:00:CA:11:22:33
+  icon:
+  picture:
+  track: false
+
+UNKNOWN_2:
+  name: UNKNOWN_2
+  mac: AA:FF:E0:4A:BF:67
+  icon:
+  picture:
+  track: false
+
+UNKNOWN_3:
+  name: UNKNOWN_3
+  mac: 9C:6F:52:D3:C6:9F
+  icon:
+  picture:
+  track: false
+
+
+piso_television:
+  name: piso_television
+  mac: DC:03:98:E3:E5:FE
   icon:
   picture:
   track: false

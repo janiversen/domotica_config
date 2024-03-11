@@ -264,6 +264,50 @@
         "source": "user",
         "unique_id": "jancasacondor@gmail.com",
         "disabled_by": null
+      },
+      {
+        "entry_id": "6a0008e6522780a10a9a120266b1de54",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "dlna_dmr",
+        "title": "[TV] Samsung 7 Series (40)",
+        "data": {
+          "url": "http://192.168.10.17:9197/dmr",
+          "device_id": "uuid:fcceb520-5e68-42a3-b508-f031025e3732",
+          "type": "urn:schemas-upnp-org:device:MediaRenderer:1",
+          "mac": "70:2a:d5:d7:56:db"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:fcceb520-5e68-42a3-b508-f031025e3732",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1bfd21675e2d2db97f6f82fcd64960f2",
+        "version": 2,
+        "minor_version": 1,
+        "domain": "samsungtv",
+        "title": "Samsung 7 Series (40) (UE40NU7125)",
+        "data": {
+          "host": "192.168.10.17",
+          "mac": "70:2a:d5:d7:56:db",
+          "manufacturer": "Samsung",
+          "method": "websocket",
+          "model": "UE40NU7125",
+          "name": "Samsung 7 Series (40)",
+          "port": 8002,
+          "ssdp_rendering_control_location": "http://192.168.10.17:9197/dmr",
+          "ssdp_main_tv_agent_location": null,
+          "token": "89737395"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "da0ad778-e937-4637-8a65-ba764f9edd4c",
+        "disabled_by": null
       }
     ]
   }

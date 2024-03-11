@@ -13,9 +13,6 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "device_tracker.shelly_flood"
-                },
-                {
                   "entity": "sensor.shelly_flood_battery"
                 },
                 {
@@ -30,9 +27,6 @@
             {
               "type": "entities",
               "entities": [
-                {
-                  "entity": "device_tracker.shelly_door"
-                },
                 {
                   "entity": "sensor.shelly_door_battery"
                 },
@@ -59,9 +53,6 @@
                 },
                 {
                   "entity": "button.shelly_floor_lamp_reboot"
-                },
-                {
-                  "entity": "device_tracker.shelly_lamp"
                 }
               ],
               "title": "Shelly-floor (lamp salon)"
@@ -110,9 +101,6 @@
                 },
                 {
                   "entity": "switch.vamos_a_estar"
-                },
-                {
-                  "entity": "device_tracker.shelly_calentador"
                 },
                 {
                   "entity": "button.calentador_reboot"
@@ -473,18 +461,6 @@
               "type": "entities",
               "entities": [
                 {
-                  "entity": "device_tracker.jan_ipad_2"
-                },
-                {
-                  "entity": "device_tracker.macmini"
-                }
-              ],
-              "title": "Trackers"
-            },
-            {
-              "type": "entities",
-              "entities": [
-                {
                   "entity": "sensor.jan_ipad_battery_level",
                   "name": "Battery Level"
                 },
@@ -517,7 +493,7 @@
                   "name": "Storage"
                 },
                 {
-                  "entity": "device_tracker.jan_ipad_2"
+                  "entity": "device_tracker.jan_ipad_casa"
                 }
               ],
               "title": "Jan iPad"
@@ -542,6 +518,28 @@
                 }
               ],
               "title": "Sun"
+            },
+            {
+              "type": "grid",
+              "square": false,
+              "columns": 1,
+              "cards": [
+                {
+                  "type": "entities",
+                  "entities": [
+                    "remote.samsung_7_series_40"
+                  ],
+                  "title": "Samsung 7 Series (40)"
+                },
+                {
+                  "type": "media-control",
+                  "entity": "media_player.tv_samsung_7_series_40"
+                },
+                {
+                  "type": "media-control",
+                  "entity": "media_player.samsung_7_series_40"
+                }
+              ]
             }
           ]
         }

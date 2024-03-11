@@ -1,0 +1,18 @@
+#
+# https://www.home-assistant.io/integrations/openwrt/
+#
+device_tracker:
+  - platform: luci
+    host: 192.168.10.1
+    username: root
+    password: passme
+    consider_home: 300
+    new_device_defaults:
+      track_new_devices: false
+  - platform: luci
+    host: 192.168.20.1
+    username: root
+    password: passme
+    consider_home: 300
+    new_device_defaults:
+      track_new_devices: false
