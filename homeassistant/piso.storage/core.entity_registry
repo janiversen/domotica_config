@@ -5699,7 +5699,7 @@
         "entity_category": null,
         "entity_id": "switch.library_w_1",
         "hidden_by": null,
-        "icon": null,
+        "icon": "mdi:ceiling-light",
         "id": "13c2bcd6260dbf5b08d767cfda4b7624",
         "has_entity_name": false,
         "name": null,

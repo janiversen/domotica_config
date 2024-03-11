@@ -349,6 +349,13 @@ salon_dw:
   picture:
   track: false
 
+cristalera_dw:
+  name: Cristalera_DW
+  mac: C4:5B:BE:6C:3A:F3
+  icon:
+  picture:
+  track: false
+
 UNKNOWN_1:
   name: UNKNOWN_1
   mac: 00:00:CA:11:22:33
