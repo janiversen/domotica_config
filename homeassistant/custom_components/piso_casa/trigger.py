@@ -13,10 +13,12 @@ class triggers:
 
     last_switch = None
     hass = None
+    is_casa = False
 
     def __init__(self, hass, casa):
         """Prepare class"""
         self.hass = hass
+        self.is_casa = casa["casa"]
         async_track_state_change_event(
             hass, ["switch.calentador"], self.async_track_boiler
         )

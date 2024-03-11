@@ -11,7 +11,6 @@ async def async_setup(hass, _config):
     """Prepare piso/casa automations."""
     _LOGGER.setLevel("DEBUG")
     _LOGGER.debug("Piso/Casa automation starting")
-    _LOGGER.debug(f"JAN --> {_config}")
     casa = _config[DOMAIN]
     hass.data[DOMAIN] = casa
     hass.async_create_task(
