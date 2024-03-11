@@ -478,6 +478,31 @@
         "serial_number": null,
         "sw_version": "20230913-112234/v1.14.0-gcb84623",
         "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "92ead64a1bc988b18e0b49c191709d6f"
+        ],
+        "configuration_url": "http://192.168.20.119",
+        "connections": [
+          [
+            "mac",
+            "c4:5b:be:6a:ab:3f"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen1 (SHDW-2)",
+        "id": "38415a15748b1a34e1fe0c89147f3d81",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "Shelly Door/Window 2",
+        "name_by_user": null,
+        "name": "Salon_DW",
+        "serial_number": null,
+        "sw_version": "",
+        "via_device_id": null
       }
     ],
     "deleted_devices": []

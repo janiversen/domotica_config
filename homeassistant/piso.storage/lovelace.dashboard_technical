@@ -530,6 +530,27 @@
                   "entity": "automation.battery_door"
                 }
               ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "binary_sensor.salon_dw_door",
+                  "name": "Door"
+                },
+                {
+                  "entity": "sensor.salon_dw_luminosity",
+                  "name": "Luminosity"
+                },
+                {
+                  "entity": "sensor.salon_dw_temperature",
+                  "name": "Temperature"
+                },
+                {
+                  "entity": "sensor.salon_dw_battery"
+                }
+              ],
+              "title": "Salon_DW"
             }
           ]
         }

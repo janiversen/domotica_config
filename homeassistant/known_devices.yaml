@@ -342,6 +342,13 @@ piso_television:
   picture:
   track: false
 
+salon_dw:
+  name: Salon_DW
+  mac: C4:5B:BE:6A:AB:3F
+  icon:
+  picture:
+  track: false
+
 UNKNOWN_1:
   name: UNKNOWN_1
   mac: 00:00:CA:11:22:33
@@ -369,4 +376,3 @@ UNKNOWN_4:
   icon:
   picture:
   track: false
-

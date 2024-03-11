@@ -34,10 +34,6 @@
                 {
                   "entity": "sensor.sun_next_setting",
                   "name": "atardecer"
-                },
-                {
-                  "entity": "sensor.sun_next_noon",
-                  "name": "Luna llena"
                 }
               ],
               "title": "Sol"
@@ -45,9 +41,13 @@
             {
               "show_name": true,
               "show_icon": true,
-              "show_state": true,
+              "show_state": false,
               "type": "glance",
               "entities": [
+                {
+                  "entity": "binary_sensor.salon_dw_door",
+                  "name": "Entrada"
+                },
                 {
                   "entity": "binary_sensor.cocina_dw_door",
                   "name": "Cocina"
