@@ -145,13 +145,6 @@
               ]
             },
             {
-              "show_current": true,
-              "show_forecast": true,
-              "type": "weather-forecast",
-              "entity": "weather.aemet",
-              "forecast_type": "daily"
-            },
-            {
               "show_name": true,
               "show_icon": true,
               "show_state": true,
@@ -184,6 +177,23 @@
                   ]
                 }
               ]
+            },
+            {
+              "show_current": true,
+              "show_forecast": true,
+              "type": "weather-forecast",
+              "entity": "weather.ilecrn2",
+              "forecast_type": "daily",
+              "name": "Casa",
+              "secondary_info_attribute": "wind_speed"
+            },
+            {
+              "show_current": true,
+              "show_forecast": true,
+              "type": "weather-forecast",
+              "entity": "weather.aemet",
+              "forecast_type": "daily",
+              "name": "Piso"
             }
           ]
         }

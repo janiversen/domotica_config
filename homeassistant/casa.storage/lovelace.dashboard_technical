@@ -325,11 +325,6 @@
               "title": "WH2650A"
             },
             {
-              "type": "weather-forecast",
-              "entity": "weather.aemet",
-              "show_forecast": false
-            },
-            {
               "type": "entities",
               "entities": [
                 {
@@ -540,6 +535,11 @@
                   "entity": "media_player.samsung_7_series_40"
                 }
               ]
+            },
+            {
+              "type": "weather-forecast",
+              "entity": "weather.ilecrn2",
+              "forecast_type": "daily"
             }
           ]
         }
