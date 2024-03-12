@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.test_device_tracking",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "device_tracker.belen_ipad_casa",
+                  "name": "Belen Casa"
+                },
+                {
+                  "entity": "device_tracker.belen_ipad_piso",
+                  "name": "Belen Piso"
+                },
+                {
+                  "entity": "device_tracker.jan_ipad_casa",
+                  "name": "Jan Casa"
+                },
+                {
+                  "entity": "device_tracker.jan_ipad_piso",
+                  "name": "Jan Piso"
+                },
+                {
+                  "entity": "person.jan"
+                },
+                {
+                  "entity": "person.belen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

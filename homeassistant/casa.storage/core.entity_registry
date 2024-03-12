@@ -4614,13 +4614,13 @@
         "options": {},
         "original_device_class": "temperature",
         "original_icon": "mdi:thermometer",
-        "original_name": "Pronóstico de temperatura Hoy",
+        "original_name": "Pronóstico de temperatura Hoy caducó",
         "platform": "wundergroundpws",
         "supported_features": 0,
         "translation_key": null,
         "unique_id": "ilecrn2,temperature_0fdp",
         "previous_unique_id": null,
-        "unit_of_measurement": "°C"
+        "unit_of_measurement": ""
       },
       {
         "aliases": [],
@@ -4640,13 +4640,13 @@
         "options": {},
         "original_device_class": null,
         "original_icon": "mdi:gauge",
-        "original_name": "Resumen de pronóstico Hoy",
+        "original_name": "Resumen de pronóstico Hoy caducó",
         "platform": "wundergroundpws",
         "supported_features": 0,
         "translation_key": null,
         "unique_id": "ilecrn2,narrative_0fdp",
         "previous_unique_id": null,
-        "unit_of_measurement": null
+        "unit_of_measurement": ""
       },
       {
         "aliases": [],
@@ -4666,13 +4666,13 @@
         "options": {},
         "original_device_class": "wind_speed",
         "original_icon": "mdi:weather-windy",
-        "original_name": "Viento medio Hoy",
+        "original_name": "Viento medio Hoy caducó",
         "platform": "wundergroundpws",
         "supported_features": 0,
         "translation_key": null,
         "unique_id": "ilecrn2,windspeed_0fdp",
         "previous_unique_id": null,
-        "unit_of_measurement": "km/h"
+        "unit_of_measurement": ""
       },
       {
         "aliases": [],
@@ -4692,13 +4692,13 @@
         "options": {},
         "original_device_class": "precipitation",
         "original_icon": "mdi:umbrella",
-        "original_name": "Cantidad de precipitación Hoy",
+        "original_name": "Cantidad de precipitación Hoy caducó",
         "platform": "wundergroundpws",
         "supported_features": 0,
         "translation_key": null,
         "unique_id": "ilecrn2,qpf_0fdp",
         "previous_unique_id": null,
-        "unit_of_measurement": "mm"
+        "unit_of_measurement": ""
       },
       {
         "aliases": [],
@@ -4718,13 +4718,13 @@
         "options": {},
         "original_device_class": null,
         "original_icon": "mdi:umbrella",
-        "original_name": "Probabilidad de precipitación Hoy",
+        "original_name": "Probabilidad de precipitación Hoy caducó",
         "platform": "wundergroundpws",
         "supported_features": 0,
         "translation_key": null,
         "unique_id": "ilecrn2,precipchance_0fdp",
         "previous_unique_id": null,
-        "unit_of_measurement": "%"
+        "unit_of_measurement": ""
       },
       {
         "aliases": [],

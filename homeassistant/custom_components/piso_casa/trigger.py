@@ -1,5 +1,6 @@
 import asyncio
 from datetime import datetime
+from functools import partial
 
 from homeassistant.core import callback
 from homeassistant.helpers.event import (
@@ -11,21 +12,34 @@ from .base import _LOGGER
 class triggers:
     """Handle triggers without sensor."""
 
-    last_switch = None
     hass = None
     is_casa = False
+    jan_belen = [False] * 5
 
     def __init__(self, hass, casa):
         """Prepare class"""
         self.hass = hass
         self.is_casa = casa["casa"]
         async_track_state_change_event(
-            hass, ["switch.calentador"], self.async_track_boiler
+            hass, ["device_tracker.jan_ipad_casa"], partial(self.track_home, 1)
         )
+        async_track_state_change_event(
+            hass, ["device_tracker.jan_ipad_piso"], partial(self.track_home, 2)
+        )
+        async_track_state_change_event(
+            hass, ["device_tracker.belen_ipad_casa"], partial(self.track_home, 3)
+        )
+        async_track_state_change_event(
+            hass, ["device_tracker.belen_ipad_piso"], partial(self.track_home, 4)
+        )
+        if self.is_casa:
+            async_track_state_change_event(
+                hass, ["switch.calentador"], self.track_boiler
+            )
 
 
     @callback
-    def async_track_boiler(self, event) -> None:
+    def track_boiler(self, event) -> None:
         """Track boiler on/off."""
         if event.data["new_state"].state != "on":
             return
@@ -41,8 +55,8 @@ class triggers:
             )
             return
         if (
-            self.hass.states.get("person.jan").state == "home" or
-            self.hass.states.get("person.belen").state == "home" or
+            self.jan_belen[1] or
+            self.jan_belen[3] or
             self.hass.states.get("switch.vamos_a_estar").state == "on"
         ):
             return
@@ -55,3 +69,26 @@ class triggers:
             ),
             self.hass.loop
         )
+
+
+    @callback
+    def track_home(self, inx, event) -> None:
+        """Track jan/belen in casa/piso/away."""
+        state = event.data["new_state"].state
+        self.jan_belen[inx] = True if state == "home" else False
+        if inx < 3:
+            offset = 1
+            entity = "person.jan"
+        else:
+            offset = 3
+            entity = "person.belen"
+
+        if self.jan_belen[offset]:
+            state = "Casa"
+        elif self.jan_belen[offset+1]:
+            state = "Piso"
+        else:
+            state = "Fuera"
+        self.hass.states.async_set(entity, "home", None, True)
+
+        _LOGGER.debug(f"--> JAN {state} -> {self.jan_belen}")

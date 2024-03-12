@@ -32,7 +32,7 @@ jan_ipad_piso:
   mac: 8A:FC:2E:33:7A:EA
   icon:
   picture:
-  track: false
+  track: true
 
 jan_iphone_casa:
   name: Jan-iPhone
