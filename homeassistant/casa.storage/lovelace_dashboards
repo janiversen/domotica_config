@@ -12,14 +12,6 @@
         "require_admin": false,
         "mode": "storage",
         "url_path": "dashboard-technical"
-      },
-      {
-        "id": "test_device_tracking",
-        "show_in_sidebar": true,
-        "title": "test device tracking.",
-        "require_admin": false,
-        "mode": "storage",
-        "url_path": "test-device-tracking"
       }
     ]
   }
