@@ -89,6 +89,11 @@ class triggers:
             state = "Piso"
         else:
             state = "Fuera"
-        self.hass.states.async_set(entity, "home", None, True)
+        before = self.hass.states.get(entity)
+        before_state = before.state
+        self.hass.states.async_set(entity, state, {})
+        x_state = self.hass.states.get(entity)
+        new_state = x_state.state
+        _LOGGER.debug(f"--> JAN PERSON before {entity} before({before}) new({x_state})")
 
-        _LOGGER.debug(f"--> JAN {state} -> {self.jan_belen}")
+        _LOGGER.debug(f"--> JAN PERSON {entity}={state} before({before_state}) new({new_state})")

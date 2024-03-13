@@ -4,7 +4,7 @@
   "documentation": "https://github.com/janiversen/ha_config#readme",
   "issue_tracker": "https://github.com/janiversen/ha_config/issues",
   "codeowners": ["@janiversen"],
-  "dependencies": ["zone", "modbus"],
+  "dependencies": ["zone", "modbus", "device_tracker", "person"],
   "version": "0.1.0",
   "iot_class": "local_push"
 }
