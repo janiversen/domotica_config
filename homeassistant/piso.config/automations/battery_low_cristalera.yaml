@@ -1,4 +1,4 @@
-alias: Battery door
+alias: pilar_cr_dw
 description: ''
 trigger:
   platform: numeric_state
