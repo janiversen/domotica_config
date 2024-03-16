@@ -551,6 +551,95 @@
                 }
               ],
               "title": "Salon_DW"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "event.dorm_1_salo",
+                "event.dorm_i1_salo",
+                "event.dorm_i2_salo",
+                "event.dorm_i3_salo",
+                {
+                  "entity": "update.dormitorio_w_2_firmware_update",
+                  "name": "Firmware update"
+                },
+                {
+                  "entity": "button.dormitorio_w_2_reboot",
+                  "name": "Reboot"
+                }
+              ],
+              "title": "Dormitorio_W_2"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "event.dorm_i1_cama_belen",
+                "event.dorm_i2_cama_belen",
+                "event.dorm_i3_cama_belen",
+                "event.dorm_i4_cama_belen",
+                {
+                  "entity": "update.dormitorio_w_3_firmware_update",
+                  "name": "Firmware update"
+                },
+                {
+                  "entity": "button.dormitorio_w_3_reboot",
+                  "name": "Reboot"
+                }
+              ],
+              "title": "Dormitorio_W_3"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "event.dorm_i1_cama_jan",
+                "event.dorm_i2_cama_jan",
+                "event.dorm_i3_cama_jan",
+                "event.dorm_i4_cama_jan",
+                {
+                  "entity": "update.dormitorio_w_4_firmware_update",
+                  "name": "Firmware update"
+                },
+                {
+                  "entity": "button.dormitorio_w_4_reboot"
+                }
+              ],
+              "title": "Dormitorio_W_4"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "event.salo_1_dorm",
+                "event.salo_i1_dorm",
+                "event.salo_i2_dorm",
+                "event.salo_i3_dorm",
+                {
+                  "entity": "update.salon_w_1_firmware_update",
+                  "name": "Firmware update"
+                },
+                {
+                  "entity": "button.salon_w_1_reboot",
+                  "name": "Reboot"
+                }
+              ],
+              "title": "Salon_W_1"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "event.salon_i1_entr",
+                "event.salon_i2_ent",
+                "event.salon_i3_entr",
+                "event.salon_i4_entr",
+                {
+                  "entity": "update.salon_w_2_firmware_update",
+                  "name": "Firmware update"
+                },
+                {
+                  "entity": "button.salon_w_2_reboot",
+                  "name": "Reboot"
+                }
+              ],
+              "title": "SALON_W_2"
             }
           ]
         }

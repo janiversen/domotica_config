@@ -406,6 +406,101 @@
         "source": "zeroconf",
         "unique_id": "C45BBE6AAB3F",
         "disabled_by": null
+      },
+      {
+        "entry_id": "665363723a2a7f51f1e9eccb12d79bc4",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_3",
+        "data": {
+          "host": "192.168.20.110",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF2009DD0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "972b43b4d4d28af05533aa916aaa0972",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Salon_W_1",
+        "data": {
+          "host": "192.168.20.111",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF200B014",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "30a2446a15b7209055809507e40b8479",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "SALON_W_2",
+        "data": {
+          "host": "192.168.20.120",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF200E8D0",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5c6caad22e37e5113d9c142e6958db96",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_4",
+        "data": {
+          "host": "192.168.20.109",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF201207C",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1ddabc8da1ef2e48ab5ea52e6f8e445f",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "shelly",
+        "title": "Dormitorio_W_2",
+        "data": {
+          "host": "192.168.20.106",
+          "sleep_period": 0,
+          "model": "SNSN-0024X",
+          "gen": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "083AF201222C",
+        "disabled_by": null
       }
     ]
   }

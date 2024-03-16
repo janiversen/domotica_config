@@ -503,6 +503,131 @@
         "serial_number": null,
         "sw_version": "",
         "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "665363723a2a7f51f1e9eccb12d79bc4"
+        ],
+        "configuration_url": "http://192.168.20.110",
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:00:9d:d0"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen2 (SNSN-0024X)",
+        "id": "01e862723f37b06f2ed4f21fe06e74dd",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "SNSN-0024X",
+        "name_by_user": null,
+        "name": "Dormitorio_W_3",
+        "serial_number": null,
+        "sw_version": "20240223-141850/1.2.2-g7c39781",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "972b43b4d4d28af05533aa916aaa0972"
+        ],
+        "configuration_url": "http://192.168.20.111",
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:00:b0:14"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen2 (SNSN-0024X)",
+        "id": "fd8ee5ab32339ebba5b37fd42ec5bf02",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "SNSN-0024X",
+        "name_by_user": null,
+        "name": "Salon_W_1",
+        "serial_number": null,
+        "sw_version": "20240223-141850/1.2.2-g7c39781",
+        "via_device_id": null
+      },
+      {
+        "area_id": "salon",
+        "config_entries": [
+          "30a2446a15b7209055809507e40b8479"
+        ],
+        "configuration_url": "http://192.168.20.120",
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:00:e8:d0"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen2 (SNSN-0024X)",
+        "id": "97c22b16fe1b817b7a4ed9f8c40bc5a0",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "SNSN-0024X",
+        "name_by_user": null,
+        "name": "SALON_W_2",
+        "serial_number": null,
+        "sw_version": "20240223-141850/1.2.2-g7c39781",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "5c6caad22e37e5113d9c142e6958db96"
+        ],
+        "configuration_url": "http://192.168.20.109",
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:01:20:7c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen2 (SNSN-0024X)",
+        "id": "30357ffc3e9066882d8e98171c39107d",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "SNSN-0024X",
+        "name_by_user": null,
+        "name": "Dormitorio_W_4",
+        "serial_number": null,
+        "sw_version": "20240223-141850/1.2.2-g7c39781",
+        "via_device_id": null
+      },
+      {
+        "area_id": "dormitorio",
+        "config_entries": [
+          "1ddabc8da1ef2e48ab5ea52e6f8e445f"
+        ],
+        "configuration_url": "http://192.168.20.106",
+        "connections": [
+          [
+            "mac",
+            "08:3a:f2:01:22:2c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "gen2 (SNSN-0024X)",
+        "id": "3f42c6f046875706184198da64041732",
+        "identifiers": [],
+        "manufacturer": "Shelly",
+        "model": "SNSN-0024X",
+        "name_by_user": null,
+        "name": "Dormitorio_W_2",
+        "serial_number": null,
+        "sw_version": "20240223-141850/1.2.2-g7c39781",
+        "via_device_id": null
       }
     ],
     "deleted_devices": []
