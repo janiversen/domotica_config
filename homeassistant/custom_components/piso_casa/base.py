@@ -32,12 +32,10 @@ class Base:
         self._attr_should_poll = False
         self._attr_is_on = None
         self._attr_value = None
-        # self._attr_state_class = SensorStateClass.MEASUREMENT
-
         self._attr_name = name
         self._attr_device_class = device_class
         self._attr_native_unit_of_measurement = measurement_unit
-        _LOGGER.info(f'Calculated {self._attr_name} created')
+        _LOGGER.info(f'piso_casa: {self._attr_name} created')
 
 
 class CalcSensor(Base, RestoreSensor, SensorEntity):

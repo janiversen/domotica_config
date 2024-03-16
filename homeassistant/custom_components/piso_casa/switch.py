@@ -27,8 +27,8 @@ class piso_led(CalcSwitch):
     def __init__(self, hass, where):
         """Setup class."""
         self.rgb_name = f"light.{where}_rgb_channel_1"
-        self.rest_name = f"rest_command.{where}_rgb_rest"
-        super().__init__(hass, f"{where}_rgb_rest", SwitchDeviceClass.SWITCH)
+        self.rest_name = f"{where}_rgb_rest"
+        super().__init__(hass, self.rest_name, SwitchDeviceClass.SWITCH)
         async_track_state_change_event(
             self.hass, [self.rgb_name], self.async_onoff
         )
@@ -41,29 +41,33 @@ class piso_led(CalcSwitch):
         """Track production."""
         self._attr_available = True
         self._attr_is_on = (event.data["new_state"].state == STATE_ON)
-        _LOGGER.debug(f'piso_casa tracker {self._attr_unique_id} got {self._attr_is_on}')
         self.async_write_ha_state()
+
+    async def execute_rest_command(self) -> None:
+        """Toogle RGB."""
+        domain = "rest_command"
+        await self.hass.services.async_call(
+            domain,
+            self.rest_name + "1",
+            blocking=True,
+        )
+        await self.hass.services.async_call(
+            domain,
+            self.rest_name + "2",
+            blocking=True,
+        )
 
     async def async_turn_on(self) -> None:
         """Turn switch on."""
         _LOGGER.debug(f'piso_casa {self._attr_unique_id} turn X on')
-        # self._attr_available = True
-        # self._attr_is_on = True
-        # self.async_write_ha_state()
+        await self.execute_rest_command()
 
     async def async_turn_off(self) -> None:
         """Turn switch off."""
         _LOGGER.debug(f'piso_casa {self._attr_unique_id} turn X off')
-        # self._attr_available = True
-        # self._attr_is_on = False
-        # self.async_write_ha_state()
+        await self.execute_rest_command()
 
     async def async_toggle(self) -> None:
         """Toggle switch."""
         _LOGGER.debug(f'piso_casa {self._attr_unique_id} toggle X {self._attr_is_on}')
-        # self._attr_available = True
-        # if not self._attr_is_on:
-        #     self._attr_is_on = True
-        # else:
-        #     self._attr_is_on = not self._attr_is_on
-        # self.async_write_ha_state()
+        await self.execute_rest_command()
