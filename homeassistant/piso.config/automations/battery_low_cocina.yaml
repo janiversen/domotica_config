@@ -1,0 +1,15 @@
+alias: Battery door
+description: ''
+trigger:
+  platform: numeric_state
+  entity_id: sensor.cocina_dw_battery
+  below: '10'
+condition: []
+action:
+  - service: notify.mail
+    data:
+      title: Pilar puerta cocina !!
+      message: Cambiar pilar de puerta cocina a cristalera pronto.
+      target:
+        - "jancasacondor@gmail.com"
+mode: single

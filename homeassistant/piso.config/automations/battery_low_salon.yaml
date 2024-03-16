@@ -1,15 +1,15 @@
-alias: Battery flood casa
+alias: Battery door
 description: ''
 trigger:
   platform: numeric_state
-  entity_id: sensor.shelly_flood_battery
+  entity_id: sensor.salon_dw_battery
   below: '10'
 condition: []
 action:
   - service: notify.mail
     data:
-      title: Pilar deposito !!
-      message: Cambiar pilar deposito casa pronto.
+      title: Pilar puerta principal !!
+      message: Cambiar pilar puerta principal pronto.
       target:
         - "jancasacondor@gmail.com"
 mode: single

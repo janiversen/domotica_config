@@ -2,14 +2,14 @@ alias: Battery door
 description: ''
 trigger:
   platform: numeric_state
-  entity_id: sensor.shelly_door_battery
+  entity_id: sensor.cristalera_dw_battery
   below: '10'
 condition: []
 action:
   - service: notify.mail
     data:
-      title: Pilar puerta casa !!
-      message: Cambiar pilar puerta casa pronto.
+      title: Pilar puerta cristalera !!
+      message: Cambiar pilar puerta de cristalera a fuera pronto.
       target:
         - "jancasacondor@gmail.com"
 mode: single
