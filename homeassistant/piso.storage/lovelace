@@ -4,7 +4,7 @@
   "key": "lovelace",
   "data": {
     "config": {
-      "title": "Piso total",
+      "title": "Piso",
       "views": [
         {
           "path": "default_view",
@@ -50,7 +50,11 @@
               "entities": [
                 {
                   "entity": "sensor.cristalera_dw_temperature",
-                  "name": "Patio"
+                  "name": "Cristalera"
+                },
+                {
+                  "entity": "sensor.salon_dw_temperature",
+                  "name": "Salon"
                 }
               ],
               "title": "Tiempo en piso"
@@ -86,6 +90,20 @@
                 {
                   "entity": "switch.library_w_1",
                   "name": "Estudio",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                },
+                {
+                  "entity": "switch.salon_rgb_rest",
+                  "name": "Salon",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                },
+                {
+                  "entity": "switch.dormitorio_rgb_rest",
+                  "name": "Dormitorio",
                   "tap_action": {
                     "action": "toggle"
                   }

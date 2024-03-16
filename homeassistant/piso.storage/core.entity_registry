@@ -34,32 +34,6 @@
         "aliases": [],
         "area_id": null,
         "capabilities": null,
-        "config_entry_id": "d2f814d64705d3b9cc39646a6e7ea1f4",
-        "device_class": null,
-        "device_id": "2b83805d0b05a60ab84f5cc64b128436",
-        "disabled_by": "integration",
-        "entity_category": null,
-        "entity_id": "weather.forecast_casa_hourly",
-        "hidden_by": null,
-        "icon": null,
-        "id": "0fb04903697c7fa0b400403487153aee",
-        "has_entity_name": true,
-        "name": null,
-        "options": {},
-        "original_device_class": null,
-        "original_icon": null,
-        "original_name": "Piso hourly",
-        "platform": "met",
-        "supported_features": 0,
-        "translation_key": null,
-        "unique_id": "home-hourly",
-        "previous_unique_id": null,
-        "unit_of_measurement": null
-      },
-      {
-        "aliases": [],
-        "area_id": null,
-        "capabilities": null,
         "config_entry_id": null,
         "device_class": null,
         "device_id": null,
@@ -7190,12 +7164,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "665363723a2a7f51f1e9eccb12d79bc4",
@@ -7225,12 +7199,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "665363723a2a7f51f1e9eccb12d79bc4",
@@ -7260,12 +7234,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "665363723a2a7f51f1e9eccb12d79bc4",
@@ -7295,12 +7269,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "665363723a2a7f51f1e9eccb12d79bc4",
@@ -7488,12 +7462,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "972b43b4d4d28af05533aa916aaa0972",
@@ -7523,12 +7497,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "972b43b4d4d28af05533aa916aaa0972",
@@ -7558,12 +7532,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "972b43b4d4d28af05533aa916aaa0972",
@@ -7593,12 +7567,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "972b43b4d4d28af05533aa916aaa0972",
@@ -7786,12 +7760,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "30a2446a15b7209055809507e40b8479",
@@ -7821,12 +7795,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "30a2446a15b7209055809507e40b8479",
@@ -7856,12 +7830,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "30a2446a15b7209055809507e40b8479",
@@ -7891,12 +7865,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "30a2446a15b7209055809507e40b8479",
@@ -8084,12 +8058,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "5c6caad22e37e5113d9c142e6958db96",
@@ -8119,12 +8093,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "5c6caad22e37e5113d9c142e6958db96",
@@ -8154,12 +8128,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "5c6caad22e37e5113d9c142e6958db96",
@@ -8189,12 +8163,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "5c6caad22e37e5113d9c142e6958db96",
@@ -8382,12 +8356,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "1ddabc8da1ef2e48ab5ea52e6f8e445f",
@@ -8417,12 +8391,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "1ddabc8da1ef2e48ab5ea52e6f8e445f",
@@ -8452,12 +8426,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "1ddabc8da1ef2e48ab5ea52e6f8e445f",
@@ -8487,12 +8461,12 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "long_push",
             "btn_down",
+            "single_push",
+            "btn_up",
             "double_push",
             "triple_push",
-            "btn_up",
-            "single_push"
+            "long_push"
           ]
         },
         "config_entry_id": "1ddabc8da1ef2e48ab5ea52e6f8e445f",
@@ -9992,6 +9966,110 @@
         "unique_id": "ilecrn2,windspeed",
         "previous_unique_id": null,
         "unit_of_measurement": "km/h"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.salon_led",
+        "hidden_by": null,
+        "icon": "mdi:ceiling-light",
+        "id": "d6896db08d83693553492541cc23aeb5",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "switch",
+        "original_icon": null,
+        "original_name": "salon_led",
+        "platform": "piso_casa",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "switch.salon_led",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.dorm_led",
+        "hidden_by": null,
+        "icon": "mdi:ceiling-light",
+        "id": "fc5d393ff4325a35d9da2499ec8fa4bc",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "switch",
+        "original_icon": null,
+        "original_name": "dorm_led",
+        "platform": "piso_casa",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "switch.dorm_led",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.salon_rgb_rest",
+        "hidden_by": null,
+        "icon": "mdi:ceiling-light-multiple",
+        "id": "c19a573a189d14e26721b1483557799c",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "switch",
+        "original_icon": null,
+        "original_name": "salon_rgb_rest",
+        "platform": "piso_casa",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "switch.salon_rgb_rest",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": null,
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "switch.dormitorio_rgb_rest",
+        "hidden_by": null,
+        "icon": "mdi:ceiling-light-multiple",
+        "id": "9d53e472763e6aa76301d91dc6d1f4f3",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "switch",
+        "original_icon": null,
+        "original_name": "dormitorio_rgb_rest",
+        "platform": "piso_casa",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "switch.dormitorio_rgb_rest",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
       }
     ],
     "deleted_entities": []

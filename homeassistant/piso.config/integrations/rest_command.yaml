@@ -1,9 +1,9 @@
 rest_command:
-  dormitorio_led1:
+  dormitorio_rbg_rest1:
     url: "http://192.168.20.107/white/0?turn=toggle"
-  dormitorio_led2:
+  dormitorio_rgb_rest2:
     url: "http://192.168.20.107/white/1?turn=toggle"
-  salon_led1:
+  salon_rgb_rest1:
     url: "http://192.168.20.117/white/0?turn=toggle"
-  salon_led2:
+  salon_rbg_rest2:
     url: "http://192.168.20.117/white/1?turn=toggle"
