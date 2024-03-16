@@ -501,6 +501,49 @@
         "source": "zeroconf",
         "unique_id": "083AF201222C",
         "disabled_by": null
+      },
+      {
+        "entry_id": "dc8316fbf645c388fa2042a742c4b996",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "aemet",
+        "title": "Piso",
+        "data": {
+          "api_key": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYW5jYXNhY29uZG9yQGdtYWlsLmNvbSIsImp0aSI6IjVjNzJjM2Q1LTlkY2YtNDFkNy1hOWEwLTM4ZTA3NjhiMTA4ZSIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNzA4MzM3MDU0LCJ1c2VySWQiOiI1YzcyYzNkNS05ZGNmLTQxZDctYTlhMC0zOGUwNzY4YjEwOGUiLCJyb2xlIjoiIn0.etOnS30-77nu9JyKxbtTOiPUIKh0Crf_f5uCL7k6F_I",
+          "name": "Piso",
+          "latitude": 37.18003958320058,
+          "longitude": -3.604073524475098
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "37.18003958320058--3.604073524475098",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "1a0b19950bbbb4a92b3b69bd7f4a20f2",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "wundergroundpws",
+        "title": "ILECRN2",
+        "data": {
+          "api_key": "d784b339466745fa84b339466795fa9b",
+          "pws_id": "ILECRN2"
+        },
+        "options": {
+          "latitude": 36.948,
+          "longitude": -3.558,
+          "numeric_precision": "none",
+          "lang": "en-US",
+          "calendarday_temp": false,
+          "forecast_sensors": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "wundergroundpws-ILECRN2",
+        "disabled_by": null
       }
     ]
   }
