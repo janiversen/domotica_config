@@ -89,6 +89,7 @@ class CalcSwitch(Base, RestoreEntity, SwitchEntity):
                 self._attr_is_on = True
             elif state.state == STATE_OFF:
                 self._attr_is_on = False
+        self._attr_available = True
 
     async def async_turn_on(self) -> None:
         """Turn switch on."""

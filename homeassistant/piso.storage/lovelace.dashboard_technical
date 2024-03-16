@@ -221,7 +221,8 @@
                   "entity": "binary_sensor.dormitorio_w_1_overheating"
                 }
               ],
-              "title": "Dormitorio_W_1"
+              "title": "Dormitorio_W_1",
+              "show_header_toggle": false
             },
             {
               "type": "entities",
