@@ -383,3 +383,17 @@ UNKNOWN_4:
   icon:
   picture:
   track: false
+
+UNKNOWN_5:
+  name: UNKNOWN__5
+  mac: AE:89:AF:B0:1E:53
+  icon:
+  picture:
+  track: false
+
+UNKNOWN_6:
+  name: UNKNOWN_6
+  mac: 1A:EA:4D:B6:EA:B1
+  icon:
+  picture:
+  track: false
