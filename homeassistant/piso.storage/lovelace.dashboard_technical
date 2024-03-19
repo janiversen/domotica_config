@@ -682,6 +682,24 @@
               ],
               "title": "Casa remote",
               "show_header_toggle": false
+            },
+            {
+              "type": "thermostat",
+              "entity": "climate.remote_casa_air_on",
+              "name": "Casa AIRCON",
+              "features": [
+                {
+                  "type": "climate-hvac-modes",
+                  "hvac_modes": [
+                    "off",
+                    "heat",
+                    "dry",
+                    "cool",
+                    "fan_only",
+                    "heat_cool"
+                  ]
+                }
+              ]
             }
           ]
         }

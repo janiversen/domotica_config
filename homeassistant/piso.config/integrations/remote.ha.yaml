@@ -9,7 +9,7 @@ remote_homeassistant:
     access_token: !secret remote_ha
     include:
       entities:
-        - climate.airon
+        - climate.air_on
         - switch.vamos_a_estar
         - switch.calentador
         - switch.shelly_floor_lamp
@@ -25,4 +25,6 @@ remote_homeassistant:
         - sensor.wh2650a_wind_speed
         - sensor.wh2650a_outdoor_temperature
         - sensor.wh2650a_indoor_temperature
+    load_components:
+      - climate
 
