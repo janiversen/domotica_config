@@ -576,7 +576,10 @@
             "sensor.wh2650a_uv_index",
             "sensor.wh2650a_wind_speed",
             "sensor.wh2650a_outdoor_temperature",
-            "sensor.wh2650a_indoor_temperature"
+            "sensor.wh2650a_indoor_temperature",
+            "sensor.production",
+            "sensor.casa_consumo",
+            "sensor.power_meter"
           ],
           "include_domains": [],
           "exclude_entities": [],

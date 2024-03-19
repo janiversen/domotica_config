@@ -22,203 +22,238 @@
               ]
             },
             {
-              "show_name": true,
-              "show_icon": true,
-              "show_state": false,
-              "type": "glance",
+              "type": "entities",
               "entities": [
                 {
-                  "entity": "binary_sensor.salon_dw_door",
-                  "name": "Entrada"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": false,
+                  "entities": [
+                    {
+                      "entity": "binary_sensor.salon_dw_door",
+                      "name": "Piso"
+                    },
+                    {
+                      "entity": "binary_sensor.cocina_dw_door",
+                      "name": "Cocina"
+                    },
+                    {
+                      "entity": "binary_sensor.cristalera_dw_door",
+                      "name": "Cristalera"
+                    }
+                  ]
                 },
                 {
-                  "entity": "binary_sensor.cocina_dw_door",
-                  "name": "Cocina"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": false,
+                  "entities": [
+                    {
+                      "entity": "binary_sensor.remote_casa_shelly_door_door",
+                      "name": "Casa"
+                    },
+                    {
+                      "entity": "binary_sensor.remote_casa_shelly_door_casita_door",
+                      "name": "Casita"
+                    },
+                    {
+                      "entity": "binary_sensor.remote_casa_shelly_flood_flood"
+                    },
+                    {
+                      "entity": "sensor.remote_connection_to_casa_8123",
+                      "name": "Internet"
+                    }
+                  ]
                 },
                 {
-                  "entity": "binary_sensor.cristalera_dw_door",
-                  "name": "Cristalera"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": true,
+                  "entities": [
+                    {
+                      "entity": "sensor.remote_casa_production",
+                      "name": "Placas solares"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_casa_consumo",
+                      "name": "Consumo"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_power_meter",
+                      "name": "Exportar"
+                    }
+                  ]
                 }
-              ],
-              "title": "Vigilancia"
+              ]
             },
             {
-              "show_name": true,
-              "show_icon": true,
-              "show_state": true,
-              "type": "glance",
+              "type": "entities",
               "entities": [
                 {
-                  "entity": "sensor.cristalera_dw_temperature",
-                  "name": "Cristalera"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": false,
+                  "entities": [
+                    {
+                      "entity": "switch.library_w_1",
+                      "name": "Estudio",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    },
+                    {
+                      "entity": "switch.salon_rgb_rest",
+                      "name": "Salon",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    },
+                    {
+                      "entity": "switch.dormitorio_rgb_rest",
+                      "name": "Dormitorio",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    }
+                  ]
                 },
                 {
-                  "entity": "sensor.salon_dw_temperature",
-                  "name": "Salon"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": false,
+                  "entities": [
+                    {
+                      "entity": "cover.dormitorio_w_p",
+                      "name": "Dormitorio"
+                    },
+                    {
+                      "entity": "cover.salon_w_p_1",
+                      "name": "Salon"
+                    },
+                    {
+                      "entity": "cover.salon_w_p_2",
+                      "name": "Estudio"
+                    }
+                  ]
+                },
+                {
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": false,
+                  "entities": [
+                    {
+                      "entity": "switch.remote_casa_vamos_a_estar",
+                      "name": "Vamos",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    },
+                    {
+                      "entity": "switch.remote_casa_calentador",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    },
+                    {
+                      "entity": "switch.remote_casa_shelly_floor_lamp",
+                      "name": "Salon",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    },
+                    {
+                      "entity": "switch.remote_casa_casa_luz_1",
+                      "name": "Exterior",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    },
+                    {
+                      "entity": "switch.remote_casa_casa_luz_2",
+                      "name": "Exterior",
+                      "tap_action": {
+                        "action": "toggle"
+                      }
+                    }
+                  ]
                 }
-              ],
-              "title": "Tiempo en piso"
+              ]
             },
             {
-              "type": "glance",
-              "show_name": true,
-              "show_icon": true,
-              "show_state": false,
+              "type": "entities",
               "entities": [
                 {
-                  "entity": "cover.dormitorio_w_p",
-                  "name": "Dormitorio"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": "ture",
+                  "entities": [
+                    {
+                      "entity": "sensor.salon_dw_temperature",
+                      "name": "Piso"
+                    },
+                    {
+                      "entity": "sensor.cristalera_dw_temperature",
+                      "name": "Cristalera"
+                    }
+                  ]
                 },
                 {
-                  "entity": "cover.salon_w_p_1",
-                  "name": "Salon"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": true,
+                  "entities": [
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_indoor_temperature",
+                      "name": "casa"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_outdoor_temperature",
+                      "name": "campo"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_uv_index",
+                      "name": "UV"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_wind_speed",
+                      "name": "Viento"
+                    }
+                  ]
                 },
                 {
-                  "entity": "cover.salon_w_p_2",
-                  "name": "Estudio"
+                  "type": "custom:hui-glance-card",
+                  "show_name": true,
+                  "show_icon": true,
+                  "show_state": true,
+                  "entities": [
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_daily_rain_rate",
+                      "name": "Día"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_weekly_rain_rate",
+                      "name": "Semana"
+                    },
+                    {
+                      "entity": "sensor.remote_casa_wh2650a_monthly_rain_rate",
+                      "name": "Mes"
+                    }
+                  ]
                 }
-              ],
-              "title": "Persianas"
-            },
-            {
-              "type": "glance",
-              "show_name": true,
-              "show_icon": true,
-              "show_state": false,
-              "state_color": true,
-              "entities": [
-                {
-                  "entity": "switch.library_w_1",
-                  "name": "Estudio",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                },
-                {
-                  "entity": "switch.salon_rgb_rest",
-                  "name": "Salon",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                },
-                {
-                  "entity": "switch.dormitorio_rgb_rest",
-                  "name": "Dormitorio",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                }
-              ],
-              "title": "Interruptores"
-            },
-            {
-              "show_current": true,
-              "show_forecast": true,
-              "type": "weather-forecast",
-              "entity": "weather.piso",
-              "forecast_type": "daily",
-              "name": "Piso"
-            },
-            {
-              "show_current": true,
-              "show_forecast": true,
-              "type": "weather-forecast",
-              "entity": "weather.ilecrn2",
-              "forecast_type": "daily",
-              "name": "Casa"
-            },
-            {
-              "type": "glance",
-              "show_name": true,
-              "show_icon": true,
-              "show_state": false,
-              "state_color": true,
-              "entities": [
-                {
-                  "entity": "switch.remote_vamos_a_estar",
-                  "name": "Vamos",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                },
-                {
-                  "entity": "switch.remote_calentador",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                },
-                {
-                  "entity": "switch.remote_shelly_floor_lamp",
-                  "name": "Salon",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                },
-                {
-                  "entity": "switch.remote_casa_luz_1",
-                  "name": "Exterior",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                },
-                {
-                  "entity": "switch.remote_casa_luz_2",
-                  "name": "Exterior",
-                  "tap_action": {
-                    "action": "toggle"
-                  }
-                }
-              ],
-              "title": "Interruptores Casa"
-            },
-            {
-              "show_name": true,
-              "show_icon": false,
-              "show_state": true,
-              "type": "glance",
-              "entities": [
-                {
-                  "entity": "sensor.remote_production",
-                  "name": "Produccion"
-                },
-                {
-                  "entity": "sensor.remote_casa_consumo",
-                  "name": "Consumo"
-                },
-                {
-                  "entity": "sensor.remote_power_meter",
-                  "name": "Export"
-                }
-              ],
-              "title": "Energia Casa"
-            },
-            {
-              "show_name": true,
-              "show_icon": true,
-              "show_state": false,
-              "type": "glance",
-              "entities": [
-                {
-                  "entity": "sensor.remote_connection_to_casa_8123"
-                },
-                {
-                  "entity": "binary_sensor.remote_shelly_door_door",
-                  "name": "Puerta"
-                },
-                {
-                  "entity": "binary_sensor.remote_shelly_door_casita_door",
-                  "name": "Casita"
-                },
-                {
-                  "entity": "binary_sensor.remote_shelly_flood_flood",
-                  "name": "Deposito"
-                }
-              ],
-              "title": "Vigilancia Casa"
+              ]
             },
             {
               "type": "thermostat",
-              "entity": "climate.remote_air_on",
+              "entity": "climate.remote_casa_air_on",
+              "name": "AIRCON Casa",
               "features": [
                 {
                   "type": "climate-hvac-modes",
@@ -230,6 +265,27 @@
                     "fan_only",
                     "heat_cool"
                   ]
+                }
+              ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "type": "custom:hui-weather-forecast-card",
+                  "show_current": true,
+                  "show_forecast": true,
+                  "entity": "weather.piso",
+                  "forecast_type": "daily",
+                  "name": "Piso"
+                },
+                {
+                  "type": "custom:hui-weather-forecast-card",
+                  "show_current": true,
+                  "show_forecast": true,
+                  "entity": "weather.ilecrn2",
+                  "forecast_type": "daily",
+                  "name": "Casa"
                 }
               ]
             }
