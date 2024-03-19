@@ -12,6 +12,15 @@
         "require_admin": false,
         "mode": "storage",
         "url_path": "dashboard-technical"
+      },
+      {
+        "id": "dashboard_piso",
+        "show_in_sidebar": true,
+        "icon": "mdi:home",
+        "title": "Piso",
+        "require_admin": false,
+        "mode": "storage",
+        "url_path": "dashboard-piso"
       }
     ]
   }

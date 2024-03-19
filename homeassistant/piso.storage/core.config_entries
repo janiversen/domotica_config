@@ -544,6 +544,52 @@
         "source": "user",
         "unique_id": "wundergroundpws-ILECRN2",
         "disabled_by": null
+      },
+      {
+        "entry_id": "b2d43c8c0ee6efc77bd9a8222521ff1f",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "remote_homeassistant",
+        "title": "Casa (YAML)",
+        "data": {
+          "host": "casa",
+          "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI4NzI3YWU3ZWM1ZWE0YWE4OTE3ZjQ1NTRkMDMwYTBjMiIsImlhdCI6MTcxMDg0ODE4NCwiZXhwIjoyMDI2MjA4MTg0fQ.uPYiHykRa2pv2dFUuRapHlRyzNkTsF8AZbBkDs0V30M",
+          "verify_ssl": true,
+          "port": 8123,
+          "secure": false,
+          "max_message_size": 16777216
+        },
+        "options": {
+          "include_entities": [
+            "climate.airon",
+            "switch.vamos_a_estar",
+            "switch.calentador",
+            "switch.shelly_floor_lamp",
+            "switch.casa_luz_1",
+            "switch.casa_luz_2",
+            "binary_sensor.shelly_door_door",
+            "binary_sensor.shelly_door_casita_door",
+            "binary_sensor.shelly_flood_flood",
+            "sensor.wh2650a_daily_rain_rate",
+            "sensor.wh2650a_weekly_rain_rate",
+            "sensor.wh2650a_monthly_rain_rate",
+            "sensor.wh2650a_uv_index",
+            "sensor.wh2650a_wind_speed",
+            "sensor.wh2650a_outdoor_temperature",
+            "sensor.wh2650a_indoor_temperature"
+          ],
+          "include_domains": [],
+          "exclude_entities": [],
+          "exclude_domains": [],
+          "filter": [],
+          "entity_prefix": "remote_casa_",
+          "service_prefix": "remote_"
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": "c6dbae1b24bd4c5bbb1695ee71b3f2f1",
+        "disabled_by": null
       }
     ]
   }

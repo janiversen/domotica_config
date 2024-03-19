@@ -1100,8 +1100,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "f55233744ca79ea355378615c073d0dd",
@@ -1131,8 +1131,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "f55233744ca79ea355378615c073d0dd",
@@ -2196,8 +2196,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "3f3c0a9b5bbe97588e97ec2205fbf2aa",
@@ -2227,8 +2227,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "3f3c0a9b5bbe97588e97ec2205fbf2aa",
@@ -2762,8 +2762,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "75f3b0ebcf61ceae3d8125890fe66658",
@@ -2793,8 +2793,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "75f3b0ebcf61ceae3d8125890fe66658",
@@ -4191,8 +4191,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "b58bbbf1e711b70faccd20e6795dd907",
@@ -4792,8 +4792,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "3716d6ff79faef7d289710c73bdeb087",
@@ -5341,8 +5341,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "b359e8f347d7884ff193dccdf12c4ab3",
@@ -5556,8 +5556,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "cbf2741309f18a5cf5251e684c8f0c73",
@@ -5797,8 +5797,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "a1c3c605fdebc25b49248c45ea31b87c",
@@ -6012,8 +6012,8 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "single",
-            "long"
+            "long",
+            "single"
           ]
         },
         "config_entry_id": "c820ee64f515e271dc219a61324dd2cd",
@@ -7164,11 +7164,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7199,11 +7199,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7234,11 +7234,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7269,11 +7269,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7462,11 +7462,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7497,11 +7497,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7532,11 +7532,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7567,11 +7567,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7760,11 +7760,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7795,11 +7795,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7830,11 +7830,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -7865,11 +7865,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8058,11 +8058,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8093,11 +8093,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8128,11 +8128,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8163,11 +8163,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8356,11 +8356,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8391,11 +8391,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8426,11 +8426,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -8461,11 +8461,11 @@
         "area_id": null,
         "capabilities": {
           "event_types": [
-            "btn_down",
+            "double_push",
             "long_push",
             "btn_up",
-            "double_push",
             "triple_push",
+            "btn_down",
             "single_push"
           ]
         },
@@ -10068,6 +10068,84 @@
         "supported_features": 0,
         "translation_key": null,
         "unique_id": "switch.dormitorio_rgb_rest",
+        "previous_unique_id": null,
+        "unit_of_measurement": null
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "dc8316fbf645c388fa2042a742c4b996",
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.piso_daily_forecast_wind_bearing",
+        "hidden_by": null,
+        "icon": null,
+        "id": "b643fa3fbb70a6f9886b91762d8b650e",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Piso Daily forecast wind bearing",
+        "platform": "aemet",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "37.18003958320058--3.604073524475098-forecast-daily-wind_bearing",
+        "previous_unique_id": null,
+        "unit_of_measurement": "°"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "dc8316fbf645c388fa2042a742c4b996",
+        "device_class": null,
+        "device_id": null,
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.piso_daily_forecast_wind_speed",
+        "hidden_by": null,
+        "icon": null,
+        "id": "6c99a1388cedf4ac0f5155e1419953f2",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": "wind_speed",
+        "original_icon": null,
+        "original_name": "Piso Daily forecast wind speed",
+        "platform": "aemet",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "37.18003958320058--3.604073524475098-forecast-daily-wind_speed",
+        "previous_unique_id": null,
+        "unit_of_measurement": "km/h"
+      },
+      {
+        "aliases": [],
+        "area_id": null,
+        "capabilities": null,
+        "config_entry_id": "b2d43c8c0ee6efc77bd9a8222521ff1f",
+        "device_class": null,
+        "device_id": "29a1e8645f100840c0d85b1a2e525781",
+        "disabled_by": null,
+        "entity_category": null,
+        "entity_id": "sensor.remote_connection_to_casa_8123",
+        "hidden_by": null,
+        "icon": null,
+        "id": "16608c0b2500ecf93706ae48e482fa95",
+        "has_entity_name": false,
+        "name": null,
+        "options": {},
+        "original_device_class": null,
+        "original_icon": null,
+        "original_name": "Remote connection to casa:8123",
+        "platform": "remote_homeassistant",
+        "supported_features": 0,
+        "translation_key": null,
+        "unique_id": "c6dbae1b24bd4c5bbb1695ee71b3f2f1",
         "previous_unique_id": null,
         "unit_of_measurement": null
       }

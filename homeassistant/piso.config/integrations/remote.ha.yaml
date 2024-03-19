@@ -1,0 +1,28 @@
+#
+# Local adaptations.
+#
+
+remote_homeassistant:
+  instances:
+  - host: casa
+    entity_prefix: remote_casa_
+    access_token: !secret remote_ha
+    include:
+      entities:
+        - climate.airon
+        - switch.vamos_a_estar
+        - switch.calentador
+        - switch.shelly_floor_lamp
+        - switch.casa_luz_1
+        - switch.casa_luz_2
+        - binary_sensor.shelly_door_door
+        - binary_sensor.shelly_door_casita_door
+        - binary_sensor.shelly_flood_flood
+        - sensor.wh2650a_daily_rain_rate
+        - sensor.wh2650a_weekly_rain_rate
+        - sensor.wh2650a_monthly_rain_rate
+        - sensor.wh2650a_uv_index
+        - sensor.wh2650a_wind_speed
+        - sensor.wh2650a_outdoor_temperature
+        - sensor.wh2650a_indoor_temperature
+

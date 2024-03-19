@@ -4,7 +4,7 @@
   "key": "lovelace",
   "data": {
     "config": {
-      "title": "Resumen Piso y Casa",
+      "title": "Piso",
       "views": [
         {
           "path": "default_view",

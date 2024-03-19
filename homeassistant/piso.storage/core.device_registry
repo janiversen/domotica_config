@@ -628,6 +628,31 @@
         "serial_number": null,
         "sw_version": "20240223-141850/1.2.2-g7c39781",
         "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "b2d43c8c0ee6efc77bd9a8222521ff1f"
+        ],
+        "configuration_url": "https://casa:8123",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "29a1e8645f100840c0d85b1a2e525781",
+        "identifiers": [
+          [
+            "remote_homeassistant",
+            "remote_c6dbae1b24bd4c5bbb1695ee71b3f2f1"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Core",
+        "name_by_user": null,
+        "name": "Casa",
+        "serial_number": null,
+        "sw_version": "2024.2.2",
+        "via_device_id": null
       }
     ],
     "deleted_devices": []

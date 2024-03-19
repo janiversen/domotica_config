@@ -627,6 +627,61 @@
                 }
               ],
               "title": "SALON_W_2"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.remote_connection_to_casa_8123"
+                },
+                {
+                  "entity": "switch.remote_casa_calentador"
+                },
+                {
+                  "entity": "switch.remote_casa_casa_luz_1"
+                },
+                {
+                  "entity": "switch.remote_casa_casa_luz_2"
+                },
+                {
+                  "entity": "switch.remote_casa_shelly_floor_lamp"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_daily_rain_rate"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_monthly_rain_rate"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_weekly_rain_rate"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_outdoor_temperature"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_indoor_temperature"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_uv_index"
+                },
+                {
+                  "entity": "switch.remote_casa_vamos_a_estar"
+                },
+                {
+                  "entity": "sensor.remote_casa_wh2650a_wind_speed"
+                },
+                {
+                  "entity": "binary_sensor.remote_casa_shelly_door_door"
+                },
+                {
+                  "entity": "binary_sensor.remote_casa_shelly_door_casita_door"
+                },
+                {
+                  "entity": "binary_sensor.remote_casa_shelly_flood_flood"
+                }
+              ],
+              "title": "Casa remote",
+              "show_header_toggle": false
             }
           ]
         }
