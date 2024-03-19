@@ -1,0 +1,6 @@
+#
+# Local adaptations.
+#
+
+remote_homeassistant:
+  instances:
