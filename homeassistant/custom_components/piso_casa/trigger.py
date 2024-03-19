@@ -14,28 +14,23 @@ class triggers:
 
     hass = None
     is_casa = False
-    jan_belen = [False] * 5
+    jan_belen = [False] * 4
 
     def __init__(self, hass, casa):
         """Prepare class"""
         self.hass = hass
         self.is_casa = casa["casa"]
-        async_track_state_change_event(
-            hass, ["device_tracker.jan_ipad_casa"], partial(self.track_home, 1)
+        tracker = (
+            "device_tracker.jan_ipad_casa",
+            "device_tracker.jan_ipad_piso",
+            "device_tracker.belen_ipad_casa",
+            "device_tracker.belen_ipad_piso",
         )
-        async_track_state_change_event(
-            hass, ["device_tracker.jan_ipad_piso"], partial(self.track_home, 2)
-        )
-        async_track_state_change_event(
-            hass, ["device_tracker.belen_ipad_casa"], partial(self.track_home, 3)
-        )
-        async_track_state_change_event(
-            hass, ["device_tracker.belen_ipad_piso"], partial(self.track_home, 4)
-        )
-        if self.is_casa:
+        for i in range(4):
             async_track_state_change_event(
-                hass, ["switch.calentador"], self.track_boiler
+                hass, [tracker[i]], partial(self.track_home, i)
             )
+            state = self.hass.states.get(tracker[i]).state
 
 
     @callback
@@ -43,7 +38,8 @@ class triggers:
         """Track boiler on/off."""
         if event.data["new_state"].state != "on":
             return
-        if (self.hass.states.get("switch.vamos_a_estar").state == "on"):
+        is_vamos = (self.hass.states.get("switch.vamos_a_estar").state == "on")
+        if is_vamos:
             asyncio.run_coroutine_threadsafe(
                 self.hass.services.async_call(
                     "switch",
@@ -53,11 +49,10 @@ class triggers:
                 ),
                 self.hass.loop
             )
-            return
         if (
-            self.jan_belen[1] or
-            self.jan_belen[3] or
-            self.hass.states.get("switch.vamos_a_estar").state == "on"
+            self.jan_belen[0] or
+            self.jan_belen[2] or
+            is_vamos
         ):
             return
         asyncio.run_coroutine_threadsafe(
@@ -74,13 +69,12 @@ class triggers:
     @callback
     def track_home(self, inx, event) -> None:
         """Track jan/belen in casa/piso/away."""
-        state = event.data["new_state"].state
-        self.jan_belen[inx] = True if state == "home" else False
-        if inx < 3:
-            offset = 1
+        self.jan_belen[inx] = (event.data["new_state"].state == "home")
+        if inx < 2:
+            offset = 0
             entity = "person.jan"
         else:
-            offset = 3
+            offset = 2
             entity = "person.belen"
 
         if self.jan_belen[offset]:

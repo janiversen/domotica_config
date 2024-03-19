@@ -11,19 +11,22 @@
           "title": "Home",
           "cards": [
             {
-              "type": "glance",
-              "entities": [
-                {
-                  "entity": "person.jan"
-                },
-                {
-                  "entity": "person.belen"
-                }
-              ]
-            },
-            {
               "type": "entities",
               "entities": [
+                {
+                  "type": "custom:hui-glance-card",
+                  "show_name": false,
+                  "show_icon": true,
+                  "show_state": true,
+                  "entities": [
+                    {
+                      "entity": "person.jan"
+                    },
+                    {
+                      "entity": "person.belen"
+                    }
+                  ]
+                },
                 {
                   "type": "custom:hui-glance-card",
                   "show_name": true,
@@ -201,26 +204,10 @@
                     {
                       "entity": "sensor.cristalera_dw_temperature",
                       "name": "Cristalera"
-                    }
-                  ]
-                },
-                {
-                  "type": "custom:hui-glance-card",
-                  "show_name": true,
-                  "show_icon": true,
-                  "show_state": true,
-                  "entities": [
+                    },
                     {
                       "entity": "sensor.remote_casa_wh2650a_indoor_temperature",
-                      "name": "casa"
-                    },
-                    {
-                      "entity": "sensor.remote_casa_wh2650a_outdoor_temperature",
-                      "name": "campo"
-                    },
-                    {
-                      "entity": "sensor.remote_casa_wh2650a_uv_index",
-                      "name": "UV"
+                      "name": "Casa"
                     },
                     {
                       "entity": "sensor.remote_casa_wh2650a_wind_speed",
