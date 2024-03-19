@@ -126,6 +126,112 @@
               "entity": "weather.ilecrn2",
               "forecast_type": "daily",
               "name": "Casa"
+            },
+            {
+              "type": "glance",
+              "show_name": true,
+              "show_icon": true,
+              "show_state": false,
+              "state_color": true,
+              "entities": [
+                {
+                  "entity": "switch.remote_vamos_a_estar",
+                  "name": "Vamos",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                },
+                {
+                  "entity": "switch.remote_calentador",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                },
+                {
+                  "entity": "switch.remote_shelly_floor_lamp",
+                  "name": "Salon",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                },
+                {
+                  "entity": "switch.remote_casa_luz_1",
+                  "name": "Exterior",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                },
+                {
+                  "entity": "switch.remote_casa_luz_2",
+                  "name": "Exterior",
+                  "tap_action": {
+                    "action": "toggle"
+                  }
+                }
+              ],
+              "title": "Interruptores Casa"
+            },
+            {
+              "show_name": true,
+              "show_icon": false,
+              "show_state": true,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "sensor.remote_production",
+                  "name": "Produccion"
+                },
+                {
+                  "entity": "sensor.remote_casa_consumo",
+                  "name": "Consumo"
+                },
+                {
+                  "entity": "sensor.remote_power_meter",
+                  "name": "Export"
+                }
+              ],
+              "title": "Energia Casa"
+            },
+            {
+              "show_name": true,
+              "show_icon": true,
+              "show_state": false,
+              "type": "glance",
+              "entities": [
+                {
+                  "entity": "sensor.remote_connection_to_casa_8123"
+                },
+                {
+                  "entity": "binary_sensor.remote_shelly_door_door",
+                  "name": "Puerta"
+                },
+                {
+                  "entity": "binary_sensor.remote_shelly_door_casita_door",
+                  "name": "Casita"
+                },
+                {
+                  "entity": "binary_sensor.remote_shelly_flood_flood",
+                  "name": "Deposito"
+                }
+              ],
+              "title": "Vigilancia Casa"
+            },
+            {
+              "type": "thermostat",
+              "entity": "climate.remote_air_on",
+              "features": [
+                {
+                  "type": "climate-hvac-modes",
+                  "hvac_modes": [
+                    "off",
+                    "heat",
+                    "dry",
+                    "cool",
+                    "fan_only",
+                    "heat_cool"
+                  ]
+                }
+              ]
             }
           ]
         }
