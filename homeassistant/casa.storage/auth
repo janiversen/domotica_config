@@ -144,9 +144,9 @@
         "access_token_expiration": 1800.0,
         "token": "c97d09323486946f5654fc30a5bfb17baace6b7e4c5904eb67fb9eb80c70fea376aeea52a52cccb48784ed1d693b1bd0b5d90444746d2a36a56812251adca846",
         "jwt_key": "df609f51fd5bb1c99b1dabeec07a45628006443b9c8b875f16f9f330578022d3c844a7aa99246fcde26e005c101c3b6939b322ad5dee67db6c38bea29a104e08",
-        "last_used_at": "2024-03-19T07:49:20.011158+00:00",
+        "last_used_at": "2024-03-19T11:26:29.265493+00:00",
         "last_used_ip": "192.168.20.51",
-        "expire_at": 1718610560.011158,
+        "expire_at": 1718623589.265493,
         "credential_id": "3f62df2d4b8840bab2ddfbe6a79d5cb8",
         "version": "2024.2.2"
       },
@@ -178,10 +178,27 @@
         "access_token_expiration": 1800.0,
         "token": "c0f6f9c5b1faa070832171c131472d087a8aede2c9370bc1aa93dd033abdeb43619c221e1cfa62e734b170a3f9c0da94c8acdef7742a67cdeafa7454c5efefcd",
         "jwt_key": "d372eb5b999add83d31fc8882a1c15d082888e24e6fc2f89cecd0fe978dfc99ba8f476b8747bc1406d5d21cc010ddd3056d8f52f248ad4d147dff83dc93ff4d2",
-        "last_used_at": "2024-03-19T08:29:18.989524+00:00",
+        "last_used_at": "2024-03-19T11:33:15.783021+00:00",
         "last_used_ip": "192.168.20.56",
-        "expire_at": 1718612958.989524,
+        "expire_at": 1718623995.783021,
         "credential_id": "3f62df2d4b8840bab2ddfbe6a79d5cb8",
+        "version": "2024.2.2"
+      },
+      {
+        "id": "8727ae7ec5ea4aa8917f4554d030a0c2",
+        "user_id": "c11fa2f7653c435eb08e07e3f952c573",
+        "client_id": null,
+        "client_name": "remote_ha",
+        "client_icon": null,
+        "token_type": "long_lived_access_token",
+        "created_at": "2024-03-19T11:36:24.556195+00:00",
+        "access_token_expiration": 315360000.0,
+        "token": "90e511101e09ef0eb7fa90c90fbaa8e1d088e0813f8b8af94b6c43b83fe0aae73c8f165a793d43f15ec5e76910628802165e0e94352b0ccabffbb63cb3c759e8",
+        "jwt_key": "fa6ea583852e0b35cf649148a3050e11e7da32b58554f9af60cd593b7a47b9a143f3a323911629aba464a6edeea5048d1059b828fa00586b4277c7d6d7ee648f",
+        "last_used_at": "2024-03-19T11:36:24.556580+00:00",
+        "last_used_ip": null,
+        "expire_at": null,
+        "credential_id": null,
         "version": "2024.2.2"
       }
     ]
