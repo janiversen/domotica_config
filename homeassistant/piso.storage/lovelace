@@ -63,10 +63,6 @@
                     },
                     {
                       "entity": "binary_sensor.remote_casa_shelly_flood_flood"
-                    },
-                    {
-                      "entity": "sensor.remote_connection_to_casa_8123",
-                      "name": "Internet"
                     }
                   ]
                 },
