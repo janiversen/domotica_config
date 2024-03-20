@@ -31,8 +31,8 @@ class triggers:
                 hass, [tracker[i]], partial(self.track_home, i)
             )
             self.jan_belen[i] = (self.hass.states.get(tracker[i]).state == "home")
-        self.hass.call_soon_threadsafe(self.set_home, 0)
-        self.hass.call_soon_threadsafe(self.set_home, 2)
+        self.hass.loop.call_soon_threadsafe(self.set_home, 0)
+        self.hass.loop.call_soon_threadsafe(self.set_home, 2)
 
     @callback
     def track_boiler(self, event) -> None:
