@@ -30,8 +30,9 @@ class triggers:
             async_track_state_change_event(
                 hass, [tracker[i]], partial(self.track_home, i)
             )
-            state = self.hass.states.get(tracker[i]).state
-
+            self.jan_belen[i] = (self.hass.states.get(tracker[i]).state == "home")
+        self.hass.call_soon_threadsafe(self.set_home, 0)
+        self.hass.call_soon_threadsafe(self.set_home, 2)
 
     @callback
     def track_boiler(self, event) -> None:
@@ -70,6 +71,10 @@ class triggers:
     def track_home(self, inx, event) -> None:
         """Track jan/belen in casa/piso/away."""
         self.jan_belen[inx] = (event.data["new_state"].state == "home")
+        self.set_home(inx)
+
+    def set_home(self, inx):
+        """Set home if so."""
         if inx < 2:
             offset = 0
             entity = "person.jan"
