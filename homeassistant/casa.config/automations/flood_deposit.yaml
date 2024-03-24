@@ -10,8 +10,8 @@ condition: []
 action:
   - service: notify.mail
     data:
-      title: deposito sale agua !!
-      message: Cerrar entrada de agua y limpiar.
+      title: Deposito tiene agua !!
+      message: Hay agua en el suelo de Deposito!
       target:
         - "jancasacondor@gmail.com"
 mode: single
