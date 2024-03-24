@@ -142,7 +142,7 @@
           "api_key": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqYW5jYXNhY29uZG9yQGdtYWlsLmNvbSIsImp0aSI6IjVjNzJjM2Q1LTlkY2YtNDFkNy1hOWEwLTM4ZTA3NjhiMTA4ZSIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNzA4MzM3MDU0LCJ1c2VySWQiOiI1YzcyYzNkNS05ZGNmLTQxZDctYTlhMC0zOGUwNzY4YjEwOGUiLCJyb2xlIjoiIn0.etOnS30-77nu9JyKxbtTOiPUIKh0Crf_f5uCL7k6F_I",
           "name": "AEMET",
           "latitude": 37.180450439453125,
-          "longitude": -3.604670493177939 
+          "longitude": -3.604670493177939
         },
         "options": {
           "station_updates": false
@@ -333,6 +333,39 @@
         "pref_disable_polling": false,
         "source": "user",
         "unique_id": "wundergroundpws-ILECRN2",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "6b333c650262c94123eb946f5753990b",
+        "version": 1,
+        "minor_version": 1,
+        "domain": "mobile_app",
+        "title": "Jan iPhone",
+        "data": {
+          "os_name": "iOS",
+          "app_data": {
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification",
+            "push_token": "c6GUNFpJfU5zkj3HSios4B:APA91bF4cvYDXVWTL6dJIS4bgaYYsVU3KKBw3Fdhw7pibcjOxE7UH-OWITYEliEK1fIgitu5wh9zIMsBm_d7lRiDSZGWR2QgIS4ILkPOMr_5apsQuscnkwgUX0eIPYZXmVZ8fZ2_EAAe"
+          },
+          "app_id": "io.robbie.HomeAssistant",
+          "device_id": "115A6CC2-20E8-407F-8571-0CE0A0CEF737",
+          "app_name": "Home Assistant",
+          "app_version": "2024.2 (2024.561)",
+          "device_name": "Jan iPhone",
+          "manufacturer": "Apple",
+          "model": "iPhone12,8",
+          "os_version": "17.3.1",
+          "supports_encryption": true,
+          "webhook_id": "5cba263be577e0d2ba56afcf153c77593a8d2a092bd492c3195f69f334750f2b",
+          "secret": "4d3779033aff8dc83803b3abbd5f42da41f7d5d79ce6fd270fb61789ed8f7403",
+          "user_id": "c11fa2f7653c435eb08e07e3f952c573",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-115A6CC2-20E8-407F-8571-0CE0A0CEF737",
         "disabled_by": null
       }
     ]

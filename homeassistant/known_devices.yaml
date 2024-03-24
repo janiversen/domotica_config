@@ -397,3 +397,10 @@ UNKNOWN_6:
   icon:
   picture:
   track: false
+
+UNKNOWN_7:
+  name: UNKNOWN_7
+  mac: 42:E3:9C:5B:F0:FE
+  icon:
+  picture:
+  track: false

@@ -262,8 +262,8 @@
       {
         "area_id": "living_room",
         "config_entries": [
-          "6a0008e6522780a10a9a120266b1de54",
-          "1bfd21675e2d2db97f6f82fcd64960f2"
+          "1bfd21675e2d2db97f6f82fcd64960f2",
+          "6a0008e6522780a10a9a120266b1de54"
         ],
         "configuration_url": null,
         "connections": [
@@ -292,6 +292,31 @@
         "name": "Samsung 7 Series (40)",
         "serial_number": null,
         "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "6b333c650262c94123eb946f5753990b"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "55d6540e34f9f9b932aaf61a77182bfb",
+        "identifiers": [
+          [
+            "mobile_app",
+            "115A6CC2-20E8-407F-8571-0CE0A0CEF737"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone12,8",
+        "name_by_user": null,
+        "name": "Jan iPhone",
+        "serial_number": null,
+        "sw_version": "17.3.1",
         "via_device_id": null
       }
     ],
